@@ -1,0 +1,83 @@
+List of mobile workstations
+
+These include high-performance portables such as the Apple MacBook Pro, HP ZBook, Dell Precision, and other high-end notebook computers.
+For laptops, please see portables and laptops.
+For netbooks or smaller notebooks, please see notebooks.
+
+-- Mobile workstations --
+
+Apple MacBook Pro 15" 2.2GHz Mid-2007 (MacBookPro3,1)
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Version: Haiku R1 Beta 1 (32-bit)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: I do not know what this means
+Boot options: Tried boot options
+Memory: 6GB
+CPU: Intel Core 2 Duo 2.2GHz (probably T7500 "Merom")
+GPU: NVIDIA GeForce 8600M GT with 128MB
+Additional notes (multi-line):
+    Does not boot Haiku from USB, you need to use a DVD drive or extract the disk and use another computer to install Haiku onto it. In my case, I must have screwed the boot loader stuff by having two SSDs with multiple partitions, so I ended up using a secondary SSD with an Haiku R1/Beta 1 32bit install image (written using dd) to boot the system (by pressing ALT and then choosing `Windows`) and the main drive to hold the partitions for both macOS and Haiku.
+    Sometimes, it requires two or three attempts before booting successfully, and turning on or off some boot options may help, but I could not find a pattern that would work every single time. Sometimes, the boot process seems to be frozen at the first icon, until I take out the cable of a USB mouse, then it boots. 
+    It uses VESA Graphics on the full internal display resolution and Wifi works OK.
+    Sometimes, though, it looses wifi connection and can only get back online by rebooting the system.
+    Audio output did not work in the beta, but if you update to a recent (64bit) nightly build, you can get loud audio output on earphones or external speakers.
+    The internal trackpad seems to be a bit ""nervous"", clicking in small targets may be a challenge, and there is no secondary button nor scroll. Using an external USB mouse worked perfectly.
+    There is no iSight camera, but I believe the internal microphone works.
+    Keyboard layout for my language (Portuguese) is a work in progress, as there are some keys that need to be reconfigured.
+    There is no keyboard backlight. The system is very stable overall.
+    I did see a few kernel panics occasionally, but I have been able to work for long hours without any problems.
+Contribution date: 11/29/2018 8:40:23
+Contributor: Victor Domingos
+
+Dell Latitude D500
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (32-bit)
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS
+Boot options: Tried boot options
+Memory: 1GB
+CPU: Pentium M @ 1.3Ghz
+GPU: intel 855 GM
+Sound card: Intel AC97
+Networking cards: Intel PRO/Wireless 2100
+Additional notes: In order to get it to boot to desktop you need to enable failsafe graphics on the boot options. Sound does not seem to work.
+Contribution date: 11/27/2018 1:44:00
+
+HP OMEN by HP 15-ce000
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 16 GB
+CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+GPU: Nvidia GeForce GTX 1060 with Max-Q Design/PCIe/SSE2
+Sound card: Intel Corporation CM238 HD Audio Controller
+Networking cards: Realtek Semiconductor Co., Ltd. Device b822
+Additional notes (multi-line):
+- On first boot everything OK, but after first update, every time I hotplugged a standard USB mouse or a Wacom tablet, I got a kernel panic.
+- Both webcams (common and infra-red) didn't work.
+- Screen works in native resolution (1920x1080) but I don't know if it works in 120 Hz or just 60 Hz.
+- Wi-Fi card wasn't detected, but Ethernet worked.
+- Screen brightness didn't work. Speakers and audio jacks worked.
+- Bluetooth and SD card reader wasn't tested.
+Contribution date: 11/28/2018 19:10:35
+
+ThinkPad T440P (Quad-core i7, 16GB of RAM, GeForce GT 730 @ 900p resolution)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 16GB DDR3
+CPU: Intel Core i7-4600M
+GPU: NVIDIA GeForce GT 730M 
+Sound card: Intel Corporation 8 Series/C220 Series Chipset High Definition Audio Controller
+Networking cards: Intel Corporation Wireless 7260
+Additional notes (multi-line):
+    Added note for 900p per request on the Haiku forum.
+    Wireless gets stuck on ‘Connecting’ after closing and opening the lid. A restart fixes it, but that's not opimal, so I'll provide any debugging help that's needed for developers.
+    Right click does not work with the stock touchpad.
+    Also, I have not tested the DVD drive.
+Contribution date: 11/19/2018 17:26:13
+Contributor: Xylobol (xylo on the forums)

@@ -1,0 +1,270 @@
+This list does NOT cover notebooks, tablets, or mobile workstations!
+
+    Smaller portables, such as netbooks, cloudbooks, and ultrabooks are on the Notebooks page.
+    Portables designed for high performance are listed in the Mobile Workstation category.
+    Convertible machines and tablets are on the Mobile page.
+
+-- General portables or Laptops --
+
+Acer aspire one d270
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 2GB
+CPU: Intel atom
+GPU: Intel
+Contributor: Not listed
+
+ASUS U50A
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Nightly 64-bit (hrev51498)
+Boot options: Not used/undiscovered (for info, see the guide)
+Additional notes: Everything works (sound, wifi, video)
+Contributor: Kevin Adams
+
+asus x554la xo1236h
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup medium: USB flash drive
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 4GB
+CPU: Intel i3-5005u 2.0GHz
+GPU: Intel HD Graphics 5500
+Networking cards: Atheros AR956X
+Contributor: Aksenov
+
+Dell Latitude E6400
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Nightly 64-bit (hrev51798)
+Started with: EFI (by choice), from USB flash drive
+Memory: 4 GB
+CPU: 2.26GHz Intel Core 2 Duo P8400
+GPU: Nvidia Quadro NVS 160M
+Sound card: Intel
+Networking cards: Intel Wireless WiFi Link 4965AGN (802.11a/g/n)
+Additional notes: (None)
+Contributor: Peter
+
+Dell Inspiron 15-3565
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku Beta 1 RC or later
+Started with: Legacy BIOS
+Startup media: USB flash drive
+Memory: 12GB DDR4
+CPU: AMD E2-7th Gen
+GPU: AMD Radeon R2-7th Gen
+Networking cards: Intel 3165
+Additional notes: Webcam & Trackpad's *right-click* is the only apparent non functional device.
+Contributor: N. T. Crotser
+
+fujitsu lifebook c1410
+Rating: Kind of works (gets to the Desktop, but barely; half of things or greater don't work)
+Version: Haiku R1 Beta 1 (32-bit)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: Tried boot options
+Memory: 2.5GB
+CPU: Intel T5500
+GPU: Intel GMA950
+Sound card: RealTek ALC260 
+Networking card: Intel Pro/Wireless 3945ABG
+Additional notes: Boot option VESA mode, No WiFi, No Audio, No keyboard. Only Ethernet is working.
+Contributor: Aksenov
+
+HP Pavilion B&O
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: Tried boot options
+Memory: 8 GB
+CPU: Intel Core i5-6200U CPU 2.3GHz
+GPU: Intel HD graphics 520/Nvidia Geforce 940M
+Sound card: Realtek HD Audio
+Networking card: Broadcom BCM43142
+Additional notes (multi-line):
+  you need to tweak the boot options to use safe graphics mode to make HP run.
+  Ethernet works no WIFI, Mediaserver needs to restart to get Sound sometimes
+Contributor: Anonymous contributor
+
+HP Pavilion G6
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Networking card: Ethernet: RTL8101/2/6E PCI Express Fast Ethernet controller; Wireless: RT5390 Wireless 802.11n 1T/1R PCIe
+Additional notes (multi-line):
+    Wireless device ralinkwifi shows up in Networking preferences. Can’t connect, no wireless networks found. My other laptops, other wireless devices connect fine w/R1/Beta1.
+    FreeBSD shows driver working since 2013. Wifi on this laptop is working in OpenBSD, sorry, I don’t run FreeBSD at this time, working on it soon. Works great so far.
+Contributor: bullfrog
+
+Lenovo X1 Carbon 3rd Generation
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive
+Started with: I do not know what this (BIOS/EFI) means
+Memory: 8GB
+CPU: Intel Core i5
+GPU: Intel
+Contributor: Anonymous contributor
+
+Lenovo R61
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup medium: USB flash drive
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 4 (GB)
+CPU: Intel T7300 Core 2 Duo
+GPU: Intel PM965
+Networking card: Intel PRO Wireless 3945ABG
+Contributor: Anonymous contributor
+
+Lenovo X61s
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup medium: Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 8GB
+CPU: 1.4ghz Core 2 Duo LV L7300
+GPU: Intel X3100
+Networking card: Intel Pro Wireless 4965
+Contributor: Knez
+
+Lenovo X220
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup medium: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 16GB
+CPU: 2.5Ghz Intel Core i5 2520M
+GPU: Intel HD Graphics 3000
+Sound card: Intel HD Audio
+Networking card: Atheros AR9280
+Additional notes: Everything works except sound.
+Contributor: Knez
+
+Lenovo Thinkpad x200s
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Nightly 64-bit (Unlisted hrev, February 2018)
+Additional notes: Pick the 1280x800 version, the 1440 have graphics glitches
+Contributor name: miqlas
+
+Lenovo Thinkpad x200s
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Nightly 64-bit (Unlisted hrev, February 2018)
+Additional notes: Pick the 1280x800 version, the 1440 have graphics glitches
+Contributor name: miqlas
+
+Lenovo ThinkPad X220
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI (by choice)
+Boot options: Did not try boot options
+Memory: 8GB
+CPU: i5-2520M
+GPU: Intel HD3000
+Sound card: Conexant 20672
+Networking card: Intel N 6205
+Contributor: Bartek
+
+ThinkPad X230
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup medium: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 8gb
+CPU: Intel Core i7-3520M
+GPU: Intel HD Graphics 4000
+Networking cards: Intel 7-Series HD Audio, Intel Wireless-AC 7260
+Additional notes (multi-line):
+  The wireless card in this machine is not a stock one, however, the stock Wifi was also Intel, and also worked just fine.
+  I’m really surprised at how well this machine works, I’m really only missing out on the fingerprint reader and the camera.
+  Both legacy and EFI boot just fine on this hardware, I just use EFI as everything else on this machine is also EFI.
+Contributor: Anonymous contributor
+
+Lenovo ThinkPad E550
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup medium: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Tried boot options
+Memory: 8GB
+CPU: i3-5005U
+GPU: Intel HD 5500
+Sound card: Conexant HDA
+Networking card: Intel Dual Band 7265D
+Additional notes (multi-line):
+  Might need to warm reboot (from another OS) to get working HDA. 
+  WiFi works great; BIOS has a way to disable XHCI and fall back to UHCI. Legacy BIOS boot works also.
+Contributor: waddlesplash
+
+Lenovo Z50-70
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup medium: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 8 GB
+CPU: Intel I7-4510U
+GPU: Dual graphics (Intel Haswell and Nvidia GeForce)
+Networking cards: Atheros (not sure exact model). Realtek Ethernet.
+Additional notes (multi-line):
+    WiFi works surprisingly well.
+    In general the system works ok, screen resolution at 1920x1080 is perfect.
+    Sound works well, but very unreliable microphone input (worked very poorly when run from BIOS, didn’t work at all from EFI).
+    Only detects integrated Intel graphics (to be expected).
+    Some erratic behaviour e.g. USB mouse stopped working randomly (had to use trackpad - two finger scrolling supported!) but worked on reboot.
+    Camera not detected.
+    Web browser prone to crashes.
+    Uses about 1GB of RAM when browsing the web with YouTube.
+    In conclusion, not too bad actually - quite impressive. This comment was uploaded from Haiku itself.
+Contributor: RaviC
+
+MSI Ghost (GS60)
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started from: EFI (by choice)
+Boot options: Did not try boot options
+Memory: 16GB
+CPU: Intel Core i7-4700HQ
+GPU: Nvidia GeForce GTX 860M + Intel Integrated Graphics
+Additional notes: Installed and booted with no issues. Uses VESA video driver, and sound+WiFi were detected by default. Trackpad works reasonably well.
+Contributor: Anonymous contributor
+
+Toshiba satellite L655 PSK1EE
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 3GB
+CPU: Core i3 350M
+GPU: Intel HD graphics 1st gen (ironlake)
+Sound card: Toshiba integrated
+Networking cards: BCM 4313 wi-fi
+Additional notes: Sound didn't work at all and when outputting to an external display via the VGA port, the video signal is very fuzzy
+Contribution date: 11/25/2018 12:44:17
+
+Toshiba satellite L300 11G
+Version: Haiku Nightly: 32-bit (hrev52547)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 3GB
+CPU: Intel Pentium T2370
+GPU: Intel integrated GMA
+Sound card: Toshiba integrated
+Networking cards: Realtek RTL8187B
+Additional notes (multi-line):
+    Wi-fi didn't work, webcam didn't work, and keyboard macros didn't work (and a phone modem was present but wasn't detected by the OS, but who uses dialup anyways lol).
+    Otherwise a great machine if you don't mind the WiFi (and yes, I have tried installing the proprietary WiFi drivers).
+Contribution date: 11/25/2018 13:04:35

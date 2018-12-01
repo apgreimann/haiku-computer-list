@@ -1,0 +1,87 @@
+List of notebooks
+
+Asus Eee PC 901
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku Nightly: 32-bit
+Startup media: External optical drive (CD/DVD media) for previous nightly, then updated to Beta1 through Terminal
+Started with: Legacy BIOS
+Memory: 2039 MiB
+CPU: Intel Atom 1.60 GHz
+GPU: Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller
+Sound card: NM10/ICH7 Family High Definition Audio Controller
+Networking card: Ralink RT2790 Wireless 802.11n 1T/2R PCIe
+Contributor: Anonymous contributor
+
+Acer Aspire One D269
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1
+Startup media: External SSD or hard drive
+Started with: Legacy BIOS
+Boot options: I didn't know there were boot options
+Memory: 1gb
+Additional notes: This is a netbook. Wasn't sure which category to pick.
+Contributor: Anonymous contributor
+
+Acer Aspire One D250
+Version: Haiku R1 Beta 1 (32-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: Tried boot options
+Memory: 1 GB
+CPU: Intel Atom N270
+Contributor: Anonymous contributor
+
+Lenovo x140e Type 20BL-S00900
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (32-bit)
+Startup media: Internal SSD or hard drive (imaged or installed); USB media
+Started with: Legacy BIOS
+Memory: 8GB
+CPU: AMD A4-5000
+GPU: Radeon HD 8330
+Sound card: HD Audio - Realtek ALC3202
+Networking card: Intel 7260AC FRU:04W3814 
+Additional notes (multi-line):
+  Comes with a Windows 8 Pro license embedded useually.
+  use this to update the BIOS, so you can install the upgraded wifi card that works with Haiku.
+  USB bot works, installing to SATA SSD/HDD works.
+  Except for ACPI Buttons/backlight control etc.. 100% functional once the wifi is swapped.
+  Browsers are usable but a little laggy, native and QT apps run well though on this 1.5Ghz quad core.
+Contributor: cb88
+
+Lenovo x131e
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: Internal SSD or hard drive (imaged or installed); USB media
+Started with: EFI on (by choice)
+Memory: 8GB
+CPU: AMD E2-1800 1.7Ghz dual core
+GPU: Radeon HD 7340
+Sound card: HD Audio - Realtek ALC3202
+Networking card: Realtek RTL8188CE (works with UEFI only must disable CSM)
+Additional notes (multi-line):
+  The WiFi is the catching point on this one, it only ever worked for me with CSM disabled in the BIOS.
+  the x140e + upgraded BIOS + swapped to intel wifi is a much better laptop.
+  If you get one of these cheap it's nice though only a dual core.
+  Also I've ran 16GB of ram in these, the x140e probably supports 32GB.
+Contributor: cb88
+
+HP Mini 110-3500
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Somewhat okay (i.e. the display works, but there’s no sound or mouse)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 1GB
+CPU: Intel Atom D4xx/D5xx (1.5GHz)
+GPU: Integrated Graphics (Intel Atom)
+Sound card: Intel HDA
+WiFi: Atheros 2011 (integrated)
+Ethernet: Realtek
+Additional notes  (multi-line):
+  Boots up very quickly and fast to use. No WiFi support.
+  Trackpad and USB mouse work, graphics work well.
+  No sound when playing an MP3 file, unable to test other sources of audio due to lack of internet access.
+  Microphone and camera not recognised.
+Contributor: Anonymous contributor

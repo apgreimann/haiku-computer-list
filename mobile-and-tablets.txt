@@ -1,0 +1,14 @@
+Surface Pro 4
+Rating: Kind of works (gets to the Desktop, but barely; half of things or greater don't work)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup medium: USB flash drive
+Started with: EFI (no legacy/CSM support is available on this machine)
+Boot options: Tried boot options
+Memory: 8GB
+CPU: Intel Core i5-6300U
+GPU: Intel HD Graphics 520
+Additional notes (multi-line):
+- Wi-Fi, Bluetooth, touch, pen, ACPI and NVMe Controller (SSD) don't work.
+- Requires "enable serial debug output" (weird timing issue) and "failsafe graphics mode" enabled to boot.
+- You need to increase font sizes to be able to see anything on the screen.
+Contributor: ksiazkowicz

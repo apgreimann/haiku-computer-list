@@ -1,0 +1,12 @@
+HP T5720
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader) 
+Version: Haiku R1 Beta 1
+CPU: Transmeta Efficieon
+Memory: 1GB
+Additional notes (multi-line): 
+  it can boot Haiku from USB and do simple tasks,
+  web browsing is possible but is pushing it, Netsurf would be fine for this PC.
+  If you use a CF to IDE adapter you can upgrade the storage of this PC easily or put an IDE HDD/SSD in it.
+  I would lean toward an HDD as it will survive disk swapping better.
+  It is very low power… I intend to use it as an always on IRC box.
+Contributor: cb88

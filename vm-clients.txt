@@ -1,0 +1,24 @@
+VirtualBox 5.2 (macOS)
+Haiku version: Haiku R1 Beta 1 (64-bit)
+VM client: Oracle VirtualBox 5.2 (Mac version on macOS; hosted on Apple MacBook Pro)
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS
+Contributor: apgreimann
+
+VMware Fusion
+Haiku version: Haiku R1 Beta 1 (64-bit)
+VM client: VMware Fusion
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Contribution date: 11/26/2018 17:44:40
+Contributor: Not listed
+
+Unknown VM client
+Haiku version: February 2018 (Nightly 64-bit)
+Boot options: Not used/undiscovered (for options, see the guide)
+VM client: Unknown (host submitted as a HP Pavilion laptop)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Additional comments: I ran Haiku inside a virtual machine with 1 out of 8 CPUs and 1024 gb ram
+Contributor: Not listed

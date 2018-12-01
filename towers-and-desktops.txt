@@ -1,0 +1,118 @@
+This covers traditional towers and desktops.
+
+For other hardware types (such as all-in-one desktops like the iMac)...
+
+  All-in-one desktops are listed on their own place: All-in-Ones.
+  Custom hardware is listed on its own separate page.
+  Thin clients are listed on their own page.
+
+-- Traditional towers/desktops --
+
+Apple Mac mini (A1176, 2007 model, Core2Duo)
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (no legacy/CSM support is available on this machine)
+Boot options: Tried boot options
+Memory: 1 GB
+CPU: 2ghz Intel Core 2 Duo
+Additional notes (multi-line):
+- Had to use safe video mode to get it to boot past the splash screen.
+- Ethernet and WiFi both appear to work (I'm using ethernet and it works, wifi is listing networks so assuming it's working).
+- Haven't been able to test sound so it may or may not work yet.
+Contribution date: 11/19/2018 16:08:09
+
+Acer Aspire R3600
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: hrev51795 (Nightly 32-bit and/or gcc2)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Startup with: Legacy/BIOS
+Boot options: Used (for info, see the guide)
+Memory: 1800 MB
+CPU: Intel Atom 1,60 GHz
+Networking cards: Atheros AR5BXB63
+Contributor name: Jens
+
+Dell Optiplex GX 280
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Version: Other (Haiku Vintage; Alpha 4 or earlier)
+Startup medium: USB (external) optical drive (CD/DVD media)
+Started from: Legacy BIOS
+Additional notes: Only needs a suitable video card to get something on screen. The rest all works.
+Contributor: Anonymous contributor
+
+Dell Inspiron 531
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS
+Boot options: I didn't know there were boot options
+Memory: 4GB
+CPU: Athlon 64 X2 3800+
+GPU: Nvidia GeForce 8400 GS
+Sound card: Nvidia MPC61 HD Audio (rev a2)
+Networking cards: Nvidia MCP61 Ethernet (rev a2)
+Contributor: Anonymous contributor
+
+Lenovo (missing model!)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku Nightly (32-bit and/or gcc2)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Startup with: Legacy/BIOS
+Boot options: Used (for info, see the guide)
+Memory: 4 (GB)
+CPU: Unknown
+Networking cards: Unknown
+Contributor name: Anonymous contributor
+
+Lenovo ThinkCentre E73
+Version: Haiku Nightly: 32-bit (hrev52547)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: USB flash drive 
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 4GB
+CPU: Core i3 4160 @ 3.6 GHz
+GPU: Integrated HD4000
+Sound card: Integrated Lenovo
+Networking cards: None (wireless)
+Additional notes (multi-line):
+    Worked like a charm, tho the error with the Lenovo mice did persist.
+    One slight problem is that the display would sometimes change to 8bit colour when booting and when exiting full screen applications.
+    I’d like to thank my school, AlMurooj School AbuDhabi for providing me both the ThinkCentre E63z I filled out earlier (so credit them on that too plz) and the E73
+Contribution date: 11/26/2018 7:23:57
+Contributor: AlMurooj School AbuDhabi
+
+Lenovo ThinkCentre E63z
+Version: Haiku Nightly: 32-bit (hrev52547)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive 
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 4GB
+CPU: Intel Core i3-4005U (1.7GHz)
+GPU: Integrated HD4000
+Sound card: Integrated Lenovo
+Networking cards: (Didn't test WiFi)
+Additional notes (multi-line):
+    Ethernet works.
+    There is a weird issue with Lenovo mice where they'd randomly turn off in haiku os
+    No 3D rendering.
+    Wrong screen resolution is detected at boot 
+    I’d like to thank my school, AlMurooj School AbuDhabi for providing me both the ThinkCentre E63z I filled out earlier (so credit them on that too plz) and the E73
+Contribution date: 11/26/2018 7:15:01
+Contributor: AlMurooj School AbuDhabi
+
+HP DC7800SFF (Small Form Factor)
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: I didn’t know there were boot options
+Memory: 1.5 GB (worked fine, also tried with 2 gigs, also worked fine)
+CPU: Intel core 2 duo q6600
+GPU: SAPPHIRE AMD RADEON HD5450
+Sound card: Integrated HP (internal)
+Networking cards: (None)
+Additional notes: Opengl may not work when booting from usb, but after I installed, ppsspp worked perfectly
+Contributor: Anonymous contributor

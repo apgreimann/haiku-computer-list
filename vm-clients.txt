@@ -1,7 +1,7 @@
 VirtualBox 5.2 (macOS)
 Haiku version: Haiku R1 Beta 1 (64-bit)
 VM client: Oracle VirtualBox 5.2 (Mac version on macOS; hosted on Apple MacBook Pro)
-Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Startup media: Internal SSD or hard drive (imaged or installed)
 Started with: Legacy BIOS
 Contributor: apgreimann

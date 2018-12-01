@@ -1,0 +1,15 @@
+Workstations and servers generally denote machines dedicated to serving content or doing serious production tasks; they usually are equipped with high-end AMD or Intel processors, such as the Xeon series, and are usually designed to house an array of I/O. Examples include the Apple XServe, HP ProLiant, and Dell PowerEdge.
+
+HP Z2 Small Form Factor G4 Workstation
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup medium: USB flash drive
+Started from: EFI (by choice)
+Startup options: Yes, I tried this
+Memory: 16 GB
+CPU: Intel Xeon E-2176G Processor
+GPU: Intel UHD Graphics P630
+Sound card: Conexant CX20632 5.1 HD Audio
+Networking cards: Intel Ethernet Server I350-T2 2 Port 1 GB , Intel Wireless-AC 9560 (2x2) MU-MIMO
+Additional notes: Use fail-safe video driver
+Contributor: cocobean

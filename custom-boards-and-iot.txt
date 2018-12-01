@@ -1,0 +1,61 @@
+These are custom machines, customized boards, and standalone IoT machines, such as the Intel Next Unit of Computing (NUC) or the Raspberry Pi
+(currently not fully supported by the Haiku OS).
+
+Asrock Fata1ity gaming/ITX board
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1
+CPU: Ryzen 1700x
+GPU: Vega FE
+Memory: 16GB ram
+Additional notes: only boots with 4GB limit enabled in bootloader + failsafe video, its rediculously fast though for a Haiku box. Built in Wifi works as it’s a compatible intel chipset, ethernet works.
+Contributor: cb88
+
+COCO T100
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Startup medium: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Tried boot options
+Memory: 32GB RAM
+CPU: AMD Ryzen Threadripper 2950X
+GPU: nVidia Quadro FX 5500
+Sound card: Realtek ALC1220 Audio
+Networking cards: Intel AC 8265 Wifi, Intel I211AT Gb LAN, AQUANTIA AQC107 10Gb LAN
+Additional notes: Use fail-safe VESA driver for modern video cards. Some X399 motherboards have 10Gb LAN hardware requiring driver support.
+Contributor: COCOBEAN
+
+HomeBrew machine
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Version: Haiku Nightly (64-bit) 52394
+Startup medium: USB flash drive
+Started from: Legacy BIOS
+Boot options: Yes, I tried this
+Memory: 8 GB
+CPU: Ryzen 5 2400G
+GPU: Radeon RX Vega 11
+Additional notes: Only 4GB usable. Only VESA graphics. USB problems
+Contributor: Anonymous contributor
+
+HomeBrew machine
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Version: Haiku Nightly (64-bit) 52394
+Startup medium: USB flash drive
+Started from: Legacy BIOS
+Boot options: Yes, I tried this
+Memory: 16 GB
+CPU: AMD A8-5600K
+GPU: AMD Radeon RX560
+Networking cards: Realtek Network
+Additional notes: Network speed too slow. VESA needed due to Ultrawide display. No sound through DP
+Contributor: Anonymous contributor
+
+Intel NUC
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup medium: USB flash drive, External SSD or hard drive
+Started from: Legacy BIOS 
+Boot options: Did not try boot options
+Memory: 8 GB
+CPU: Intel i3
+GPU: Intel 620
+Contributor: Anonymous contributor

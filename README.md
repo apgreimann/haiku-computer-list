@@ -9,7 +9,19 @@ or write your info manually per the template in the [computer list thread](https
 
 ## Hardware types
 
-- To be filled out once they're all sorted...
+As listed on the *Add Haiku hardware* form, these are the different hardware types, browsable above. You can view the current lists
+by opening the files above, or use GitHub's search to look for a particular make, model, or year.
+
+* Custom built machine, board, or Intel NUC, etc.
+* Server/Workstation (i.e. HP ProLiant)
+* Desktop/Tower (i.e. Lenovo ThinkCentre)
+* Modern/All-in-One Desktop (i.e. iMac, HP Pavilion AIO)
+* Mobile Workstation (Z/EliteBook, ThinkPad, Dell Precision, MacBook Pro, etc.)
+* Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+* Notebook, ultrabook, net/cloudbook (i.e. MacBook Air, Lenovo X1 Carbon, HP Stream 11; thin, light)
+* Tablet PC and/or tablet convertible (i.e. Pavilion x360, Lenovo Yoga, HP Stream 7)
+* Thin Client (i.e. HP t630) or Mobile/IoT (i.e. Raspberry Pi)
+* Virtual machine or virtualization client (if so, please mention which VM in 'make and model')
 
 ### Thanks for reading!
 

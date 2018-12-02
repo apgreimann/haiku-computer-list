@@ -67,6 +67,16 @@ Additional notes (multi-line):
   Also I've ran 16GB of ram in these, the x140e probably supports 32GB.
 Contributor: cb88
 
+Lenovo Thinkpad X301
+Version: Haiku R1 Beta 1 (64-bit)
+Notebook, ultrabook, net/cloudbook (i.e. MacBook Air, Lenovo X1 Carbon, HP Stream 11; thin, light)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS
+Memory: 2 GB
+Additional notes: Works great, needs faster Disk (SSD) (1.8") and more RAM
+Contribution date: 11/30/2018 14:06:12
+
 HP Mini 110-3500
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Somewhat okay (i.e. the display works, but there’s no sound or mouse)

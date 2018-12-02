@@ -24,6 +24,21 @@ Networking cards: Intel AC 8265 Wifi, Intel I211AT Gb LAN, AQUANTIA AQC107 10Gb 
 Additional notes: Use fail-safe VESA driver for modern video cards. Some X399 motherboards have 10Gb LAN hardware requiring driver support.
 Contributor: COCOBEAN
 
+Custom
+Version: Haiku Nightly: 32-bit	rev52597
+Custom built machine, board, or Intel NUC, etc.
+Excellent (everything works... except maybe the camera or fingerprint reader)
+Contributor: Luctis
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 2048 MB
+CPU: AMD Sempron 3000+
+GPU: Nvidia Gforce FX5500
+Sound card: AC97 integrated	
+Additional notes: My DVDRAM GH24GNS95 Doesn't burn CD's
+Contribution date: 11/30/2018 17:36:34
+
 HomeBrew machine
 Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
 Version: Haiku Nightly (64-bit) 52394

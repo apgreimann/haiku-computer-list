@@ -48,6 +48,25 @@ Networking cards: Intel Wireless WiFi Link 4965AGN (802.11a/g/n)
 Additional notes: (None)
 Contributor: Peter
 
+Dell Latitude D530
+Version: Haiku R1 Beta 1 (32-bit)
+Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Contributor: andrew342003
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 2GB
+CPU: Intel Core 2 Duo T7250
+GPU: Intel Mobile 965
+Sound card: SigmaTel High Definition Audio
+Networking cards: Wifi - Intel Pro 3945ABG. Ethernet Broadcom 5700
+Additional notes (multi-line):
+OS did not boot unless both the 1394/Firewire & Internal PCMCIA cardbus controller was disabled in BIOS
+attempting to boot with these enabled caused a kernel panic.
+(Cardbus controller - O2Micro OZ711EZ1/MZ1, 1394 controller unknown)
+Contribution date: 12/1/2018 6:59:14
+
 Dell Inspiron 15-3565
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku Beta 1 RC or later
@@ -74,6 +93,21 @@ Networking card: Intel Pro/Wireless 3945ABG
 Additional notes: Boot option VESA mode, No WiFi, No Audio, No keyboard. Only Ethernet is working.
 Contributor: Aksenov
 
+HP ENVY Laptop - 17t
+Version: Haiku R1 Beta 1 (64-bit)
+Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Contributor: François
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 16 GB
+CPU: 8th Generation Intel® Core™ i7 processor
+GPU: NVIDIA® GeForce® MX150 (2GB)
+Sound card: Bang & Olufsen, dual speakers, HP Audio Boost 2.0 with discrete amplifier
+Networking cards: Intel® 802.11b/g/n/ac (2x2) Gigabit Wi-Fi® and Bluetooth® 5 Combo
+Contribution date: 11/29/2018 18:17:42
+
 HP Pavilion B&O
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
@@ -95,6 +129,7 @@ Version: Haiku R1 Beta 1 (64-bit)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Networking card: Ethernet: RTL8101/2/6E PCI Express Fast Ethernet controller; Wireless: RT5390 Wireless 802.11n 1T/1R PCIe
 Additional notes (multi-line):
+    No sound or wifi as tested. Camera untested as well.
     Wireless device ralinkwifi shows up in Networking preferences. Can’t connect, no wireless networks found. My other laptops, other wireless devices connect fine w/R1/Beta1.
     FreeBSD shows driver working since 2013. Wifi on this laptop is working in OpenBSD, sorry, I don’t run FreeBSD at this time, working on it soon. Works great so far.
 Contributor: bullfrog
@@ -173,7 +208,7 @@ Sound card: Conexant 20672
 Networking card: Intel N 6205
 Contributor: Bartek
 
-ThinkPad X230
+Lenovo ThinkPad X230
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Startup medium: Internal SSD or hard drive (imaged or installed)
@@ -238,6 +273,25 @@ CPU: Intel Core i7-4700HQ
 GPU: Nvidia GeForce GTX 860M + Intel Integrated Graphics
 Additional notes: Installed and booted with no issues. Uses VESA video driver, and sound+WiFi were detected by default. Trackpad works reasonably well.
 Contributor: Anonymous contributor
+
+Toshiba Satellite A100-033
+Version: Haiku R1 Beta 1 (32-bit)
+Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Contributor: Andrew342003
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS
+Boot options: I didn't know there were boot options
+Memory: 2GB
+CPU: Intel Pentium T2300
+GPU: Intel GMA i945GM
+Audio card: Realtek
+Networking cards: Atheros AR5006EG
+Additional notes (multi-line):
+SD Card reader did not work
+System also does not shutdown correctly (System remains on with a blank screen)
+Windows boot loader used with EasyBCD
+Contribution date: 11/30/2018 7:43:00
 
 Toshiba satellite L655 PSK1EE
 Version: Haiku R1 Beta 1 (64-bit)

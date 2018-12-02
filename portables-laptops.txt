@@ -129,7 +129,7 @@ Version: Haiku R1 Beta 1 (64-bit)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Networking card: Ethernet: RTL8101/2/6E PCI Express Fast Ethernet controller; Wireless: RT5390 Wireless 802.11n 1T/1R PCIe
 Additional notes (multi-line):
-    No sound or wifi as tested. Camera untested as well.
+    No sound or wifi as tested. Camera untested.
     Wireless device ralinkwifi shows up in Networking preferences. Can’t connect, no wireless networks found. My other laptops, other wireless devices connect fine w/R1/Beta1.
     FreeBSD shows driver working since 2013. Wifi on this laptop is working in OpenBSD, sorry, I don’t run FreeBSD at this time, working on it soon. Works great so far.
 Contributor: bullfrog

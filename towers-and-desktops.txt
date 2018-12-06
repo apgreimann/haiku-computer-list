@@ -116,3 +116,17 @@ Sound card: Integrated HP (internal)
 Networking cards: (None)
 Additional notes: Opengl may not work when booting from usb, but after I installed, ppsspp worked perfectly
 Contributor: Anonymous contributor
+
+HP DC5800 Microtower
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: USB flash drive
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 8 Gig
+CPU: Core 2 Duo  @ 3 gig
+GPU: Radeon HD 5450 Cedar
+on board sound|ipro1000/0
+Contributor: rosborne
+Contribution date: 12/3/2018 8:27:49
+Additional notes: One thing that I found out was that certain video cards will break sound.

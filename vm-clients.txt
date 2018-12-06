@@ -1,10 +1,17 @@
-VirtualBox 5.2 (macOS)
+Oracle VirtualBox 5.2 (macOS)
 Haiku version: Haiku R1 Beta 1 (64-bit)
-VM client: Oracle VirtualBox 5.2 (Mac version on macOS; hosted on Apple MacBook Pro)
-Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
-Startup media: Internal SSD or hard drive (imaged or installed)
+VM client: Oracle VirtualBox 5.2 (for macOS)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
 Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 1 GB
+CPU: Intel Core 2 Duo (from host; 2007 MacBook Pro)
+GPU: Standard VirtualBox/Innotek graphics adapter (host machine: nVidia GeForce 8600m-gt)
+Sound card: ICH AC97 (on CoreAudio)
+Networking cards: Intel Pro/1000 MT Desktop 82540em (Network shows ipro1000 in Haiku)
 Contributor: apgreimann
+Contribution date: 12/2/2018 8:33:36
 
 VMware Fusion
 Haiku version: Haiku R1 Beta 1 (64-bit)

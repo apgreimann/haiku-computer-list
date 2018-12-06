@@ -21,7 +21,7 @@ by opening the files above, or use GitHub's search to look for a particular make
 * Notebook, ultrabook, net/cloudbook (i.e. MacBook Air, Lenovo X1 Carbon, HP Stream 11; thin, light)
 * Tablet PC and/or tablet convertible (i.e. Pavilion x360, Lenovo Yoga, HP Stream 7)
 * Thin Client (i.e. HP t630) or Mobile/IoT (i.e. Raspberry Pi)
-* Virtual machine or virtualization client (if so, please mention which VM in 'make and model')
+* Virtual machine or virtualization client (sorted by vendor)
 
 ### Thanks for reading!
 

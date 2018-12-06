@@ -6,6 +6,26 @@ For netbooks or smaller notebooks, please see notebooks.
 
 -- Mobile workstations --
 
+Apple MacBook Pro (Early 2011, 15.6”)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS
+Boot options: Tried boot options
+Memory: 9 GB
+CPU: Intel i7 2635QM “Sandy Bridge” (2 GHz, quad-core; 8 virtual cores; turbo up to 2.9, 6 MB SmartCache)
+GPU: AMD Radeon HD 6490m (dedicated); Intel HD graphics 3000 (integrated)
+Sound card: Built-in Apple audio (as listed in Apple’s System Profiler)
+Networking cards: AirPort Extreme (Broadcom bcm4331), Ethernet (bcm57765)
+Contributor: apgreimann
+Contribution date: 12/2/2018 8:25:02
+Additional comments (multi-line):
+    Preinstall Haiku 64-bit on a compatible PC, then put it inside the Mac.
+    AirPort (WiFi) does not work under Haiku; Ethernet works great.
+    Sound does not work; tested with speakers and audio out.
+    Key and screen brightness do not work.
+    Resolution was set at 1152x768.
+
 Apple MacBook Pro 15" 2.2GHz Mid-2007 (MacBookPro3,1)
 Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
 Version: Haiku R1 Beta 1 (32-bit)

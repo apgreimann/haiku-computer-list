@@ -126,7 +126,8 @@ Boot options: Did not try boot options
 Memory: 8 Gig
 CPU: Core 2 Duo  @ 3 gig
 GPU: Radeon HD 5450 Cedar
-on board sound|ipro1000/0
+Sound card: on board sound
+Networking card: ipro1000/0
 Contributor: rosborne
 Contribution date: 12/3/2018 8:27:49
 Additional notes: One thing that I found out was that certain video cards will break sound.

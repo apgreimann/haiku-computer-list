@@ -1,3 +1,16 @@
+HP Spectre X360 PC 13
+Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: USB (external), optical drive (CD/DVD media)
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 8 GB
+CPU: Intel i7
+GPU: Intel HD Graphics 5500
+Contribution date: 12/6/2018 12:32:18
+Contributor: John Goold (JRG)
+Additional notes: Go into BIOS settings and look for ‘USB 3.0 Configuration in Pre-OS’ and change the factory setting of ‘Enabled’ to ‘Auto’.
+
 Surface Pro 4
 Rating: Kind of works (gets to the Desktop, but barely; half of things or greater don't work)
 Version: Haiku R1 Beta 1 (64-bit)

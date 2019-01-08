@@ -39,6 +39,21 @@ Sound card: AC97 integrated
 Additional notes: My DVDRAM GH24GNS95 Doesn't burn CD's
 Contribution date: 11/30/2018 17:36:34
 
+Dell Optiplex 745 with Geforce 9300 GE
+Version: Haiku R1 Beta 1 (32-bit; gcc2)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Contributor: XD3l
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 4Gb
+CPU: Intel Core2 Quad Processor Q6600
+GPU: Geforce 9300 GE	
+Sound card: Intel 82801H (ICH8 Family) HD Audio Controller
+Networking card: none
+Additional notes: Everything runs smooth except most emulators which either crash or cause kernel panics.
+Contribution date: 12/7/2018 15:36:38
+
 HomeBrew machine
 Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
 Version: Haiku Nightly (64-bit) 52394

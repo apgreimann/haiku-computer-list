@@ -95,3 +95,29 @@ Additional notes  (multi-line):
   No sound when playing an MP3 file, unable to test other sources of audio due to lack of internet access.
   Microphone and camera not recognised.
 Contributor: Anonymous contributor
+
+Lenovo Thinkpad x201s
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Contributor: Uwe Burger
+Startup media: USB flash drive, SD card
+Started from: Legacy BIOS
+Memory: 8GB
+CPU: Core i7 (First Gen)
+GPU: Intel
+Networking card: iprowifi4965
+Contribution date: 12/27/2018 16:17:48
+
+Lenovo z500
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: External SSD or hard drive
+Started from: Legacy BIOS
+Boot options: Tried boot options
+Memory: 12 GB
+CPU: intel core i3-3120M
+GPU: intel hd4000 and geforce 635M
+Sound card: realtek hd audio
+Networking card: intel centrino n2230
+Additional notes: don't work hdd in dvd slot sata
+Contribution date: 1/5/2019 5:25:19

@@ -14,7 +14,7 @@ Additional notes: Go into BIOS settings and look for ‘USB 3.0 Configuration in
 Surface Pro 4
 Rating: Kind of works (gets to the Desktop, but barely; half of things or greater don't work)
 Version: Haiku R1 Beta 1 (64-bit)
-Startup medium: USB flash drive
+Startup media: USB flash drive
 Started with: EFI (no legacy/CSM support is available on this machine)
 Boot options: Tried boot options
 Memory: 8GB
@@ -25,3 +25,23 @@ Additional notes (multi-line):
 - Requires "enable serial debug output" (weird timing issue) and "failsafe graphics mode" enabled to boot.
 - You need to increase font sizes to be able to see anything on the screen.
 Contributor: ksiazkowicz
+
+Surface Go
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Version: Haiku R1 Beta 1 (64-bit)
+Startup media: USB flash drive, SD card
+Started with: EFI on (by choice)
+Boot options: Did not try boot options
+Memory: 8GB
+CPU: Intel Pentium Gold Processor 4415Y
+GPU: Intel HD Graphics 615
+Networking cards: Qualcomm Atheros QCA61x4A Wireless Network Adapter
+Share with HCR: Yes
+Share with GitHub: Yes
+USB type: C
+Webcam: (Untested)	
+CPU manufacturer: Intel
+Additional I/O: SD/MMC card reader works with Haiku
+Additional notes: Scaling is greatly needed to make this usable. It'd also be lovely to see touch screen and orientation support.
+Contributor: Xylobol
+Contribution date: 2/15/2019 0:49:13

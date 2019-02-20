@@ -134,6 +134,19 @@ Additional notes (multi-line):
     FreeBSD shows driver working since 2013. Wifi on this laptop is working in OpenBSD, sorry, I don’t run FreeBSD at this time, working on it soon. Works great so far.
 Contributor: bullfrog
 
+IBM Thinkpad R60
+Version: Haiku Nightly 64-bit (hrev52870)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Contributor: Unknown
+Startup media: Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
+Started with: legacy BIOS
+Boot options: Did not try boot options
+CPU: Core 2 Duo
+Tested webcam: No
+Memory: 3GB
+Share on GitHub: Yes
+Contribution date: 2/15/2019 10:16:15
+
 Lenovo X1 Carbon 3rd Generation
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

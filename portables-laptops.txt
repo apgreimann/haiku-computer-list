@@ -108,6 +108,25 @@ Sound card: Bang & Olufsen, dual speakers, HP Audio Boost 2.0 with discrete ampl
 Networking cards: Intel® 802.11b/g/n/ac (2x2) Gigabit Wi-Fi® and Bluetooth® 5 Combo
 Contribution date: 11/29/2018 18:17:42
 
+HP 15t Touchscreen Laptop
+Version: Haiku Nightly: 64-bit, (hrev52909)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: legacy BIOS
+Boot options: Tried Haiku boot options
+CPU: Intel Core i7-8550U
+GPU: Intel UHD Graphics 620
+Sound card: Intel High Definition Audio
+Networking cards: Intel Dual Band Wireless-N 7265
+USB types tested: USB 2 and 3
+Tested webcams: Yes, (and cams do not work on my machine)"
+Memory: 16GB
+SD drive or reader: Neither work
+Share on GitHub: Yes
+Additional notes: Intel UHD Graphics 620 (Device ID: 0x5917) w/ 4096x2304 max resolution so fail-safe/Intel drivers don't scale properly yet on external UHD monitors.
+Contributor: cocobean
+Contribution date: 2/21/2019 14:14:04
+
 HP Pavilion B&O
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

@@ -6,6 +6,33 @@ This list does NOT cover notebooks, tablets, or mobile workstations!
 
 -- General portables or Laptops --
 
+Apple MacBook (matte black; polycarbonate MacBook1,1)
+Version: Haiku R1 Beta 1 (32-bit edition)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: Intel Core Duo T2500 (dual-core; 32-bit)
+GPU: Intel GMA 950 (64 MB shared)
+Sound cards: Built-in Apple audio
+Networking cards: AirPort Extreme (802.11b/g)
+USB types tested: USB 2.0/legacy ports
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 2 GB
+SD drive and reader: My machine does not have a SD card drive or fingerprint reader
+Share on GitHub: Yes
+Additional notes (multi-line):
+- Installed Haiku on a separate machine, then put the HD in using legacy BIOS to start.
+- The little Mac works okay, but it does have a few things to note.
+- On startup, Haiku stalls -- pressing a key will help fix this.
+- The built-in iSight webcam and mic don't work (minor).
+- Far as I can tell, brightness and audio does not work.
+- The wi-fi card is detected and connects, but doesn't work well; you'll need to use Ethernet for a solid connection.
+- Also, restart instead of shutting down and press power at the gray screen to avoid shutdown hanging.
+- Other than that, again, it works great and I'd definitely give it a try!
+Contribution date: 2/21/2019 15:21:48	
+Contributor: apgreimann
+
 Acer aspire one d270
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

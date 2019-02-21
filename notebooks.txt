@@ -32,6 +32,25 @@ Memory: 1 GB
 CPU: Intel Atom N270
 Contributor: Anonymous contributor
 
+Lenovo Ideapad 100s
+Version: Haiku Nightly: 64-bit (hrev52295)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: USB flash drive, External SSD or hard drive
+Started with: EFI on (by choice)
+Boot options: Did not try Haiku boot options
+CPU: Intel Celeron N3050 (1.60 GHz, 2 cores)
+GPU: Intel Celeron IGC (x5-E8000/J3xxx/N3xxx)
+Sound card: Intel Celeron HD Audio Controller (x5-E8000/J3xxx/N3xxx)
+Networking cards: Intel Wireless 7260 (idualwifi7260)
+USB type tested: USB 3.0
+Tested webcam: Yes, (and cams do not work on my machine)
+Memory: 2 GB
+SD card and reader: My machine does not have a fingerprint reader
+Share on GitHub: Yes
+Additional notes: Everything works really well, except for a lack of eMMC support, the camera and brightness.
+Contributor: Anonymous contributor
+Contribution date: 2/21/2019 17:25:12
+
 Lenovo x140e Type 20BL-S00900
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (32-bit)

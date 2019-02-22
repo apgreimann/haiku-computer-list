@@ -6,6 +6,29 @@ For netbooks or smaller notebooks, please see notebooks.
 
 -- Mobile workstations --
 
+Mobile Workstation
+Apple MacBook Pro 11.3 (Mid 2014)
+Version: Haiku Nightly: 64-bit (hrev52906)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive, External SSD or hard drive, Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Tried Haiku boot options
+CPU: Intel i7 4870
+GPU: nVidia GT750M
+Sound cards: HDA
+Networking cards: Broadcom 570 (works), BCM4360 (doesn't work)
+USB type tested: USB 2.0/legacy ports
+Tested webcams: Didn’t try the cameras
+Memory: 16Gb
+Share on GitHub: Yes
+Contributor: Zenja
+Contribution date: 2/21/2019 22:27:32
+Additional notes (multi-line):
+- Sound works after warm reboot, headphone jack only
+- Legacy boot via USB allows more VESA resolutions
+- EFI only allows 2880x1800
+- Haiku works very well on laptop, minus Video and WiFi
+
 Apple MacBook Pro (Early 2011, 15.6”)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1 (64-bit)

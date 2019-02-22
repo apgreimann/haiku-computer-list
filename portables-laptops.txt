@@ -333,6 +333,21 @@ GPU: Nvidia GeForce GTX 860M + Intel Integrated Graphics
 Additional notes: Installed and booted with no issues. Uses VESA video driver, and sound+WiFi were detected by default. Trackpad works reasonably well.
 Contributor: Anonymous contributor
 
+Toshiba Satellite C55t-A5222
+Version: Haiku Nightly: 64-bit (hrev52914)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Did not try Haiku boot options
+CPU: Intel Celeron 1005M	
+USB type tested: USB 3.0 ports	
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 4GB	
+SD card or reader: My machine does not have a fingerprint reader
+Share on GitHub: Yes
+Contributor: Anonymous contributor
+Contribution date: 2/22/2019 1:44:13
+
 Toshiba Satellite A100-033
 Version: Haiku R1 Beta 1 (32-bit)
 Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)

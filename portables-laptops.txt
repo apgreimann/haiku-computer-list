@@ -148,9 +148,11 @@ Networking cards: Intel Dual Band Wireless-N 7265
 USB types tested: USB 2 and 3
 Tested webcams: Yes, (and cams do not work on my machine)"
 Memory: 16GB
-SD drive or reader: Neither work
+SD drive or reader: SD card works
 Share on GitHub: Yes
-Additional notes: Intel UHD Graphics 620 (Device ID: 0x5917) w/ 4096x2304 max resolution so fail-safe/Intel drivers don't scale properly yet on external UHD monitors.
+Additional notes:
+- Intel UHD Graphics 620 (Device ID: 0x5917) w/ 4096x2304 max resolution so fail-safe/Intel drivers don't scale properly yet on external UHD monitors.
+- Haiku hrev52940 x86_gcc2 tested w/ 32GB microSDHC memory card.
 Contributor: cocobean
 Contribution date: 2/21/2019 14:14:04
 

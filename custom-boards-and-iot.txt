@@ -89,3 +89,29 @@ Memory: 8 GB
 CPU: Intel i3
 GPU: Intel 620
 Contributor: Anonymous contributor
+
+Supermicro X9DAI
+Version: Haiku Nightly: 64-bit (hrev52938)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try Haiku boot options
+CPU: 2x Intel Xeon E5-2680
+GPU: 2x GTX780
+Sound card: Xonar HDAV 1.3 Deluxe
+USB type tested: USB 2.0/legacy ports
+Tested webcams: Didn’t try the cameras
+Memory: 64GB
+SD card or reader: My machine does not have a SD card drive or fingerprint reader
+Share on GitHub: Yes
+Contributor: Anonymous contributor
+Contribution date: 2/27/2019 3:08:50
+Additional notes (multi-line):
+- Both UEFI and Legacy bios work after switching PCI-E support to gen 2 instead of gen 3.
+- Set video OpROM to UEFI only when using UEFI to use the native screen resolution.
+- C602 SATA SCU doesn't work, AHCI controller works;
+- S/PDIF of build in sound card doesn't show up in media, analog works great;
+- Xonar HDAV (C-Media CMI8788) no sound with or without OSS;
+- Aqua Computer kryoM.2 evo (with a Samsung 960 EVO) doesn't show up;
+- PS/2, RS232, and Firewire untested
+- Everything else works!

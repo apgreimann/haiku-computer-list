@@ -33,6 +33,28 @@ Additional notes (multi-line):
 Contribution date: 2/21/2019 15:21:48	
 Contributor: apgreimann
 
+Apple MacBook 2007 (white polycarbonate, MacBook2,1)
+Version: Haiku R1 Beta 1 (32-bit edition)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: Intel Core 2 Duo (64-bit, 2 cores)
+GPU: Intel 945GM Express IGC
+Sound card: Intel NM10/ICH7 HD Audio Controller
+Networking cards: AirPort Extreme 802.11b/g/n (Qualcomm Atheros AR5418), Marvell 88E8053 PCI-e Gigabit Ethernet	
+USB type tested: USB 2.0/legacy ports
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 2 GB
+SD card or reader: My machine does not have a SD card drive or fingerprint reader
+Share on GitHub: Yes
+Contributor: apgreimann
+Contribution date: 2/22/2019 21:04:16
+Additional notes (multi-line):
+- Works fairly well with Haiku!
+- Audio does not play, however (media_server_addon crashes).
+- Built in iSight cam, mic, and brightness don’t work.
+
 Acer aspire one d270
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)
@@ -62,6 +84,22 @@ CPU: Intel i3-5005u 2.0GHz
 GPU: Intel HD Graphics 5500
 Networking cards: Atheros AR956X
 Contributor: Aksenov
+
+Dell Latitude E5440
+Version: Haiku R1/Beta1 and most current nightly build (hrev52942); 32bit and 64bit both installed (dual booting)
+Rating: Excellent (everything works except webcam and bluetooth)
+Startup media: usb and then installed on HD
+Started with: Legacy (EFI off)
+Boot options: standard (did not have to use any boot options)
+CPU: Intel Core i7-4600U (2.69 GHz)
+USB: working with usb wireless mouse (has stopped working once or twice, fixed with a restart)
+Memory: 8GB
+No SD card reader (not tested)
+Wireless: Dell 1506
+HD: Seagate SSHD Hybrid 500GB SATA 6Gbp/s 2.5" 5400RPM
+Graphics: Intel® HD Graphics 4400 (on chip)
+Contribution date: 2/27/2019
+Contributor: kasmith
 
 Dell Latitude E6400
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

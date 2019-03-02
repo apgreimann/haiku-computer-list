@@ -115,3 +115,18 @@ Additional notes (multi-line):
 - Aqua Computer kryoM.2 evo (with a Samsung 960 EVO) doesn't show up;
 - PS/2, RS232, and Firewire untested
 - Everything else works!
+
+Tyan S2885 (dual AMD OPTY 250/275)
+Version: Haiku Nightly: 64-bit (hrev52936)
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS/CSM
+CPU: AMD Opteron 250/275
+GPU: X850XT/3850/nv 6600
+Sound card: Audigy2
+Networking cards: Broadcom 570
+Tested webcams: Didn’t try the cameras
+Memory: 8 GB
+Share on GitHub: Yes
+Contributor: Vanne
+Contribution date: 3/1/2019 23:19:23

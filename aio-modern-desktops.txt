@@ -1,0 +1,29 @@
+HP AIO 200-5000
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit edition)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: Intel Pentium
+GPU: 10de:0a74 - Nvidia GT218M (Geforce G210M)
+Sound card: 8086:3a3c Intel Corporation 82801JI (ICH10)
+Networking cards: 10ec:816b Realtek RTL8111/8168/8411 PICE Gigabit Eth, 1814:3090 Ralink Corp RT3090 802.11n PCIe
+USB type tested: USB 2.0/legacy ports
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 2 gigs
+SD cards or readers: Neither the SD drive or fingerprint reader work
+Share on GitHub: Yes
+Contributor: Chris from NZ
+Contribution date: 3/10/2019 6:41:14
+Additional notes (multi-line):
+- Sticker says "intel pentium inside", i don't know how to lscpu in haiku yet.
+- SD Reader doesn't work, no fingerprint.
+- Machine didn't like Haiku on DVD but loved it on USB - maybe media or drive problem.
+- VERY fast and responsive.
+- Machine had crash/OOM under Windows 7.
+- Apart from the SSD thing and the camera EVERYTHING works.
+- Did not need any special bios option or wacky install.
+- Is loaded into grub (grub needed special configuration but is otherwise OK)...
+- All in all it's a dream, and this computer was free so that's great.
+- SD host is JMicron Technology Corp 197b:2381 and webcam is Chicony ERlectronics Co HP Webcam ver 8242 (04f2:>b187)
+- The webcam might be a vuc device? i don't know anything about it, or care that it isn't working at the moment.

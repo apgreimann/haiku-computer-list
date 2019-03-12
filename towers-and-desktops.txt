@@ -65,6 +65,23 @@ CPU: Unknown
 Networking cards: Unknown
 Contributor name: Anonymous contributor
 
+Lenovo Think Centre Edge 72
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Version: Haiku Nightly: 64-bit
+Startup media: USB flash drive
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: 4 Intel Core™ i3-3220
+GPU: Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
+Sound card: 6 Series/C200 Series Chipset Family High Definition Audio Controller
+Networking cards: RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+USB types tested: USB 2.0/legacy ports
+Webcams: Didn’t try the cameras
+Memory: 8 Gb
+Share on GitHub: Yes
+Contributor: Contributor mentioned “PC at me work place”
+Contribution date: 3/8/2019 1:36:25
+
 Lenovo ThinkCentre E73
 Version: Haiku Nightly: 32-bit (hrev52547)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

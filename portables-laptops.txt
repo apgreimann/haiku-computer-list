@@ -55,6 +55,24 @@ Additional notes (multi-line):
 - Audio does not play, however (media_server_addon crashes).
 - Built in iSight cam, mic, and brightness don’t work.
 
+Acer Aspire 5320
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku Nightly: 64-bit (hrev52972)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: Intel(R) Pentium(R) Dual  CPU  T2390  @ 1.86GHz
+GPU: 2a03: Mobile GM965/GL960 Integrated Graphics Controller
+Sound card: 82801H (ICH8 Family) HDA
+Networking cards: Broadcom NetLink BCM5787M + Wi-Fi Qualcomm Atheros AR242x / AR542x
+USB type tested: USB 2.0/legacy ports
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 1 Gb; upgraded to 2Gb
+SD cards or readers: Neither the SD drive or fingerprint reader work
+Share on GitHub: Yes
+Contribution date: 3/7/2019 14:14:21
+Contributor: Anonymous contributor
+
 Acer aspire one d270
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)
@@ -372,6 +390,30 @@ CPU: Intel Core i7-4700HQ
 GPU: Nvidia GeForce GTX 860M + Intel Integrated Graphics
 Additional notes: Installed and booted with no issues. Uses VESA video driver, and sound+WiFi were detected by default. Trackpad works reasonably well.
 Contributor: Anonymous contributor
+
+Sony Vaio PCG-7141L
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku Nightly: 64-bit 52979
+Startup media: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Tried Haiku boot options
+CPU: Intel Core 2 Duo
+GPU: Intel Mobile Series 4 integrated VGA-compatible
+Sound card: Intel HD Audio
+Networking cards: Intel Wi-Fi Link 5100; Marvell Technology Ethernet (both working)
+USB types tested: USB 2 and 3
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 4GB
+SD cards or readers: My machine does not have a fingerprint reader
+Share on GitHub: Yes
+Contributor: rjzak
+Contribution date: 3/10/2019 17:09:19
+Additional notes (multi-line):
+- Installed on the HDD, but computer can't boot Haiku from the HDD, but boots from USB thumb drive without issue
+- Wi-Fi works
+- Haven't tested SD card reader (don't have any available)
+- Audio works
+- DOOM wouldn't find suitable audio driver for sound, music, but I could play an audio CD without issue
 
 Toshiba Satellite C55t-A5222
 Version: Haiku Nightly: 64-bit (hrev52914)

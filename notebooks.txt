@@ -51,6 +51,26 @@ Additional notes: Everything works really well, except for a lack of eMMC suppor
 Contributor: Anonymous contributor
 Contribution date: 2/21/2019 17:25:12
 
+Lenovo Ideapad 110S
+Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
+Version: Haiku R1 Beta 1 (64-bit edition)
+Startup media: USB flash drive
+Started with: EFI on (by choice)
+Boot options: Did not try Haiku boot options
+CPU: Intel Celeron N3060
+GPU: Intel Integrated
+Networking card: Intel 7260
+USB types tested: USB 2 and 3
+Tested webcams: Yes, (and cams do not work on my machine)
+Memory: 2GB
+SD cards and reader: Neither the SD drive or fingerprint reader work
+Share on GitHub: Yes
+Contributor: Thomas Batten
+Contribution date: 3/12/2019 23:49:31
+Additional notes (multi-line):
+- Installed Haiku onto M.2 SSD as internal EMMC was not supported.
+- Wifi card was swapped out for current card.
+
 Lenovo x140e Type 20BL-S00900
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (32-bit)

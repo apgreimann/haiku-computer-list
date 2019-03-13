@@ -1,3 +1,24 @@
+Dell Latitude 2 in 1 7272
+Version: Haiku nightly build (hrev52989); 64bit
+Rating: Good
+Startup media: USB, and then installed on HD
+Started with: Legacy and EFI.
+Boot options: Disable ACPI
+CPU: Intel Core m5-6Y57
+USB: Working (tested mouse and flash drives)
+Memory: 8GB
+SD cards or readers: No SD card reader
+Wireless: Intel 8260 (Haiku detects as idualwifi7260) mostly stable (randomly get reprompted for wifi password on bootup)
+HD: Samsung SSD
+Graphics: Intel HD Graphics 515
+Contributor: kasmith
+Contribution date: 3/12/2019
+Additional notes:
+- Graphics working in VESA mode only :(
+- Powerstatus won’t run (in window or in deskbar) so i have no idea how much battery i have left (that may be a problem lol)
+- Webcam not detected
+- Touch screen not working (is this even supported?)
+
 HP Spectre X360 PC 13
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

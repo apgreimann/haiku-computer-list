@@ -1,3 +1,28 @@
+Oracle VirtualBox 6.0.4 (on macOS)
+Rating: Works very well (nearly everything works)
+Version: Haiku R1 Beta 1 (64-bit edition)
+Startup media: Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: Intel Core 2 Duo P8600 (2.4 GHz, 2 cores)
+GPU: innoTek/VirtualBox Graphics Adapter (VBoxVGA)
+Sound card: ICH AC97 (82801AA AC'97 Audio Controller)
+Networking cards: Intel PRO/1000 MT Desktop (82540EM Gigabit Ethernet Controller)
+USB types tested: USB 2.0/legacy ports
+Webcams: My machine does not have webcam(s)
+Memory: 1 GB
+Share on GitHub: Yes
+SD reader: This machine doesn't have a SD reader/drive
+Sound status: works
+Ethernet status: Works
+Graphics status: Works natively/out of the box
+Battery status: Battery appears, and PowerStatus reports percentage fine
+Restarting: Works fine
+Boot options used: None
+Contributor: apgreimann
+Contribution date: 3/18/2019 20:06:43
+Additional notes: Switch the default PCnet network card in the VM settings to the Intel PRO/1000 Desktop card. Other than that, the VM should work fine.
+
 Oracle VirtualBox 5.2 (macOS)
 Haiku version: Haiku R1 Beta 1 (64-bit)
 VM client: Oracle VirtualBox 5.2 (for macOS)

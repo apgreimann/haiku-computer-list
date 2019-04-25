@@ -29,6 +29,21 @@ Additional notes (multi-line):
 - EFI only allows 2880x1800
 - Haiku works very well on laptop, minus Video and WiFi
 
+Apple MacBook Pro (Mid 2012)
+Version: Haiku Nightly (April 2019)
+Startup media: USB flash drive
+Contributor: sneaky
+Contribution date: 22 April 2019
+Additional notes (multi-line):
+- Aftermarket ram and ssd.
+- I only ran out for about two minutes, and I know these are tricky boxen…
+- TLDR wow almost perfect, nightly, no wifi. I had a windows installer on USB. I put the nightly anyboot on it with “etcher”. Electron, yes, gross, but it works well.
+- Plugged my haiku stick in to the laptop. Turned it on, held option key down, got a boot menu. The Mac said it was still the windows disk. Absurd! Everything else correctly identifies it - some kind of caching?
+- Tried booting with EFI option. Got bored after about 60 seconds, looked like it hung. Tried again with the … Normal thing…
+- Booted in seconds, painless install. (Still can’t boot Haiku through EFI atm due to SIM or whatever it is)
+- Only tested webpositive before turning it off.
+- No wifi, connected via Ethernet. With wired network, storage, display, mouse and keyboard working
+
 Apple MacBook Pro (Early 2011, 15.6”)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1 (64-bit)

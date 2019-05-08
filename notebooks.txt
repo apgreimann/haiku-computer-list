@@ -32,6 +32,30 @@ Memory: 1 GB
 CPU: Intel Atom N270
 Contributor: Anonymous contributor
 
+Huawei matebook D 14 (AMD Ryzen)
+Haiku version: Nightly 64-bit (hrev53103)
+Rating: Works fairly well (some components do not work)
+Startup media: USB storage media (Legacy USB)
+Started with: EFI on (my machine does not support legacy/CSM)
+Boot options: Did not try Haiku boot options
+CPU: AMD Ryzen 2500U
+GPU: Vega 8 (Integrated)
+Sound cards: Realtek
+Networking cards: Intel dual band AC 8265
+USB type: USB 2.0/legacy ports
+Memory: 8 GB
+Webcam status: Does not work
+Sound status: works
+Wifi status: works
+Graphics support: Graphics work natively/out of the box
+Power status: Battery appears, and PowerStatus reports percentage fine
+Restarting works fine
+Contribution date: 5/5/2019 7:36:23
+Contributor: Gaamda Lurt
+Additional notes: Bluetooth is not recognized, hdmi does not work. Audio need to perform better (Not so loud and round like the one on Windows/Linux), but overall it is a good experience :) Otter perform well with youtube, there is not so much flickering and tearing, it is a lot usable, apps like the pager crash sometimes.
+Share on GitHub: Yes
+HCL version: 2.0
+
 Lenovo Ideapad 100s
 Version: Haiku Nightly: 64-bit (hrev52295)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

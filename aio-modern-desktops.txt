@@ -1,3 +1,20 @@
+Lenovo V530 22ICB
+Version: Haiku Nightly: 64-bit (hrev53102)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Started with: Legacy BIOS/CSM
+CPU: Intel i5-8400T
+GPU: UHD630
+Sound card: HDA
+Networking cards: rtl81xx, idualwifi7260
+Additional notes: vesa driver 1920x1080, idualwifi7260 work, UEFI CSM mode, nvme disk WD SN750, hda sound work, rtl81xx work
+Sound status: Works
+Networking status: Ethernet works
+Graphics: Works in Vesa mode
+Contributor: kim be
+Contribution date: 5/9/2019 6:58:00
+HCL version: (Manual entry)
+
 HP AIO 200-5000
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit edition)

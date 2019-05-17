@@ -95,6 +95,19 @@ Additional notes (multi-line):
 - Installed Haiku onto M.2 SSD as internal EMMC was not supported.
 - Wifi card was swapped out for current card.
 
+Lenovo (Ideapad) z470
+Rating: Works fairly well (some components do not work)
+Version: Haiku Nightly 64-bit (Hrev53121 x86_64)
+CPU: i5-2410M
+GPUs: 520m Nvidia, Intel (optimus)
+Sound: HDA
+Networking hardware: Centrino Wireless-N 1000 (Intel), RTL810xE PCI Express Fast Ethernet (Realtek)
+Network status: Wifi and Ethernet works
+Contributor: cosmogatokat
+Contribution date: 05/17/2019 08:56
+Additional notes: What not work: No 3d acceleration, No Webcam support, big overheating, no temperature detection.
+HCL version: (Manual entry)
+
 Lenovo x140e Type 20BL-S00900
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (32-bit)

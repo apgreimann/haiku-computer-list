@@ -73,6 +73,24 @@ Share on GitHub: Yes
 Contribution date: 3/7/2019 14:14:21
 Contributor: Anonymous contributor
 
+Acer Aspire E1-571
+Rating: Works fairly well (some components do not work)
+Version: Haiku R1 Beta 1 (64-bit edition)
+Startup media: USB storage media (Legacy USB)
+Started with: Legacy BIOS/CSM
+CPU: Intel Core i3
+USB type: USB 2.0/legacy ports
+Webcam: Didn’t try the webcam/cameras
+Memory:	8gb
+Share on GitHub: Yes
+SD reader: This machine doesn't have a SD reader/drive
+Networking status: Ethernet works
+Graphics status: Graphics work natively/out of the box
+Restarting: Works fine	
+Contribution date: 5/16/2019 7:53:47
+Contributor: Anonymous
+HCL version: 2.0
+
 Acer aspire one d270
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

@@ -269,6 +269,27 @@ Memory: 3GB
 Share on GitHub: Yes
 Contribution date: 2/15/2019 10:16:15
 
+Lenovo G50-70			
+Rating: Works fairly well (some components do not work)
+Version: Haiku Nightly: 32-bit hrev53182
+Startup media: USB storage media (Legacy USB)
+Started with: Legacy BIOS/CSM
+CPU: Intel core i3-4005U
+GPU: Intel Haswell
+USB types: USB 2.0/legacy ports
+Webcams: Didn’t try the webcam/cameras
+Memory: 8GB
+Share on GitHub: Yes
+SD reader works: No
+Sound status: Does not work
+Networking status: Ethernet and Wifi work
+Graphics status: Works natively/out of the box
+Power status: Battery appears, and PowerStatus reports percentage fine
+Restarting: Works fine
+Contribution date: 6/6/2019 22:48:51
+Contributor: TmTFx
+HCL version: 2.0
+
 Lenovo X1 Carbon 3rd Generation
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

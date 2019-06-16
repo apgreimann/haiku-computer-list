@@ -130,3 +130,27 @@ Memory: 8 GB
 Share on GitHub: Yes
 Contributor: Vanne
 Contribution date: 3/1/2019 23:19:23
+
+Via Nano 1.4 Ghz
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 32-bit (hrev53182)
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: Via Nano x2 E-series 1.4Ghz
+GPU: Matrox G450 PCI
+Sound card: VIA VT1708S
+Networking cards: Realtek RTL8111E
+USB types: USB 2.0/legacy ports
+Webcam status: My machine does not have webcam(s)
+Memory: 8Gb
+Share on GitHub: Yes
+SD reader: This machine doesn't have a SD reader/drive
+Sound status: Works
+Networking status: Ethernet works
+Graphics status: Works natively/out of the box
+Restarting: Works fine
+Contributor: TmTFx
+Contribution date: 6/6/2019 16:22:38
+Additional notes: The board is VE-900
+HCL version: 2.0

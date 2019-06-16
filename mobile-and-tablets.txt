@@ -32,6 +32,33 @@ Contribution date: 12/6/2018 12:32:18
 Contributor: John Goold (JRG)
 Additional notes: Go into BIOS settings and look for ‘USB 3.0 Configuration in Pre-OS’ and change the factory setting of ‘Enabled’ to ‘Auto’.
 
+HP pavilion x360 11-k100nl
+Rating: Works very well (nearly everything works)
+Version: Haiku R1 Beta 1 (64-bit edition)
+Startup media: USB storage media (Legacy USB)
+Started with: EFI on (by choice)
+CPU: Intel Pentium N3700
+GPU: Braswell	
+USB types: USB 2.0/legacy ports
+Webcam status: Didn’t try the webcam/cameras
+Memory: 4GB
+Share on GitHub: Yes
+SD reader works: No
+Sound status: Works
+Networking status: Ethernet and Wifi work
+Graphics status: Works in Vesa mode
+Power status: Battery appears, and PowerStatus reports percentage fine
+Restarting: Works fine	
+Contribution date: 6/6/2019 23:20:43
+Contributor: TmTFx
+Additional notes (multi-line):
+- Battery applet sometimes does not start into deskbar and does not show infos, sometimes works
+- Touchscreen does not work
+- Screen resolution ok, but I'm pretty sure that I saw "Braswell" once (in the screen settings), maybe an earlier revision?
+- Touchpad keys do not work
+- Did not try hdmi output; headset jack output works
+HCL version: 2.0
+
 Surface Pro 4
 Rating: Kind of works (gets to the Desktop, but barely; half of things or greater don't work)
 Version: Haiku R1 Beta 1 (64-bit)

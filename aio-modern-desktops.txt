@@ -15,6 +15,57 @@ Contributor: kim be
 Contribution date: 5/9/2019 6:58:00
 HCL version: (Manual entry)
 
+Lenovo Yoga A940
+Version: Haiku Nightly: 64-bit (hrev53189)
+Rating: Works very well (nearly everything works)
+Startup media: USB storage media (USB 3), SD card
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: Intel Core i7-8700
+GPU: AMD Radeon RX 560
+Sound card: Realtek ALC274
+Networking cards: Intel AC 8265, Realtek 8822BE Wifi
+USB types: USB 3.0 ports
+Webcam status: Webcam does not work
+Memory: 32GB
+Share on GitHub: Yes
+SD reader: SD reader works
+Sound status: Sound works
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Restarting: Works fine
+Boot options used: Safe Mode, Vesa Mode,
+Contributor: BHou
+Contribution date: 6/16/2019 13:52:26
+Additional notes: RadeonHD, 1080p LifeCam, Pen (Wacom), TPS65988 USB C
+HCL version: 2.0
+
+Microsoft Surface Studio 2
+Version: Haiku Nightly: 64-bit (hrev53189)
+Rating: Works very well (nearly everything works)
+Startup media: USB storage media (Legacy USB), USB storage media (USB C), USB storage media (USB 3), SD card
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: Intel Core i7-7820HQ
+GPU: NVIDIA GeForce GTX 1070 8GB
+Sound card: Realtek ALC1220
+Networking cards: Intel l219-LM, Marvell 88W8897A Wifi
+USB types: USB 2 and 3
+Webcam status: Webcam does not work
+Memory: 32GB
+Share on GitHub: Yes
+SD reader: SD reader works
+Sound status: Sound does not work
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Power status: Battery not detected
+Restarting: Works fine
+Boot options used: Safe Mode, Vesa Mode
+Contributor: BHuo
+Contribution date: 6/16/2019 12:54:44
+Additional notes: fail-safe video driver resolution, font scaling, audio driver support need work
+HCL version: 2.0
+
 HP AIO 200-5000
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit edition)

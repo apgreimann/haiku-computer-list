@@ -39,6 +39,28 @@ Sound card: AC97 integrated
 Additional notes: My DVDRAM GH24GNS95 Doesn't burn CD's
 Contribution date: 11/30/2018 17:36:34
 
+Custom built TmTFx
+Version: Haiku R1 Beta 1 (32-bit edition)
+Startup media: Internal SSD or hard drive (imaged or installed), Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: Athlon 64 X2 5200+ 2,7Ghz
+GPU: S3 Graphics Chrome S25 SBx00
+Sound cards: Azalia VIA VT1708B (Intel HDA)
+Networking cards: Realtek 81xx (note: works like a charm)
+USB types: USB 2.0/legacy ports
+Webcams: My machine does not have webcam(s)
+Memory: 2 GB
+CPU manufacturer: AMD
+Share on GitHub: Yes
+SD cards: This machine doesn't have a SD reader/drive
+Sound status: Sound works
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Restarting: Works fine
+Contributor: TmTFx
+Contribution date: 9/20/2019 11:39:37
+
 Dell Optiplex 745 with Geforce 9300 GE
 Version: Haiku R1 Beta 1 (32-bit; gcc2)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
@@ -53,6 +75,31 @@ Sound card: Intel 82801H (ICH8 Family) HD Audio Controller
 Networking card: none
 Additional notes: Everything runs smooth except most emulators which either crash or cause kernel panics.
 Contribution date: 12/7/2018 15:36:38
+
+Hackintosh Build
+Rating: Works fairly well (some components do not work)	micro kernel
+Version: Haiku Nightly: 64-bit (hrev53458)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (my machine does not support legacy/CSM)
+Boot options: I didn't know Haiku had boot options!
+CPU: Core i7 4.0GHZ
+GPU: Nvidia GTX 1060
+Networking cards: TP-Link PCI Express Wifi Adapter 802.11N (N900)
+USB types: USB 2 and 3
+Webcam status: Didn’t try the webcam/cameras
+Memory: 32GB
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: This machine doesn't have a SD reader/drive
+Sound status: Sound works
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Power status: Battery not detected
+Restarting: Works fine
+Additional notes:
+- Nvidia graphics does not allow me to set correct resolutions
+- Wifi does not work
+Contribution date: 9/11/2019 16:15:51
 
 HomeBrew machine
 Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)

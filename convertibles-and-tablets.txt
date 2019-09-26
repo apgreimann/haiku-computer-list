@@ -19,6 +19,34 @@ Additional notes:
 - Webcam not detected
 - Touch screen not working (is this even supported?)
 
+hp EliteBook 2760p
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 64-bit (hrev54458)
+Startup media: USB storage media (Legacy USB), Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Tried Haiku boot options
+CPU: Intel i5-2520M
+GPU: Intel HD Graphics 3000
+Sound cards: IDT High Definition Audio
+Networking cards: Intel 82579LM Gigabit Ethernet and Centrino Advanced- N 6205
+USB types: USB 2.0/legacy ports
+Webcam status: Webcam does not work
+Memory: 16GB DDR3 - 1333MHz
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: SD reader does not work
+Sound status: Sound does not work
+Networking status: Ethernet and Wifi work
+Graphics status: Graphics work natively/out of the box
+Power status: Battery appears, but PowerStatus does not report percentage right
+Restarting: Works fine
+Boot options: Was able to boot via BIOS and UEFI
+Additional notes:
+- Bluetooth, Wacom touchscreen, and pen does not work.
+- Wifi sometimes fails to auto reconnect after start/restart of Haiku
+Contributor: HoloVector
+Contribution date: 9/11/2019 16:21:56
+
 HP Spectre X360 PC 13
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)
 Version: Haiku R1 Beta 1 (64-bit)

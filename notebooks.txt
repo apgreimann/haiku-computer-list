@@ -172,6 +172,36 @@ Additional notes  (multi-line):
   Microphone and camera not recognised.
 Contributor: Anonymous contributor
 
+hp Stream 13 - Blue
+Rating: Works fairly well (some components do not work)
+Version: Haiku Nightly: 64-bit
+Startup media: USB storage media (Legacy USB)
+Started with: EFI on (by choice)
+Boot options: Tried Haiku boot options
+CPU: Celeron N3050
+GPU: Intel HD Graphics
+Sound cards: Intel High Definition Audio
+Networking cards: RealTek RTL8723BE WiFi (note: NOT WORKING!)
+USB types: USB 2.0/legacy ports
+Webcam status: Webcam does not work
+Memory: 2GB DDR3L
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: SD reader does not work
+Sound status: Sound does not work
+Graphics status: Graphics work in Vesa mode
+Power status: Battery appears, but PowerStatus does not report percentage right
+Restarting: Works fine
+Booted both from BIOS and UEFI
+Additional notes:
+- TouchPad click not working consistently so have to use USB Mouse.
+- eMMC support not working so have use USB Drive.
+- WiFi not working so have use USB D-Link 10/100 Fast Ethernet.
+- Only VESA video works and randomly resets screen resolution between 1028x768 and Native 1366x768.
+- A bit too many issues to useful in my opinion.
+Contributor: HoloVector
+Contribution date: 9/11/2019 16:51:24
+
 Lenovo Thinkpad x201s
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

@@ -269,6 +269,32 @@ Memory: 3GB
 Share on GitHub: Yes
 Contribution date: 2/15/2019 10:16:15
 
+Lenovo ideapad
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 64-bit (hrev53396)
+Startup media: USB storage media (Legacy USB)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: AMD A6 5200 quad core
+GPU: Radeon HD 8400 /R3 series
+Memory: 3454 MB, 1MB inaccessible
+Sound cards: AMD Kabini HDMI/DP
+Networking cards: Qualcomm atheros AR9485
+USB types: USB 2.0/legacy ports
+Webcam status: Didn’t try the webcam/cameras
+CPU manufacturer: AMD
+Share on GitHub: Yes
+Sound status: Sound works
+Networking status: Wifi works
+Graphics status: Graphics work in Vesa mode
+Power status: Battery appears, and PowerStatus reports percentage fine
+Restarting: Works fine
+Additional notes:
+- Haiku boots into 32bits or 64bits.
+- Everything works well so far, ethernet not tested.
+Contributor: KantosKan
+Contribution date: 9/11/2019 9:59:10
+
 Lenovo G50-70			
 Rating: Works fairly well (some components do not work)
 Version: Haiku Nightly: 32-bit hrev53182

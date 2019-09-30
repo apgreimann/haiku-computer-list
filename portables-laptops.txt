@@ -365,6 +365,30 @@ Networking card: Atheros AR9280
 Additional notes: Everything works except sound.
 Contributor: Knez
 
+Lenovo Thinkpad T450s
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 64-bit (hrev53511)
+Startup media: Internal SSD or hard drive (imaged or installed)
+Boot options: Tried Haiku boot options
+CPU: i5
+GPU: Intel HD Graphics 5500
+Networking cards: ipro1000/idualwifi7260
+Additional notes:
+Graphics work on VESA mode when BIOS booting.
+Framebuffer when EFI booting.
+Currently working in BIOS mode.
+USB types: USB 2 and 3
+Webcam status: Didn’t try the webcam/cameras
+Memory: 4GB
+CPU manufacturer: Intel	
+Share on GitHub: Yes
+Sound status: Sound works	
+Networking status: Ethernet and Wifi work
+Graphics status: Graphics work in Vesa mode
+Power status: Battery appears, and PowerStatus reports percentage fine	Restarting: Works fine
+Contributor: fkap
+Contribution date: 9/27/2019 16:45:48
+
 Lenovo Thinkpad x200s
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Nightly 64-bit (Unlisted hrev, February 2018)

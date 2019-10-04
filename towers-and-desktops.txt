@@ -33,6 +33,29 @@ CPU: Intel Atom 1,60 GHz
 Networking cards: Atheros AR5BXB63
 Contributor name: Jens
 
+Dell OptiPlex 3040
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 64-bit (hrev53521)
+Startup media: USB storage media (USB 3)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: i3-6100T
+GPU: Intel HD 530
+Sound cards: Intel 100/C200 series sound card
+Networking cards: Realtek RTL8168
+USB types: USB 2 and 3
+Webcams: My machine does not have webcam(s)
+Memory:  4GB
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: This machine doesn't have a SD reader/drive
+Sound status: Sound does not work
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Restarting: Works fine
+Contributor: hor410
+Contribution date: 10/1/2019 5:26:28
+
 Dell Optiplex GX 280
 Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
 Version: Other (Haiku Vintage; Alpha 4 or earlier)

@@ -121,6 +121,31 @@ GPU: Intel HD Graphics 5500
 Networking cards: Atheros AR956X
 Contributor: Aksenov
 
+Dell Latitude 5400
+Rating: Works poorly (Haiku barely makes it to through startup; most components do not work)
+Version: Haiku Nightly: 64-bit
+Startup media: USB storage media (USB 3)
+Started with: EFI on (my machine does not support legacy/CSM)
+Boot options: Did not try Haiku boot options
+CPU: i5-8265U
+GPU: Intel UHD 620
+Networking cards: Intel i219LM (working) / Intel Cannon-Piont-LP CNVi (not working)
+USB types: USB 2 and 3
+Webcam status: Webcam does not work
+Memory: 8GB DDR4
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: No, SD reader does not work
+Sound status: Sound does not work
+Networking status: Ethernet works
+Graphics status: Graphics do not work
+Power status: Battery not detected
+Restarting: Works fine
+Additional notes:
+Graphics (UHD620) working, but only as "framebuffer" (please, add this choise)
+Contribution date: 10/1/2019 3:30:33
+Contributor: Anonymous contributor
+
 Dell Latitude E5440
 Version: Haiku R1/Beta1 and most current nightly build (hrev52942); 32bit and 64bit both installed (dual booting)
 Rating: Excellent (everything works except webcam and bluetooth)
@@ -255,6 +280,54 @@ Additional notes (multi-line):
     Wireless device ralinkwifi shows up in Networking preferences. Can’t connect, no wireless networks found. My other laptops, other wireless devices connect fine w/R1/Beta1.
     FreeBSD shows driver working since 2013. Wifi on this laptop is working in OpenBSD, sorry, I don’t run FreeBSD at this time, working on it soon. Works great so far.
 Contributor: bullfrog
+
+HP ProBook 650 G1
+Rating: Works poorly (Haiku barely makes it to through startup; most components do not work)
+Version: Haiku Nightly: 64-bit (hrev53521)
+Startup media: USB storage media (USB 3)
+Started with: Legacy BIOS/CSM
+Boot options: Tried Haiku boot options
+CPU: i5-4210M
+GPU: Intel HD 4600
+Sound cards: 8-series/C220-series HDA Controller
+Networking cards: Intel i217-V (working) / BroadCom BCM43228 802.11n (not working)
+USB types: USB 2 and 3
+Webcams: Webcam does not work
+Memory: 4GB
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: No, SD reader does not work
+Sound status: Sound does not work
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Power status: Battery appears, and PowerStatus reports percentage fine
+Restarting: Works fine
+Boot options: fail-safe graphics driver
+Contributor: hor410
+Contribution date: 10/2/2019 4:58:29
+
+HP ProBook 6540b
+Rating: Works fairly well (some components do not work)
+Version: Haiku Nightly: 64-bit (hrev53521)
+Startup media: USB storage media (USB 3), Internal SSD or hard drive (imaged or installed)
+Started with: Legacy BIOS/CSM
+Boot options: Did not try Haiku boot options
+CPU: i5-520M
+GPU: Intel HD Graphics (Ironlake)
+Networking cards: Marvell 88E8072 ethernet / Intel Wireless-N 1000 (Condor Peak)
+USB types: USB 2.0/legacy ports
+Webcams: Webcam does not work
+Memory: 6GB DDR3
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: No, SD reader does not work
+Sound status: Sound does not work
+Networking status: Ethernet and Wifi work
+Graphics status: Graphics work natively/out of the box
+Power status: Battery not detected
+Restarting: Works fine
+Contributor: hor410
+Contribution date: 10/1/2019 5:50:32
 
 IBM Thinkpad R60
 Version: Haiku Nightly 64-bit (hrev52870)

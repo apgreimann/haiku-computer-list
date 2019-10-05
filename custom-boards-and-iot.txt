@@ -1,6 +1,27 @@
 These are custom machines, customized boards, and standalone IoT machines, such as the Intel Next Unit of Computing (NUC) or the Raspberry Pi
 (currently not fully supported by the Haiku OS).
 
+Asrock DESKMINI A300W
+Rating: Works very well (nearly everything works)
+Version: Haiku Nightly: 64-bit
+Startup media: Internal SSD or hard drive (imaged or installed)
+Started with: EFI on (by choice)
+Boot options: Did not try Haiku boot options
+CPU: Ryzen 5 3400G
+GPU: Radeon RX APU
+USB types: USB 2 and 3
+Webcams: My machine does not have webcam(s)
+Memory: 16GB
+CPU manufacturer: AMD
+Share on GitHub: Yes
+SD cards: This machine doesn't have a SD reader/drive
+Networking status: Ethernet works
+Graphics status: Graphics work in Vesa mode
+Restarting: Works fine
+Additional notes: Using HDMI, so unknown if sound is working. Included M.2 Wi-Fi is not currently working, but it could probably be swapped for something that does.
+Contributor: MrEntropy
+Contribution date: 10/4/2019 10:27:01
+
 Asrock Fata1ity gaming/ITX board
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1

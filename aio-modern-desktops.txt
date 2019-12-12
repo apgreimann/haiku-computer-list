@@ -1,3 +1,26 @@
+Apple iMac (a1311)
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Build/revision: hrev53523
+Rating 3/4: Haiku works with most of the components
+Share on GitHub: Yes
+Started from: USB storage media (using USB C)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 12 Gb
+CPU: Intel Core i3
+Networking cards: Atheros Wifi
+Sound cards: Intel HD Audio
+Boot options: Blacklisted entries, Framebuffer
+Graphics status: Used 'framebuffer' option
+Sound status: Sound does not work
+Networking status: Both Ethernet and WiFi cards work
+SD drives: Works with Haiku
+Restart status: Haiku restarts with special options
+Additional notes:
+Cant find boot path. Needs to boot using refinder and haiku boot options shows up. I must select latest state and then continue booting.
+Contributor: Mikael Konradsson
+Contribution date: 10/6/2019 7:28:51
+
 Lenovo V530 22ICB
 Version: Haiku Nightly: 64-bit (hrev53102)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

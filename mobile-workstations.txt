@@ -6,7 +6,6 @@ For netbooks or smaller notebooks, please see notebooks.
 
 -- Mobile workstations --
 
-Mobile Workstation
 Apple MacBook Pro 11.3 (Mid 2014)
 Version: Haiku Nightly: 64-bit (hrev52906)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
@@ -86,6 +85,30 @@ Additional notes (multi-line):
     I did see a few kernel panics occasionally, but I have been able to work for long hours without any problems.
 Contribution date: 11/29/2018 8:40:23
 Contributor: Victor Domingos
+
+Dell Alienware m17 R2
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Rating 4/4: Haiku works with all (or nearly all) components
+Share on GitHub: Yes
+Started from: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+CPU: Intel Core i9-9980HK
+GPU: NVIDIA GeForce RTX 2080
+Networking cards: Killer Wi-Fi 6 AX1650
+Sound cards: Realtek ALC3281
+Boot options: Used fail-safe graphics driver
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD drives: Works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: My computer does not have a webcam, etc.
+Additional notes: Works great!
+Contributor: ScorcherJ
+Contribution date: 10/7/2019 12:30:53
 
 Dell Latitude D500
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

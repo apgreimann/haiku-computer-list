@@ -202,6 +202,41 @@ Additional notes:
 Contributor: HoloVector
 Contribution date: 9/11/2019 16:51:24
 
+Lenovo ThinkPad X1 Carbon (1st Gen)
+Version/branch: Haiku Nightly
+Architecture: 32-bit x86 (i686, etc.)
+Build/revision: hrev53523
+Rating 4/4: Haiku works with all (or nearly all) components
+Share on GitHub: Yes
+Started from: USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+Memory: 8 GB
+CPU: Intel Core i7-3667U 2.0 GHz
+GPU: Intel HD Graphics 4000 in processor
+Networking cards: cable n/a - wireless Intel Centrino Advanced-N 6205S
+Sound cards: HD Audio
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: WiFi card(s) work
+SD drives: Does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Additional notes (multi-line):
+- Mobile Intel QS77 Express Chipset
+- diagonal screen size 14.0 "
+- Screen Resolution (native): 1600 x 900 x 32
+- Multitouch click pad works. But the right mouse click not.
+- There are separate buttons for left, right and middle click and the Trackpoint available and they work.
+- In 2017 the following BIOS settings were required:
+o USB 3 disabled
+o Secure boot disabled
+o UEFI/Legacy set to both
+- There is a good chance that UEFI and USB3 works now (2019).
+Contributor: vercu
+Contribution date: 10/6/2019 9:42:19
+
 Lenovo Thinkpad x201s
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

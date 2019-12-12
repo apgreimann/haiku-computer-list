@@ -121,6 +121,26 @@ GPU: Intel HD Graphics 5500
 Networking cards: Atheros AR956X
 Contributor: Aksenov
 
+Compaq Presario 2800
+Version/branch: Haiku Nightly
+Architecture: 32-bit x86 (i686, etc.)
+Rating 4/4: Haiku works with all (or nearly all) components
+Share on GitHub: Yes
+Started from: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+CPU: Intel Pentium 4
+GPU: ATI Mobility Radeon 7500
+Boot options: Started graphics in framebuffer
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD drives: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Cam status: My computer does not have a webcam, etc.
+Contributor: nicalejo
+Contribution date: 10/8/2019 17:28:48
+
 Dell Latitude 5400
 Rating: Works poorly (Haiku barely makes it to through startup; most components do not work)
 Version: Haiku Nightly: 64-bit
@@ -399,6 +419,26 @@ Memory: 8GB
 CPU: Intel Core i5
 GPU: Intel
 Contributor: Anonymous contributor
+
+Lenovo Thinkpad T440
+Version/branch: Haiku Nightly
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Build/revision: 53546
+Rating 4/4: Haiku works with all (or nearly all) components
+Share on GitHub: Yes
+Started from: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+Memory: 8GB
+CPU: Intel i5
+Graphics status: Graphics work: by default or "out of the box"
+Sound status: Sound works: by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD drives: Works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery, but does not report charge time correctly
+Contributor: Nick Pieper
+Contribution date: 10/19/2019 19:02:12
 
 Lenovo R61
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

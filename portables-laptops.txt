@@ -617,6 +617,46 @@ Additional notes (multi-line):
 - Audio works
 - DOOM wouldn't find suitable audio driver for sound, music, but I could play an audio CD without issue
 
+Toshiba Satellite A100-033
+Version: Haiku R1 Beta 1 (32-bit)
+Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS
+Boot options: I didn't know there were boot options
+Memory: 2GB
+CPU: Intel Pentium T2300
+GPU: Intel GMA i945GM
+Audio card: Realtek
+Networking cards: Atheros AR5006EG
+Additional notes (multi-line):
+- SD Card reader did not work
+- System also does not shutdown correctly (System remains on with a blank screen)
+- Windows boot loader used with EasyBCD
+Contributor: Andrew342003
+Contribution date: 11/30/2018 7:43:00
+
+Toshiba Satellite A105-S4284
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 1
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Started from: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 2 GB
+CPU: Intel Core 2 Duo, Centrino, 1.60 GHz, 2 MB cache
+Networking cards: Intel PRO/100 VE Network Connection, Intel Pro/Wireless Network Connection 3945ABG
+Graphics status: Graphics work: by default or "out of the box"
+Sound status: Sound does not work
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: My computer does not have a webcam, etc.		
+Contributor: anonymous
+Contribution date: 12/23/2019 19:51:05
+
 Toshiba Satellite C55t-A5222
 Version: Haiku Nightly: 64-bit (hrev52914)
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
@@ -631,25 +671,6 @@ SD card or reader: My machine does not have a fingerprint reader
 Share on GitHub: Yes
 Contributor: Anonymous contributor
 Contribution date: 2/22/2019 1:44:13
-
-Toshiba Satellite A100-033
-Version: Haiku R1 Beta 1 (32-bit)
-Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
-Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
-Contributor: Andrew342003
-Startup media: Built-in (internal) optical drive (CD/DVD media)
-Started with: Legacy BIOS
-Boot options: I didn't know there were boot options
-Memory: 2GB
-CPU: Intel Pentium T2300
-GPU: Intel GMA i945GM
-Audio card: Realtek
-Networking cards: Atheros AR5006EG
-Additional notes (multi-line):
-SD Card reader did not work
-System also does not shutdown correctly (System remains on with a blank screen)
-Windows boot loader used with EasyBCD
-Contribution date: 11/30/2018 7:43:00
 
 Toshiba satellite L655 PSK1EE
 Version: Haiku R1 Beta 1 (64-bit)

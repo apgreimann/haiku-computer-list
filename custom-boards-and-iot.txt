@@ -158,6 +158,23 @@ CPU: Intel i3
 GPU: Intel 620
 Contributor: Anonymous contributor
 
+Nixdorf EPC_A4 (Industrial PC from ATM machine)
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)	
+Share on GitHub: Yes
+Started from: USB storage media (using Legacy/USB 2)
+Memory: 2 GB
+CPU: Intel Core 2 Duo
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s): work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly	
+Additional notes: Only VGA output, DVI does not work.
+Contributor: stoltenberg
+Contribution date: 1/3/2020 16:44:39
+
 Supermicro X9DAI
 Version: Haiku Nightly: 64-bit (hrev52938)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

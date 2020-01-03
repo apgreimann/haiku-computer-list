@@ -581,6 +581,30 @@ Additional notes (multi-line):
     In conclusion, not too bad actually - quite impressive. This comment was uploaded from Haiku itself.
 Contributor: RaviC
 
+Lenovo Z50-70 model 20354
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (revision hrev53658)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Started from: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 8 GB
+CPU: Intel i5-4210U
+GPU: Intel HD Graphics 4400 and Nvidia GeForce 840M
+Networking cards: Intel Wireless and Realtek 8211 ethernet
+Sound card: Conexant Smartaudio HD
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking cards: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: My computer does not have a webcam, etc.
+Additional notes: Please port chromium or something like that
+Contributor: Samet Cömert
+Contribution date: 12/30/2019 20:41:37
+
 MSI Ghost (GS60)
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)

@@ -10,7 +10,7 @@ Memory: 8GB
 SD cards or readers: No SD card reader
 Wireless: Intel 8260 (Haiku detects as idualwifi7260) mostly stable (randomly get reprompted for wifi password on bootup)
 HD: Samsung SSD
-Graphics: Intel HD Graphics 515
+Graphics: Intel Iris Pro 5200
 Contributor: kasmith
 Contribution date: 3/12/2019
 Additional notes:
@@ -18,6 +18,34 @@ Additional notes:
 - Powerstatus won’t run (in window or in deskbar) so i have no idea how much battery i have left (that may be a problem lol)
 - Webcam not detected
 - Touch screen not working (is this even supported?)
+
+Fujitsu arrows Tab WQ2/C1
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (revision hrev53644)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Started from: USB storage media (using USB 3.0)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 4 GB
+CPU: Intel Atom x5-Z8550 1.44 GHz [8086:22b0]
+GPU: Intel® HD Graphics 400 [8086:095a]
+Networking cards: Intel Wireless 7265, [0bda:8153] RTL8153 Gigabit Ethernet Adapter (USB)
+Sound cards: I2S Audio Codec (???)
+Graphics status: Graphics work, but in framebuffer mode (similar to above option)
+Sound status: Sound does not work
+Networking status: Both Ethernet and WiFi cards work
+SD status: Does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Neither the trackpad and keyboard work
+Power status: Haiku does NOT detect the battery
+Cam status: Cameras do not work with Haiku on this computer	
+Additional notes (multi-line):
+- Touch input: does not work
+- Quite useable, but touchscreen, pen and sound is not working.
+- Touchscreen and pen are i2c HID and work on Linux.
+- Sound is working only on Windows.		
+Contributor: X512
+Contribution date: 12/29/2019 14:32:38
 
 hp EliteBook 2760p
 Rating: Works very well (nearly everything works)

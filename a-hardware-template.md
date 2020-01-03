@@ -1,3 +1,5 @@
+### What is this file?
+
 This is an example of how hardware should be listed on the [Computers compatible with Haiku](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-v3/7640)
 thread on the Haiku forum if you opt to submit your hardware manually.
 

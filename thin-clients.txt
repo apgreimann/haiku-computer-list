@@ -10,3 +10,24 @@ Additional notes (multi-line):
   I would lean toward an HDD as it will survive disk swapping better.
   It is very low power… I intend to use it as an always on IRC box.
 Contributor: cb88
+
+Intel NUC6i7KYB Skull Canyon
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku Nightly (revision hrev53713)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Started from: USB storage media (using USB 3.0)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 32 GB
+CPU: Intel i7-6770HQ
+GPU: Intel Iris Pro 580
+Networking cards: Intel Wireless 8260
+Sound cards: Integrated
+Graphics status: Graphics work but in Safe Graphics mode or Vesa
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Additional notes: Do not plug anything on the thunderbolt port, it avoids booting.
+Contributor: anonymous
+Contribution date: 1/24/2020 9:01:16

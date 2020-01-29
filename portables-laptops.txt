@@ -141,6 +141,48 @@ Cam status: My computer does not have a webcam, etc.
 Contributor: nicalejo
 Contribution date: 10/8/2019 17:28:48
 
+Dell Latitude D530
+Version: Haiku R1 Beta 1 (32-bit)
+Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
+Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
+Contributor: andrew342003
+Startup media: Built-in (internal) optical drive (CD/DVD media)
+Started with: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 2GB
+CPU: Intel Core 2 Duo T7250
+GPU: Intel Mobile 965
+Sound card: SigmaTel High Definition Audio
+Networking cards: Wifi - Intel Pro 3945ABG. Ethernet Broadcom 5700
+Additional notes (multi-line):
+OS did not boot unless both the 1394/Firewire & Internal PCMCIA cardbus controller was disabled in BIOS
+attempting to boot with these enabled caused a kernel panic.
+(Cardbus controller - O2Micro OZ711EZ1/MZ1, 1394 controller unknown)
+Contribution date: 12/1/2018 6:59:14
+
+Dell Latitude D610
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 1
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Started from: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 1 GB
+CPU: Intel Pentium M 2.1GHz
+GPU: Intel ???
+Networking cards: IPro wifi
+Boot options: Used fail-safe graphics driver
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: My computer does not have a webcam, etc.
+Contributor: Travis Thoms
+Contribution date: 1/26/2020 16:31:26
+
 Dell Latitude 5400
 Rating: Works poorly (Haiku barely makes it to through startup; most components do not work)
 Version: Haiku Nightly: 64-bit
@@ -193,25 +235,6 @@ Sound card: Intel
 Networking cards: Intel Wireless WiFi Link 4965AGN (802.11a/g/n)
 Additional notes: (None)
 Contributor: Peter
-
-Dell Latitude D530
-Version: Haiku R1 Beta 1 (32-bit)
-Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)
-Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
-Contributor: andrew342003
-Startup media: Built-in (internal) optical drive (CD/DVD media)
-Started with: Legacy BIOS
-Boot options: Did not try boot options
-Memory: 2GB
-CPU: Intel Core 2 Duo T7250
-GPU: Intel Mobile 965
-Sound card: SigmaTel High Definition Audio
-Networking cards: Wifi - Intel Pro 3945ABG. Ethernet Broadcom 5700
-Additional notes (multi-line):
-OS did not boot unless both the 1394/Firewire & Internal PCMCIA cardbus controller was disabled in BIOS
-attempting to boot with these enabled caused a kernel panic.
-(Cardbus controller - O2Micro OZ711EZ1/MZ1, 1394 controller unknown)
-Contribution date: 12/1/2018 6:59:14
 
 Dell Inspiron 15-3565
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

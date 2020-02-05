@@ -12,7 +12,57 @@ Desktops, (Mobile) Workstations, Servers, Thin Clients, or VMs.
 2/4 means Haiku barely works or needs extra options to start, 3/4 means Haiku works with most of the components,
 or 4/4 means Haiku works with all (or nearly all) of the components.
 
-### Example listing:
+### Example template:
+
+Form factor: (Desktop, laptop, tablet, netbook, server, etc.)
+
+(Make and model)
+
+Rating: (1 being the poorest rating; 4 the best rating)
+
+Version/branch: (Beta or Nightly; if Nightly, please also include the hrev)
+
+Architecture: (i.e. x86, x86_64, sparc, etc.)
+
+Share on GitHub: (Yes/no)
+
+Started from: (Internal/external HD/SSD, USB, network, etc.)
+
+Startup mode: (Legacy CSM/BIOS or UEFI)
+
+Memory: (amount of RAM in system)
+
+CPU: (processor model and speed)
+
+GPU: (graphics card model)
+
+Networking cards: (network cards model)
+
+Sound cards: (audio/sound cards model)
+
+Graphics status: (Graphics work, work only with workaround, or do not work)
+
+Sound status: (Sound works, works only with workaround, or does not work)
+
+Networking status: (Ethernet/WiFi works or does not work/connect)
+
+SD status: (Does/does not work)
+
+Restart status: (Restarts smoothly, restarts only with a mod, does not restart well)
+
+Input devices: (Report if the keyboard, trackpad, or touch works on mobile computers)
+
+Power status: (For mobile computers; does the battery/meter work with Haiku?)
+
+Cam status: (Report if webcams work)
+
+Additional notes: (Anything you’d like the Haiku community to read can go here)
+
+Contributor: (if you wish to add yourself here)
+
+Contribution date: (current date; 5 Feb 2020)
+
+### Sample listing:
 
 Form factor: Mobile Workstation
 

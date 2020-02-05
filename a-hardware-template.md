@@ -11,6 +11,9 @@ Desktops, (Mobile) Workstations, Servers, Thin Clients, or VMs.
 * For **rating**, please choose between 1 and 4, where: 1/4 means Haiku does not work on this machine,
 2/4 means Haiku barely works or needs extra options to start, 3/4 means Haiku works with most of the components,
 or 4/4 means Haiku works with all (or nearly all) of the components.
+* Several detailed options, such as SD drive, graphics, sound, restart, and network status is optional,
+and is up to you as the contributor to add or leave out. Please do include your rating, make and model, Haiku
+revision, and startup mode, however.
 
 ### Example template:
 

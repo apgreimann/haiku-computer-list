@@ -69,7 +69,7 @@ Contribution date: (current date; 5 Feb 2020)
 
 Form factor: Mobile Workstation
 
-(Make and model): Leafbox Solstice 2020
+Leafbox Solstice 2020
 
 Rating 4/4: Haiku works with all (or nearly all) of the components
 
@@ -109,10 +109,8 @@ Power status: Haiku detects the battery and reports the battery percentage norma
 
 Cam status: My computer does not have (web)cams	
 
-Additional notes (multi-line):
+Additional notes (multi-line): Graphics need to be in Vesa mode on this machine to work properly.		
 
-* Anything that you'd like to add for others in the Haiku community to read		
+Contributor: apgreimann
 
-Contributor: (Your name here, or if you wish to remain anonymous, list 'anonymous' or don't include this line).
-
-Contribution date: (Usually only listed for form entries, but you can add this in if you like.)
+Contribution date: 5 Feb 2020

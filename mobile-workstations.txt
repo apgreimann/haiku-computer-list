@@ -185,3 +185,25 @@ Additional notes: To get sound working, I had to blacklist HDA and install Open 
 Contribution date: 5/24/2019 13:08:13
 Contributor: Sean
 HCL version: 2.0
+
+System76 Oryx Pro (oryp5)
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (revision hrev53834)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Started from: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit), (U)EFI, by choice (64-bit)
+Memory: 64 GB
+CPU: Intel i7-9750H
+GPU: Intel graphics (unknown); Nvidia RTX 2070
+Networking cards: Ethernet: RTL8111/8168/8411; WiFi Intel Wireless-AC 9560 (Jefferson Peak)
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound does not work
+Networking status: Ethernet card(s) work
+Restart status: Haiku restarts with special options
+Input devices: Trackpad and keyboard both work	
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contributor: rjzak
+Contribution date: 2/6/2020 20:58:34
+Additional notes: Has Intel wireless, but doesn't detect it as a network card. Booting using Nvidia graphics works easily, haven't tried Intel graphics mode.

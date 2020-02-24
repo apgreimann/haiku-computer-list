@@ -64,6 +64,26 @@ Started from: Legacy BIOS
 Additional notes: Only needs a suitable video card to get something on screen. The rest all works.
 Contributor: Anonymous contributor
 
+Dell Precision T1500
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+Memory: 8GB
+CPU: Intel i5 650 (4) @ 3.192GHz
+GPU: NVIDIA GK107GL [Quadro K600]
+Networking cards: Broadcom NetLink BCM57780 Gigabit Ethernet PCIe
+Sound cards: NVIDIA GK107 HDMI Audio Controller
+Graphics status: Graphics work: but in Safe Graphics mode or Vesa
+Sound status: Sound does not work
+Networking status: Ethernet card(s): work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contributor: Jonathan McCormack
+Contribution date: 2/21/2020 14:45:43
+
 Dell Inspiron 531
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1 (64-bit)

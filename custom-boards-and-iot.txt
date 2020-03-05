@@ -31,6 +31,29 @@ Memory: 16GB ram
 Additional notes: only boots with 4GB limit enabled in bootloader + failsafe video, its rediculously fast though for a Haiku box. Built in Wifi works as it’s a compatible intel chipset, ethernet works.
 Contributor: cb88
 
+coco PEPPER1000
+Main board: ASUS ROG Strix X570-I Gaming
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku Nightly (hrev53903)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 64 GB
+CPU: AMD Ryzen 5 2400G (3.6Ghz, 4c/8t)
+GPU: AMD Radeon Vega 11
+Networking cards: Intel I211-AT, Intel Wi-Fi 6 AX200
+Sound cards: Realtek S1220A (8-Channel HDA)
+Boot options: Used fail-safe graphics driver
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly	
+Additional notes: Realtek HDA driver, HDMI 4K, USB 3.2 (4x), AMD X570
+Contributor: cocobean
+Contribution date: 2/24/2020 12:08:29
+
 COCO T100
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)

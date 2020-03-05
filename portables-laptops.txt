@@ -141,6 +141,53 @@ Cam status: My computer does not have a webcam, etc.
 Contributor: nicalejo
 Contribution date: 10/8/2019 17:28:48
 
+Dell Latitude 5490
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (~hrev53900)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+Memory: 8GB
+CPU: Intel [i5-8350U]
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Input devices: Only the keyboard works
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Touch status: Touch input does not work
+Contributor: anonymous
+Contribution date: 2/29/2020 4:20:12
+Additional notes (multi-line):
+* Touchpad does not work, but a USB mouse will get you through.
+* UEFI boot works, but does not have Wi-Fi.
+* At some point before hrev53900, the screen resolution is now correctly detected by the bootloader (and thus the UEFI framebuffer)
+
+Dell Latitude 5501
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku Nightly (hrev53903)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 8GB DDR4
+CPU: Intel i5-9400H
+GPU: Intel UHD 630
+Networking cards: Intel i219-LM ethernet (working); Intel wifi AC-9560 (not working)
+Sound cards: Intel CannonLake PCH cAVS
+Graphics work: but in framebuffer mode (similar to above option)
+Sound works: by default or "out of the box"
+Ethernet card(s): work
+SD drive: Does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contributor: hor410
+Contribution date: 2/25/2020 4:40:31
+
 Dell Latitude D530
 Version: Haiku R1 Beta 1 (32-bit)
 Laptop (i.e. Pavilion, Inspiron, Satellite, etc.; larger screen, thicker, etc.)

@@ -102,6 +102,29 @@ CPU: Intel atom
 GPU: Intel
 Contributor: Not listed
 
+Asus Republic of Gamers G60JX Laptop
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 4 GB	
+CPU: Intel i5-430M, 3M cache, 2.26 GHz x4, 4 threads
+GPU: NVIDIA GeForce GTS 360M
+Networking cards: 802.11b/g/n WiFi Adapter
+Sound card: Realtek HD Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD drive: Does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contributor: Joshua Spann
+Contribution date: 3/7/2020 17:38:51
+
 ASUS U50A
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)
 Version: Nightly 64-bit (hrev51498)

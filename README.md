@@ -1,11 +1,14 @@
 # Haiku Computer List
 
 Welcome. This is a maintained list of computers compatible with the Haiku operating system, submitted by the Haiku community.
-This Github page provides a place outside the [Computers compatible with Haiku](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-v2/7640)
-thread on the Haiku Forum, and [the Haiku Computer List](https://sites.google.com/view/hardware-list-for-haiku/). For the most up to date list, check the [hardware spreadsheet](https://docs.google.com/spreadsheets/d/1Qi_pCkExW7zWGSXKbemkgwZUFsy4GX5igc0zsBdIap8). For older entries from the previous form version, the old version has been [archived here](https://docs.google.com/spreadsheets/d/1Y69OVF8DHFpma_-DiOH73BPrf-_MVH_DZxJ0pg96z0I/edit?usp=sharing).
+
+This GitHub page provides a place outside the [Computers compatible with Haiku](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-v2/7640)
+thread on the Haiku Forum, and [the Haiku Computer List](https://sites.google.com/view/hardware-list-for-haiku/) webpage.
 
 To add hardware for submission, please do *not* create a pull request. Instead, please use the [hardware submission form](https://docs.google.com/forms/d/e/1FAIpQLSceXPfiAXE4tSEDRaJo0CkTrFi3Sva6g3ZtoZUBC6oogA7PYw/viewform?usp=sf_link)
 or write your info manually per the template in the [computer list thread](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-v2/7640) on the Haiku forum.
+
+"Haiku" is a trademark of Haiku, Inc. which manages the free and open source Haiku operating system project: the modern-day successor to the BeOS. "Haiku" is used throughout the "Haiku Computer List" to refer to the name of the operating system, and this HCL is an unofficial community effort to help contribute and maintain a hardware list for Haiku. All hardware submissions are freely accessible under the MIT License.
 
 ## Hardware types
 

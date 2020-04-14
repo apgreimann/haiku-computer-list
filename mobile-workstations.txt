@@ -186,6 +186,30 @@ Contribution date: 5/24/2019 13:08:13
 Contributor: Sean
 HCL version: 2.0
 
+Lenovo ThinkPad W540
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku Nightly hrev54028
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 25 GB
+CPU: Intel i7-4800MQ, 6 MB cache, 2.7 GHz x4, 8 threads
+GPU: Intel HD Graphics 4600 / NVIDIA Quadro K1100M
+Networking cards: Intel Dual Band Wireless-AC 7260
+Sound cards: Intel HD Audio
+Graphics status: Graphics work by default or "out of the box”
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contributor: Anonymous
+Contribution date: 4/13/2020 15:31:44
+Additional notes: The touchpad has software "buttons" which do not (yet) work in Haiku, so only a left click can be performed. A USB mouse should be used, but it must be plugged in before starting Haiku. Starting the Bluetooth server will cause the server to hang and the process will have to be killed. Audio works, but it must be unmuted using the keyboard. The other volume keys and the brightness keys do not work, but the volume and brightness levels can be changed from Haiku.	
+
 System76 Oryx Pro (oryp5)
 Rating 3/4: Haiku works with most of the components
 Version/branch: Haiku Nightly (revision hrev53834)

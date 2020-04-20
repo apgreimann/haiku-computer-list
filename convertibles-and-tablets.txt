@@ -19,6 +19,31 @@ Additional notes:
 - Webcam not detected
 - Touch screen not working (is this even supported?)
 
+Dell Inspiron 7573 2-in-1	
+Rating 2/4: Haiku needs extra options to start and/or barely works
+Version/branch: Haiku Nightly hrev54045
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 8 GB	
+CPU: Intel [added from spec sheet: either Core i7-8550U, i5-8250U, or i5-7200U]
+GPU: Intel UHD Graphics 620
+Networking cards: Intel Wireless 7265
+Sound cards: Intel Sunrise Point-LP HD Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Networking does not work on this computer
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: Cameras do not work with Haiku on this computer
+Touch status: Touch input does not work
+Contributor: Thomas
+Contribution date: 4/15/2020 2:34:44
+Additional notes: Touchpad only works in the large area for left click; the smaller areas for left and right click do not work. It also appears that the function keys on the keyboard which control the volume, screen brightness, etc. don't work either. Built in webcam non functional, brief test with a generic action camera in webcam mode didn't work either.
+
 Fujitsu arrows Tab WQ2/C1
 Rating 3/4: Haiku works with most of the components
 Version/branch: Haiku Nightly (revision hrev53644)

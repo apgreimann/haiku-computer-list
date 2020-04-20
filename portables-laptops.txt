@@ -1,4 +1,4 @@
-This list does NOT cover notebooks, tablets, or mobile workstations!
+This list does NOT cover [small] notebooks, tablets, or mobile workstations!
 
     Smaller portables, such as netbooks, cloudbooks, and ultrabooks are on the Notebooks page.
     Portables designed for high performance are listed in the Mobile Workstation category.
@@ -789,20 +789,6 @@ Share on GitHub: Yes
 Contributor: Anonymous contributor
 Contribution date: 2/22/2019 1:44:13
 
-Toshiba satellite L655 PSK1EE
-Version: Haiku R1 Beta 1 (64-bit)
-Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
-Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
-Started from: Legacy BIOS
-Boot options: Did not try boot options
-Memory: 3GB
-CPU: Core i3 350M
-GPU: Intel HD graphics 1st gen (ironlake)
-Sound card: Toshiba integrated
-Networking cards: BCM 4313 wi-fi
-Additional notes: Sound didn't work at all and when outputting to an external display via the VGA port, the video signal is very fuzzy
-Contribution date: 11/25/2018 12:44:17
-
 Toshiba satellite L300 11G
 Version: Haiku Nightly: 32-bit (hrev52547)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
@@ -818,3 +804,41 @@ Additional notes (multi-line):
     Wi-fi didn't work, webcam didn't work, and keyboard macros didn't work (and a phone modem was present but wasn't detected by the OS, but who uses dialup anyways lol).
     Otherwise a great machine if you don't mind the WiFi (and yes, I have tried installing the proprietary WiFi drivers).
 Contribution date: 11/25/2018 13:04:35
+
+Toshiba Satellite L500-1VC
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku R1 Beta 1
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 4 Go [GB]
+CPU: Intel Core 2 Celeron
+GPU: Intel Corporation Mobile 4 Series Chipset integrated Graphic Controller
+Networking cards: Realtek RTL8101/2/6E PCI Express Fast Ethernet Controller + RTL8191SEvB Wireless Lan Controller
+Sound cards: Intel Corporation 82801I(ICH9 Family) HD Audio Controller
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking cards: Ethernet card(s) work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: Cameras do not work with Haiku on this computer
+Touch status: Touch input does not work							
+Contributor: pat74
+Contribution date: 4/19/2020 10:31:31
+
+Toshiba satellite L655 PSK1EE
+Version: Haiku R1 Beta 1 (64-bit)
+Rating: Somewhat okay (i.e. the display works, but there's no sound or mouse)
+Startup media: USB flash drive, Internal SSD or hard drive (imaged or installed)
+Started from: Legacy BIOS
+Boot options: Did not try boot options
+Memory: 3GB
+CPU: Core i3 350M
+GPU: Intel HD graphics 1st gen (ironlake)
+Sound card: Toshiba integrated
+Networking cards: BCM 4313 wi-fi
+Additional notes: Sound didn't work at all and when outputting to an external display via the VGA port, the video signal is very fuzzy
+Contribution date: 11/25/2018 12:44:17

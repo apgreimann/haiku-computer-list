@@ -124,6 +124,31 @@ Networking cards: Intel PRO/Wireless 2100
 Additional notes: In order to get it to boot to desktop you need to enable failsafe graphics on the boot options. Sound does not seem to work.
 Contribution date: 11/27/2018 1:44:00
 
+HP ProArt StudioBook 15 H500GV
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (hrev54105)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 48 GB
+CPU: Intel Core i7-9750H processor
+GPU: NVIDIA GeForce RTX 2060
+Networking cards: Intel Wi-Fi 6 AX200
+Sound cards: Realtek ALC1220 (ESS Sabre)
+Boot options: Used fail-safe graphics driver, Blacklisted entries (please mention which ones in Additional Notes)
+Graphics status: Graphics work but in Safe Graphics mode or Vesa
+Sound status: Sound works but by using OpenSound, etc.
+Networking status: Ethernet card(s) work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: My computer does not have a webcam, etc.
+Contributor: CHale
+Contribution date: 4/28/2020 14:42:06
+Additional notes: Use VESA and OpenSound
+
 HP OMEN by HP 15-ce000
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1 (64-bit)

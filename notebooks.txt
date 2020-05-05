@@ -286,3 +286,26 @@ Sound card: realtek hd audio
 Networking card: intel centrino n2230
 Additional notes: don't work hdd in dvd slot sata
 Contribution date: 1/5/2019 5:25:19
+
+SAMSUNG Ultrabook Series 5 Ultra
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (hrev54115)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed), USB (external) optical drive (CD/DVD media), SD card (or other memory card), Network share or server
+Startup mode: Legacy BIOS/CSM
+Memory: 5gb
+CPU: Intel i5
+GPU: Intel iris
+Networking cards: Data link
+Sound cards: intel hd
+Graphics status: Graphics work: by default or "out of the box"
+Sound status: Sound works: by default or "out of the box"
+Networking status: WiFi card(s): work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contributor: nhtello
+Contribution date: 5/2/2020 18:23:47

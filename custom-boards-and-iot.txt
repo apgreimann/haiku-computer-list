@@ -68,6 +68,28 @@ Networking cards: Intel AC 8265 Wifi, Intel I211AT Gb LAN, AQUANTIA AQC107 10Gb 
 Additional notes: Use fail-safe VESA driver for modern video cards. Some X399 motherboards have 10Gb LAN hardware requiring driver support.
 Contributor: COCOBEAN
 
+Custom model
+Motherboard: ASRock 939A785GMH/128M
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku Nightly (hrev54106)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+Memory: 4 GB
+CPU: AMD Athlon 64 FX-60, 2.6 GHz, 2 cores, 2 x 1 MB caches
+GPU: Integrated AMD Radeon HD 4200 (RS880) [ASRock]
+Networking cards: Realtek RTL8111DL
+Sound cards: M-Audio Audiophile 2496
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Cam status: My computer does not have a webcam, etc.
+Contributor: User_Z
+Contribution date: 5/2/2020 9:39:24
+
 Custom
 Version: Haiku Nightly: 32-bit	rev52597
 Custom built machine, board, or Intel NUC, etc.

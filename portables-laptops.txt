@@ -144,6 +144,27 @@ GPU: Intel HD Graphics 5500
 Networking cards: Atheros AR956X
 Contributor: Aksenov
 
+Compaq 420
+Rating 2/4: Haiku needs extra options to start and/or barely works
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+Memory: 2 GB
+CPU: Intel Core 2 Duo-T6670, 2MB L2 Cache, 2.20GHz, 2 Cores
+GPU: Intel Mobile 4 Series Integrated Graphics Controller
+Networking cards: RTL8101/2/6E Fast Ethernet
+Sound cards: Intel 82801I (ICH9 Family) HD Audio Controller
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound does not work
+Restart status: Haiku restarts smoothly
+Input devices: Neither the trackpad and keyboard work
+Power status: Haiku detects the battery and shows charge time correctly
+Contributor: ebykm					
+Contribution date: 5/7/2020 12:21:27
+Additional notes: one CPU keep on hitting 100% and then back to 0% continuously. Built-in Camera and WLAN on this laptop are dead and could not test EtherNet connection. Built-in keyboard and Trackpad do not work, usb keyboards may work, not tested.
+
 Compaq Presario 2800
 Version/branch: Haiku Nightly
 Architecture: 32-bit x86 (i686, etc.)

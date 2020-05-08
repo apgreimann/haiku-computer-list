@@ -163,6 +163,27 @@ Additional notes (multi-line):
 Contribution date: 11/26/2018 7:15:01
 Contributor: AlMurooj School AbuDhabi
 
+HP Compaq Pro 6300
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku R1 Beta 1
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 4GB
+CPU: Intel i5-2400, (256KB L1, 1MB L2) 6MB L3 Cache, 3.10Ghz, x4 Cores
+GPU: Intel Integrated Graphics Controller - VGA Port
+Networking cards: Intel 82579LM Gigabit Ethernet
+Sound cards: Intel 7 Series/C216 Chipset High Definition Audio Controller
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD drives: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contributor: ebykm
+Contribution date: 5/6/2020 7:54:42
+Additional notes: Audio volume output is low compared to when running Ubuntu 18.04 LTS. Midi player crash if closed while being played. Youtube playback controls (moving forward/backward) do not work in WebPositive.
+
 HP DC7800SFF (Small Form Factor)
 Version: Haiku R1 Beta 1 (64-bit)
 Rating: Excellent (everything works… except maybe the camera or fingerprint reader)

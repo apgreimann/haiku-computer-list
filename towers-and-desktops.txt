@@ -33,6 +33,26 @@ CPU: Intel Atom 1,60 GHz
 Networking cards: Atheros AR5BXB63
 Contributor name: Jens
 
+Acer Veriton ES2710G
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 2/Testing (hrev54154_31)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 8 GB
+CPU: Intel	 i7-7700
+GPU: intel HD Graphics 630
+Networking cards: Realtek PCIe GBE Family
+Sound cards: Realtek HD Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contributor: mazbrili
+Contribution date: 5/14/2020 2:15:09
+
 Dell OptiPlex 3040
 Rating: Works very well (nearly everything works)
 Version: Haiku Nightly: 64-bit (hrev53521)

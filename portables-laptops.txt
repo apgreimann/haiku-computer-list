@@ -6,6 +6,28 @@ This list does NOT cover [small] notebooks, tablets, or mobile workstations!
 
 -- General portables or Laptops --
 
+Apple MacBook (1,1; 2006)
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 2 (in testing; upcoming stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Memory: 2 GB
+CPU: Intel 'Core Duo' T2500 (32-bit/x86, 2.0 GHz, 2 cores, 2 MB L2 cache)
+GPU: Intel GMA 950 (64 MB shared VRAM)
+Networking cards: AirPort Extreme (Atheros 5424); Marvell Yukon Gigabit Adapter 88E8053
+Sound cards: Intel High Definition Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound does not work
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku freezes/hangs during restarts on this computer (see solution in Additional Notes)
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Contributor: apgreimann
+Contribution date: 5/15/2020 17:00:10
+Additional notes: When starting up, press a key (like return) to unfreeze the splash screen. WiFi/AirPort on this Mac does work but isn't always reliable in Haiku; I recommend Ethernet instead
+
 Apple MacBook (matte black; polycarbonate MacBook1,1)
 Version: Haiku R1 Beta 1 (32-bit edition)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)

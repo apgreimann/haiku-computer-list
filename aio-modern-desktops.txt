@@ -1,3 +1,23 @@
+Apple iMac (Early 2008; iMac8,1)
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 2 (in testing; upcoming stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Memory: 2 GB
+CPU: Intel "Core 2 Duo" E8135 @ 2.4 GHz (64-bit/x64, 2 cores, 6 MB L2 cache)
+GPU: ATI Radeon HD 2400 XT (128 MB VRAM)
+Networking cards: AirPort Extreme (Broadcom BCM43xx); Gigabit Ethernet
+Sound cards: Intel High Definition Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contributor: apgreimann
+Contribution date: 5/15/2020 17:08:17
+Additional notes: Use Ethernet with Haiku on this Mac
+
 Apple iMac (a1311)
 Version/branch: Haiku R1 Beta 1
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)

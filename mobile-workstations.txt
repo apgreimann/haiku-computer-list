@@ -233,7 +233,32 @@ Power status: Haiku detects the battery and shows charge time correctly
 Cam status: Cameras do not work with Haiku on this computer
 Contributor: Anonymous
 Contribution date: 4/13/2020 15:31:44
-Additional notes: The touchpad has software "buttons" which do not (yet) work in Haiku, so only a left click can be performed. A USB mouse should be used, but it must be plugged in before starting Haiku. Starting the Bluetooth server will cause the server to hang and the process will have to be killed. Audio works, but it must be unmuted using the keyboard. The other volume keys and the brightness keys do not work, but the volume and brightness levels can be changed from Haiku.	
+Additional notes: The touchpad has software "buttons" which do not (yet) work in Haiku, so only a left click can be performed. A USB mouse should be used, but it must be plugged in before starting Haiku. Starting the Bluetooth server will cause the server to hang and the process will have to be killed. Audio works, but it must be unmuted using the keyboard. The other volume keys and the brightness keys do not work, but the volume and brightness levels can be changed from Haiku.
+
+Purism Librem 15 (puri.sm)
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 2 (in testing; upcoming stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB C), USB storage media (using USB 3.0), USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed), NVMe/PCI Express drive or a M.2 drive (imaged or installed), SD card (or other memory card), Network share or server, Other (if so, please mention in Additional Notes)	
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit), Legacy BIOS/CSM
+Memory: 4 GB
+CPU: Intel Core i7-6500U 2.59 Ghz 4 threads (Xeon E3-1200 v5/v6 / E3-1500 v5 / 6th/7th/8th Gen Core Processor Gaussian Mixture Model)
+GPU: Intel Skylake GT2 HD Graphics 520	
+Networking cards: Qualcomm Atheros AR9462 Wireless Network Adapter
+Sound cards: Intel Sunrise Point LP HD Audio
+Boot options: Selected safe graphics resolution (i.e. 1024x768x16)
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works by default or "out of the box"
+Networking status: WiFi card(s) work
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contribution date: 5/22/2020 7:31:09
+Contributor: Matthias Klees
+Additional notes: ”Contact data (feel free to speak english to me): https://www.szenekonzept.de/kontakt-matthias-klees"
 
 System76 Oryx Pro (oryp5)
 Rating 3/4: Haiku works with most of the components

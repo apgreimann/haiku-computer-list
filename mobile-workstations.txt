@@ -169,6 +169,29 @@ Additional notes (multi-line):
 - Bluetooth and SD card reader wasn't tested.
 Contribution date: 11/28/2018 19:10:35
 
+IBM ThinkPad T42
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1 Beta 2 (in testing; upcoming stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 2 GB
+CPU: Intel Pentium M "Dothan", 1.7 GHz
+GPU: ATI Radeon Mobility 9600, 64MB RAM
+Networking cards: Intel PRO/Wireless 2200 BG Mini PCI Adapter
+Sound cards: Intel AC97 Audio
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: My computer does not have a webcam, etc.
+Contribution date: 5/25/2020 20:08:58
+Contributor: LambdaCalculus
+
 (Lenovo) ThinkPad T440P (Quad-core i7, 16GB of RAM, GeForce GT 730 @ 900p resolution)
 Rating: Good (nearly everything works; e.g. the display, audio, ports, peripherals work, but no Wifi)
 Version: Haiku R1 Beta 1 (64-bit)

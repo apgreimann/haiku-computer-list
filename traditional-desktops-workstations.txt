@@ -1,0 +1,32 @@
+# This file contains traditional desktops and workstations. These include both
+# factory-built machines and custom-built machines, separated by section
+
+# ---------------------------------------------------
+# Custom built machines
+# ---------------------------------------------------
+
+Custom build
+Mainboard: Asus K8V-X-SE
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+Memory: 2 GB
+CPU: AMD Athlon 64 3000+, 2.0 GHz, 512 KB, 1 thread
+GPU: GeForce GT 6600
+Networking cards: VIA Rhine II Fast Ethernet
+Sound cards: SoundMax AD1980
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works, but by using OpenSound, etc.
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly	
+Cam status: My computer does not have a webcam, etc.
+Contributor: alexanrsousa
+Contribution date: 6/11/2020 12:32:13
+
+# ---------------------------------------------------
+# Factory-built towers and workstations
+# ---------------------------------------------------

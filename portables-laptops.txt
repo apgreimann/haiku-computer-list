@@ -1,1 +1,37 @@
+# These are general-purpose portable computers or larger, general purpose
+# notebooks commonly called 'laptops'. For thin/light portable computers
+# like the Apple MacBook Air or HP x360 or Spectre, please see the 'notebooks'
+# file.
 
+
+[Lenovo] Thinkpad X301
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)	Startup mode: Legacy BIOS/CSM
+Memory: 2 GB
+CPU: Intel [Core 2 Duo SU9400]
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works, by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Additional notes: Works well overall
+Contributor: ubu
+Contribution date: 6/11/2020 16:43:08
+		
+Toshiba Satellite-S4527
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+Memory: 2gb
+CPU: Intel [Pentium T2080]
+Contributor: none [anonymous contributor]
+Contribution date: 6/13/2020 18:28:57

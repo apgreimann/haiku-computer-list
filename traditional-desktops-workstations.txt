@@ -70,3 +70,23 @@ Contributor: none [anonymous contributor]
 # ---------------------------------------------------
 # Factory-built towers and workstations
 # ---------------------------------------------------
+
+LENOVO (11BMS03Y00)
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Rating 4/4: Haiku works with all (or nearly all) components
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 8 GB	
+CPU: Intel Pentium Gold G5420
+GPU: Intel UHD Graphics 610
+Networking cards: Realtek PCIE GBE
+Sound cards: Realtek
+Graphics status: Graphics work: by default or "out of the box"
+Sound status: Sound works: by default or "out of the box"
+Networking status: Ethernet card(s): work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contribution date: 6/18/2020 2:02:19
+Contributor: mazbrili

@@ -1,1 +1,31 @@
+# This file contains tablet and/or convertible notebook computers from R1/Beta2 on
+# For older entries please look in the archived folder
 
+Model: Hana 2 en 1 (this one, it’s a tablet convertible)
+Rating: Works poorly
+Version: Haiku R1/beta2
+Startup media: USB storage media (USB 2)
+Started with: (U)EFI (64-bit, by choice)
+Boot options: Default/booted straight into Haiku
+CPU: Intel Atom x5-Z8350 (Cherrytrail, 1.44GHz)
+GPU: Intel HD Graphics (Cherrytrail)
+Sound cards: Windows displays it as “Intel SST Audio Device”, shows up as bytcht-es8316 on Linux, not working
+Networking cards: Broadcom 802.11n WiFi Adapter (shows up as BCM43430 on Linux), not working
+USB types: 1 USB 2.0 port, 1 USB 3.0 port
+Webcams: Intel AVStream Camera, not working
+Memory: 2 GB DIMM DDR3 Synchronous 1600 MHz
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: MicroSD card reader, not working
+Sound status: Sound not working, sound card not recognized
+Networking status: WiFi not working, doesn’t have an ethernet port
+Graphics status: Graphics work natively/out of the box
+Power status: Battery appears twice, always displays 100%, vendor is “Intel SR 1”
+Restarting: Works fine
+Additional notes:
+- Touchpad not working
+- Touch screen (SileadTouch) not working (firmware, using the generic gsl1680 on Windows)
+- Accelerometer (Bosch) not tested
+- Micro HDMI port not tested
+Contribution date: 2020-06-17 20:46 UTC
+Contributor: anon

@@ -27,6 +27,46 @@ Cam status: My computer does not have a webcam, etc.
 Contributor: alexanrsousa
 Contribution date: 6/11/2020 12:32:13
 
+CSL Ultrasilent J3455
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Built-in optical drive (CD/DVD media)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 8 GB
+CPU: Intel Celeron J3455
+GPU: Intel HD Graphics 500
+Networking cards: Intel Onboard LAN
+Sound cards: Intel Onboard Soundcard
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works, by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contribution date: 6/16/2020 6:45:09
+Contributor: none [anonymous contributor]
+
+CSL Ultrasilent J3455
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: Built-in optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+Memory: 8 GB
+CPU: Intel Celeron J3455
+GPU: Intel HD Graphics 500
+Sound cards: Intel HD Audio
+Boot options: Did not call the BIOS
+Graphics status: Graphics work: by default or "out of the box"
+Sound status: Sound works: by default or "out of the box"
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contribution date: 6/17/2020 7:10:00
+Contributor: none [anonymous contributor]
+
 # ---------------------------------------------------
 # Factory-built towers and workstations
 # ---------------------------------------------------

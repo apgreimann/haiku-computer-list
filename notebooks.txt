@@ -1,6 +1,32 @@
 # These are smaller portables, like the MacBook Air; these include
 # 'notebooks' such as subnotebooks, netbooks, and ultra-portable or
-# thinbook machines such as cloudbooks
+# thinbook machines such as cloudbooks since R1/Beta2
+# For older entries, please see 'archived'
+
+[ASUS VivoBook] x510qa
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 8gb
+CPU: AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G
+GPU: AMD Radeon R7 Graphics
+Networking cards: Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC
+Sound cards: SWD\MMDEVAPI\{0.0.0.00000000}.{A317EAA6-CC79-4F42-82D6-6F5E92D1448E}
+Boot options: Used fail-safe graphics driver
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works, by default or "out of the box"
+Networking status: Networking does not work on this computer
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Neither the trackpad and keyboard work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Touch input: does not work
+Contribution date: 6/16/2020 9:08:21
+Contributor: bregrif
 
 One Mix 3 Yoga
 Rating 3/4: Haiku works with most of the components					

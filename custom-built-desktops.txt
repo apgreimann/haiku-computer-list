@@ -1,0 +1,24 @@
+# When the lists were updated, custom desktops were merged into the traditional desktops page.
+# This file is bringing these back into a 'custom' file again...
+
+Custom built machine (if so, you will need to mention your machine's motherboard!)
+Gigabyte (GA-H61M-DS2)
+Gigabyte GA-H61M-DS2
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+Memory: 4 GB
+CPU: Intel Pentium G645
+GPU: Intel HD Graphics Core 2000/3000
+Networking cards: Atheros GbE
+Sound cards: Realtek ALC887
+Graphics status: Graphics work by default or "out of the box"
+Sound status: Sound works by default or "out of the box"
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Additional notes: network card not tested because its standalone right now
+Contribution date: 6/18/2020 19:55:13
+Contributor: mazbrili

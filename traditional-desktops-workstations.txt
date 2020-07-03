@@ -71,6 +71,23 @@ Contributor: none [anonymous contributor]
 # Factory-built towers and workstations
 # ---------------------------------------------------
 
+ASUS D520MT_D520SF_D320MT
+Rating 3/4: Haiku works with most of the components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 4GB
+CPU: Intel Pentium G4400
+GPU: Intel HD Graphics 510
+Networking cards: Intel
+Graphics work: by default or "out of the box"
+Sound does not work
+Ethernet card(s): work
+Contribution date: 6/18/2020 20:40:01
+Contributor: mazbrili
+
 LENOVO (11BMS03Y00)
 Version/branch: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)

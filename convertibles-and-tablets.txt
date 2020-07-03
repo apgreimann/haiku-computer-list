@@ -7,12 +7,12 @@ Version: Haiku R1/beta2
 Startup media: USB storage media (USB 2)
 Started with: (U)EFI (64-bit, by choice)
 Boot options: Default/booted straight into Haiku
-CPU: Intel Atom x5-Z8350 (Cherrytrail, 1.44GHz)
+CPU: Intel Atom x5-Z8300 (Cherrytrail, 1.44GHz, I had to edit this part, the specs page is wrong, it’s not a Z8350)
 GPU: Intel HD Graphics (Cherrytrail)
-Sound cards: Windows displays it as “Intel SST Audio Device”, shows up as bytcht-es8316 on Linux, not working
+Sound cards: Windows displays it as “Intel SST Audio Device”, shows up as bytcht-es8316 on Linux and ESSX8316 on Haiku, not working
 Networking cards: Broadcom 802.11n WiFi Adapter (shows up as BCM43430 on Linux), not working
 USB types: 1 USB 2.0 port, 1 USB 3.0 port
-Webcams: Intel AVStream Camera, not working
+Webcams: Intel AVStream Camera, not working (appears as OVTI2680 in Haiku)
 Memory: 2 GB DIMM DDR3 Synchronous 1600 MHz
 CPU manufacturer: Intel
 Share on GitHub: Yes
@@ -24,8 +24,9 @@ Power status: Battery appears twice, always displays 100%, vendor is “Intel SR
 Restarting: Works fine
 Additional notes:
 - Touchpad not working
-- Touch screen (SileadTouch) not working (firmware, using the generic gsl1680 on Windows)
-- Accelerometer (Bosch) not tested
+- Touch screen (SileadTouch, PNP1680) not working (firmware, using the generic gsl1680 on Windows)
+- Accelerometer (Bosch, BOSC0200 on Haiku, unable to test)
 - Micro HDMI port not tested
-Contribution date: 2020-06-17 20:46 UTC
 Contributor: anon
+Contribution date: 2020-06-17 20:46 UTC (updated on 2020-06-23 to add more hardware details)
+

@@ -3,6 +3,40 @@
 # like the Apple MacBook Air or HP x360 or Spectre, please see the 'notebooks'
 # file.
 
+Model: [Acer] Aspire V7-482PG
+Rating: Works amazingly well
+Version: Haiku R1/beta2 (quick edit, the 64-bit version)
+Startup media: USB storage media (USB 2)
+Started with: Legacy BIOS and UEFI
+Boot options: Default on BIOS, 1280x1024 resolution on UEFI, the default of 1920x1080 crashes
+CPU: Intel Core i5-4200U
+GPU: Intel HD 4400 and Nvidia GeForce GT 750M
+Sound cards: Intel (Haswell-ULT) HDA Controller
+Networking cards: Intel Corporation Wireless 7260 (works, I’m using it to post this from Haiku) and Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet (not tested but should work, Haiku displays its MAC address, mine is the RTL8411B)
+USB types: 1 USB 3.2, 2 USB 2.0
+Webcams: Chicony Electronics HD WebCam, not recognized, not working
+Memory: 8 GB DDR3
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: RTL8411B PCI Express Card Reader (PCI Express link bandwidth shared with Ethernet controller), not working
+Sound status: I can change the volume, sound card is recognized but sound doesn’t play
+Networking status: WiFi works, Ethernet is recognized but I can’t test it
+Graphics status: Work out of the box
+Power status: Battery appears, PowerStatus reports percentage fine
+Restarting: Works fine
+Additional notes:
+- Touchpad doesn’t recognize right click (workaround: configure as 1 button touchpad and use ctrl+click to right click), edge scroll works well. The right click problem happens with other laptops too, all Synaptics touchpads, seems like a limitation in the driver
+- Elan Microelectronics touch screen works! Haiku only uses the touch info to move the cursor though, I can’t find a way to “click”
+- HDMI port not tested
+- UEFI boot requires more testing, when I tried it last week it caused glitched graphics and Haiku was unusable
+- The 24GB M-pcie SSD (Kingston SMS151S324G) is recognized by DriveSetup
+- The HDD of this laptop was replaced with a 250G Samsung SSD that is also recognized by DriveSetup
+- The mic doesn’t seem to be working, SoundRecorder doesn’t record anything
+- Bluetooth works and can pair
+- This laptop is a great candidate for using Haiku on real hardware if you don’t need sound or recording video
+Contributor: anon
+Contribution date: 2020-06-23 5:58 UTC (updated to add more hardware details at 16:24 UTC)
+
 HP Pavillion dv6000 series (dv6345us)
 Rating 3/4: Haiku works with most of the components
 Version/branch: Haiku R1/Beta2 (latest stable release)

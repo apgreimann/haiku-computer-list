@@ -28,6 +28,36 @@ Touch input: does not work
 Contribution date: 6/16/2020 9:08:21
 Contributor: bregrif
 
+Model: HP Mini 210
+Rating: Fairly well
+Version: Haiku R1/beta2 64-bit
+Startup media: USB storage media (USB 2)
+Started with: Legacy BIOS (this laptop doesn’t have UEFI)
+Boot options: Default
+CPU: Intel Atom N450
+GPU: Intel GMA 3150
+Sound cards: Intel NM10/ICH7 HDA Controller
+Networking cards: Realtek RTL81xE PCI Express Fast Ethernet controller and Broadcom BCM4312 802.11b/g LP-PHY
+USB types: 3 USB 2.0
+Webcams: HP Webcam-50, not recognized, not working
+Memory: 2 GB DDR2
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: Yes, working
+Sound status: Sound card recognized, volume control works, sound not playing
+Networking status: Ethernet works, WiFi doesn’t work (needs proprietary firmware, Linux installs it with b43-fwcutter, more info here)
+Graphics status: Works out of the box
+Power status: Battery appears, PowerStatus reports percentage fine
+Restarting: Works fine
+Additional notes:
+- Bluetooth works
+- Touchpad is Synaptics, edge scrolling works, right click doesn’t work, unlike my Acer here it gets recognized as a PS/2 mouse instead of a touchpad, configure as a 1 button mouse and use ctrl+click to right click
+- VGA port not tested
+- When inserting an SD card reader Haiku becomes unresponsive for about 30 seconds, after that it works and can read the card
+- Mic is recognized but SoundRecorder doesn’t record anything
+Contributor: anon
+Contribution date: 2020-06-23 15:52 UTC
+
 One Mix 3 Yoga
 Rating 3/4: Haiku works with most of the components					
 Version/branch: Haiku R1/Beta2 (latest stable release)

@@ -80,6 +80,24 @@ Cam status: Cameras do not work with Haiku on this computer
 Additional notes: Works well overall
 Contributor: ubu
 Contribution date: 6/11/2020 16:43:08
+
+Toshiba Satellite A135
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku R1/Beta2 (latest stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+Memory: 2gb
+CPU: Intel Dual Core, 1.73ghz
+Graphics work: but in Safe Graphics mode or Vesa
+Sound works: by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Cam status: My computer does not have a webcam, etc.	
+Contribution date: 7/7/2020 17:47:59
+Contributor: None [Anonymous contributor]
 		
 Toshiba Satellite-S4527
 Rating 3/4: Haiku works with most of the components

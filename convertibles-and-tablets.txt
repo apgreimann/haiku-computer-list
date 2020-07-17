@@ -30,3 +30,25 @@ Additional notes:
 Contributor: anon
 Contribution date: 2020-06-17 20:46 UTC (updated on 2020-06-23 to add more hardware details)
 
+HP Envy x360 15-u010DX
+Rating 4/4: Haiku works with all (or nearly all) components
+Version/branch: Haiku Nightly (hrev54429)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup mode: (U)EFI, by choice (64-bit)
+Memory: 8 GB
+CPU: Intel i5-4210U 2,39 GHZ
+GPU: Intel HD Graphics 4400
+Networking cards: Intel Wireless 7260, Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+Sound cards: Intel 8 Series HD Audio Controller
+Graphics status: Graphics work, by default or "out of the box"
+Sound status: Sound works, by default or "out of the box"
+Networking status: Both Ethernet and WiFi cards work
+SD status: SD drive does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Power status: Haiku detects the battery, but does not report charge time correctly
+Touch input: works
+Additional notes: I’m not sure, but I think I have had to enable fail-safe graphics on the installation from the UEFI, later it works correctly.
+Contribution date: 7/16/2020 2:44:15
+Contributor: Anonymous
+

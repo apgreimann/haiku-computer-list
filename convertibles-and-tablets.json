@@ -20,7 +20,7 @@
 "Sound_status" : "Sound not working, sound card not recognized",
 "Networking_status" : "WiFi not working, doesn’t have an ethernet port",
 "Graphics_status" : "Graphics work natively/out of the box",
-"Power_status" : "Battery appears twice, always displays 100%, vendor is Intel SR 1”,
+"Power_status" : "Battery appears twice, always displays 100%, vendor is Intel SR 1",
 "Restart_status" : "Works fine",
 "Additional_notes" : "Touchpad not working, Touch screen (SileadTouch, PNP1680) not working (firmware, using the generic gsl1680 on Windows), Accelerometer (Bosch, BOSC0200 on Haiku, unable to test), Micro HDMI port not tested",
 "Contributor" : "anon",

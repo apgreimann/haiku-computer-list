@@ -42,10 +42,10 @@
 "Sound_cards" : "Realtek High-Definition Audio",
 "Boot_options" : "Used fail-safe graphics driver",
 "Graphics_status" : "Graphics work, but in Safe Graphics mode or Vesa",
-Sound_status: "Sound works, but by using OpenSound, etc",
+"Sound_status" : "Sound works, but by using OpenSound, etc",
 "Networking_status" : "Both Ethernet and WiFi cards work",
 "SD_status" : "SD drive works with Haiku",
-"Restart_status" : Haiku restarts smoothly
+"Restart_status" : "Haiku restarts smoothly",
 "Input_status" : "Trackpad and keyboard both work",
 "Power_status" : "Haiku does NOT detect the battery",
 "Cam_status" : "Cameras do not work with Haiku on this computer",

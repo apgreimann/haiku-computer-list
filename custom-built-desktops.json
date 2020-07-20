@@ -2,11 +2,11 @@
   "CustomDesktops": [
 
 {
-"Model" : "Custom build [ASRock 970 Extreme4]"
+"Model" : "Custom build [ASRock 970 Extreme4]",
 "Rating" : "4/4 - Haiku works with all (or nearly all) components",
 "Version" : "Haiku R1/Beta2 (latest stable release)",
 "Architecture" : "64-bit x86 (Intel x64/AMD64, etc.)",
-"Share_on_GitHub: "Yes",
+"Share_on_GitHub" : "Yes",
 "Startup_media" : "USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)",
 "Startup_mode" : "Legacy BIOS/CSM",
 "Memory" : "8 GB",

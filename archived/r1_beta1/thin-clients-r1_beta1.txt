@@ -31,3 +31,4 @@ Restart status: Haiku restarts smoothly
 Additional notes: Do not plug anything on the thunderbolt port, it avoids booting.
 Contributor: anonymous
 Contribution date: 1/24/2020 9:01:16
+

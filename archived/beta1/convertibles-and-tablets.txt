@@ -174,3 +174,4 @@ Additional I/O: SD/MMC card reader works with Haiku
 Additional notes: Scaling is greatly needed to make this usable. It'd also be lovely to see touch screen and orientation support.
 Contributor: Xylobol
 Contribution date: 2/15/2019 0:49:13
+

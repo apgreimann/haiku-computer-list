@@ -885,3 +885,4 @@ Sound card: Toshiba integrated
 Networking cards: BCM 4313 wi-fi
 Additional notes: Sound didn't work at all and when outputting to an external display via the VGA port, the video signal is very fuzzy
 Contribution date: 11/25/2018 12:44:17
+

@@ -1,5 +1,26 @@
 # Custom-built desktops
 
+Mainboard: ASUS PRIME X370-PRO (AMD Ryzen 1800x)
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed), NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+RAM: 16384 (16GB)
+CPU: AMD Ryzen 1800x, 16M cache. 3.9 GHZ x8, 16 threads
+GPU: GIGABYTE RADEON RX VEGA 56 GAMING OC 8G
+Networking cards: Intel 1211AT Gigabit
+Sound cards: Realtek S1220A (8-Channel)
+Boot options: Used fail-safe graphics driver, Started graphics in framebuffer
+Graphics status: Graphics work, but in framebuffer mode (similar to above option)
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Contribution date: 7/19/2020 14:49:10
+Contributor: none (anonymous contributor)
+
 Model: Custom build [ASRock 970 Extreme4]
 Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
@@ -19,6 +40,26 @@ SD_status: SD drive works with Haiku
 Restart_status: Haiku restarts smoothly
 Contribution_date: 7/6/2020 17:26:35
 Contributor: Jeremy Passarelli
+
+Model: DIY
+Mainboard: Gigabyte B450 Aorus PRO
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku Nightly (hrev54428)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+Memory: 32 GB
+CPU: AMD Ryzen 2600
+GPU: Gigabyte Radeon 5600-XT Gaming
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Additional notes: Sound output only works via the front panel connector, can't find a suitable channel in media prefs for the speaker port on the back.
+Contribution date: 7/19/2020 20:51:20
+Contributor: Lacey
 
 Model: Gigabyte GA-H61M-DS2
 Rating: 4/4 - Haiku works with all (or nearly all) components

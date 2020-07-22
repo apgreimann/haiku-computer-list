@@ -1,4 +1,6 @@
-Workstations and servers generally denote machines dedicated to serving content or doing serious production tasks; they usually are equipped with high-end AMD or Intel processors, such as the Xeon series, and are usually designed to house an array of I/O. Examples include the Apple XServe, HP ProLiant, and Dell PowerEdge.
+Workstations and servers generally denote machines dedicated to serving content or doing serious production tasks;
+they usually are equipped with high-end AMD or Intel processors, such as the Xeon series, and are usually designed to house an array of I/O.
+Examples include the Apple XServe, HP ProLiant, and Dell PowerEdge.
 
 HP Z2 Small Form Factor G4 Workstation
 Rating: Excellent (everything works... except maybe the camera or fingerprint reader)

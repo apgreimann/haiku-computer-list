@@ -1,0 +1,76 @@
+# Notebooks, netbooks, cloudbooks, thinbooks, etc.
+
+Model: [ASUS VivoBook] x510qa
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (64-bit)
+RAM: 8gb
+CPU: AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G
+GPU: AMD Radeon R7 Graphics
+Networking cards: Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC
+Sound cards: SWD\MMDEVAPI\{0.0.0.00000000}.{A317EAA6-CC79-4F42-82D6-6F5E92D1448E}
+Boot options: Used fail-safe graphics driver
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works, by default or out of the box
+Networking status: Networking does not work on this computer
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input status: Neither the trackpad and keyboard work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Touch status: does not work
+Contribution date: 6/16/2020 9:08:21
+Contributor: bregrif
+
+Model: HP Mini 210
+Rating: Fairly well
+Version: Haiku R1/beta2 64-bit
+Startup media: USB storage media (USB 2)
+Startup mode: Legacy BIOS (this laptop doesn’t have UEFI)
+Boot options: Default
+CPU: Intel Atom N450
+GPU: Intel GMA 3150
+Sound cards: Intel NM10/ICH7 HDA Controller
+Networking cards: Realtek RTL81xE PCI Express Fast Ethernet controller and Broadcom BCM4312 802.11b/g LP-PHY
+USB types: 3 USB 2.0
+Webcams: HP Webcam-50, not recognized, not working
+RAM: 2 GB DDR2
+Share on GitHub: Yes
+SD status: Yes, working
+Sound status: Sound card recognized, volume control works, sound not playing
+Networking status: Ethernet works, WiFi doesn’t work (needs proprietary firmware, Linux installs it with b43-fwcutter, more info here)
+Graphics status: Works out of the box
+Power status: Battery appears, PowerStatus reports percentage fine
+Restart status: Works fine
+Additional notes (multi-line):
+- Bluetooth works
+- Touchpad is Synaptics, edge scrolling works, right click doesn’t work, unlike my Acer here it gets recognized as a PS/2 mouse instead of a touchpad, configure as a 1 button mouse and use ctrl+click to right click
+- VGA port not tested
+- When inserting an SD card reader Haiku becomes unresponsive for about 30 seconds, after that it works and can read the card
+- Mic is recognized but SoundRecorder doesn’t record anything
+Contributor: anon
+Contribution date: 2020-06-23 15:52 UTC
+
+Model: One Mix 3 Yoga
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+RAM: 7,7GB
+CPU: Intel m3
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, but by using OpenSound, etc
+Networking status: WiFi card(s): work
+SD status: SD drive does NOT work with Haiku
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Touch status: Touch input does not work
+Contribution date: 6/11/2020 17:42:18
+Contributor: Marek
+Additional notes: Screen orientation, nor HDPI scaling didn’t work at all.

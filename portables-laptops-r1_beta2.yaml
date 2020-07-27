@@ -34,6 +34,52 @@ Contribution_date: "2020-06-23 5:58 UTC (updated to add more hardware details at
 
 ---
 
+Model: "Dell Latitude D610"
+Rating: "3/4 - Haiku works with most of the components"
+Version: "Haiku Nightly (hrev54460)"
+Architecture: "32-bit x86 (i686, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "1 GB"
+CPU: "Intel Pentium M (2 GHz), 2MB L2 cache, 1 core"
+GPU: "Intel GMA 915GM/GMS/910GML Express Graphics Controller"
+Networking_cards: "Intel Pro Wireless 2200BG (Calexico2), Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express"
+Sound_cards: "Intel AC'97 Audio Controller (82801FB ICH6 family)"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound_works, by default or out of the box"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Additional_notes: "No Wifi networks are detected so this probably means Wifi doesn't work... didn't test Ethernet; also track stick in keyboard does not work"
+Contribution_date: "7/25/2020 16:03:04"
+Contributor: "anonymous"
+
+---
+
+Model: "HP 2000-2c29WM"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "4 GB"
+CPU: "AMD (E2-1800, 1MB L2 cache, 1.7GHz x2, 2 threads"
+GPU: "AMD Radeon HD 7340 Wrestler"
+Networking_cards: "Qualcomm Atheros AR9485 (atheroswifi), Realtek RTL810xE PCI Express Fast Ethernet controller (rtl81xx/0)"
+Sound_cards: "AMD FCH Azalia Controller, Wrestler HDMI audio"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound_works, by default or out of the box"
+Networking_status: "Both Ethernet and WiFi cards work"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Additional_notes: "Haiku can freeze on shutdown; always restart the computer (then press the power button before the boot menu) to shut down."
+Contribution_date: "7/22/2020 17:36:05"
+Contributor: "anonymous"
+
+---
+
 Model: "HP Pavillion dv6000 series (dv6345us)"
 Rating: "3/4 - Haiku works with most of the components"
 Version: "Haiku R1/Beta2 (latest stable release)"

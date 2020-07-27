@@ -1,5 +1,29 @@
 # Notebooks, netbooks, cloudbooks, etc.
 
+Model: "Acer Aspire One AOA150"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku Nightly (hrev54460)"
+Architecture: "32-bit x86 (i686, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "1 GB"
+CPU: "Intel Atom N270, 512k cache, 1.60 GHz, 2 cores"
+GPU: "Intel Mobile 945GSE Express Integrated Graphics Controller"
+Networking_cards: "Qualcomm Atheros AR242x/542x Wireless Network Adapter (PCI-Express), Realtek RTL810xE PCI Express Fast Ethernet controller"
+Sound_cards: "Intel NM10/ICH7 Family High Definition Audio Controller"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound_works, by default or out of the box"
+Networking_status: "WiFi card(s) are working"
+Restart_status: "Haiku freezes/hangs during restarts on this computer"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Additional_notes: "Restart and shut down freeze up on here... I have to hold down power to get it to turn off."
+Contribution_date: "7/25/2020 15:54:30"
+Contributor: "anonymous"
+
+---
+
 Model: "[ASUS VivoBook] x510qa"
 Rating: "4/4 - Haiku works with all (or nearly all) components"
 Version: "Haiku R1/Beta2 (latest stable release)"

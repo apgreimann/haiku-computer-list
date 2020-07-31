@@ -34,31 +34,6 @@ Contribution_date: "2020-06-23 5:58 UTC (updated to add more hardware details at
 
 ---
 
-Model: "MacBook Pro 13 (2020) - see review notes"
-Rating: "4/4 - Haiku works with all (or nearly all) components"
-Version: "Haiku R1/Beta2 (latest stable release)"
-Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
-Share_on_GitHub: "Yes, share on GitHub"
-Startup_media: "USB (external) optical drive (CD/DVD media), Built-in optical drive (CD/DVD media)"
-Startup_mode: "(U)EFI, but because my computer only supports EFI (64-bit)"
-RAM: "32 GB"
-CPU: "(Intel)"
-Graphics_status: "Graphics work, by default or out of the box"
-Sound_status: "Sound works, by default or out of the box"
-Networking_status: "WiFi card(s) are working"
-SD_status: "SD drive is working with Haiku"
-Restart_status: "Haiku restarts smoothly"
-Input_status: "Trackpad and keyboard both work"
-Power_status: "Haiku detects the battery and shows charge time correctly"
-Cam_status: "Built-in cameras and/or webcam works"
-Pen_status: "Touch/pen input works"
-Additional_notes: "long live Haiku!"
-Contribution_date: "7/28/2020 14:49:38"
-Contributor: "Friederike"
-Review_notes: "Unsure if this is truly a 2020 or if this report is totally accurate. SD card reader mentioned as working here where USB C MBPs generally don't have one; pen input mentioned and will assume this is referring to a Wacom tablet."
-
----
-
 Model: "Dell Latitude D610"
 Rating: "3/4 - Haiku works with most of the components"
 Version: "Haiku Nightly (hrev54460)"
@@ -151,6 +126,49 @@ Cam_status: "Cameras do not work with Haiku on this computer"
 Additional_notes: "Works well overall"
 Contributor: "ubu"
 Contribution_date: "6/11/2020 16:43:08"
+
+---
+
+Model: "(Lenovo) Thinkpad x220"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share on GitHub: "Yes"
+Startup_media: "USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "(U)EFI, but because my computer only supports EFI (64-bit), Legacy BIOS/CSM"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, but by using OpenSound, etc."
+Networking_status: "WiFi card(s) are working"
+Restart_status: "Haiku restarts smoothly"
+Input_devices: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Additional_notes: "https://www.youtube.com/watch?v=Cfbn4hgczQU"
+Contribution_date: "7/29/2020 7:55:52"
+Contributor: "Linux Lounge"
+Review_notes: "Mentioned UEFI only, but BIOS also mentioned; will assume this means the system supports both."
+
+---
+
+Model: "(Lenovo) Thinkpad T61"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "2GB"
+CPU: "(Intel)"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_status: "WiFi card(s) are working"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Cam_status: "My computer does not have a webcam, etc."
+Additional_notes: "https://www.youtube.com/watch?v=36Kz5bK--b4"
+Contribution_date: "7/29/2020 8:05:18"
+Contributor: "Nomadic Dmitry"
 
 ---
 

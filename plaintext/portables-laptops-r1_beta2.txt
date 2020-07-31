@@ -120,6 +120,45 @@ Additional notes: Works well overall
 Contributor: ubu
 Contribution date: 6/11/2020 16:43:08
 
+Model: (Lenovo) Thinkpad x220
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit), Legacy BIOS/CSM
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, but by using OpenSound, etc.
+Networking status: WiFi card(s) are working
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Additional notes: https://www.youtube.com/watch?v=Cfbn4hgczQU
+Contribution date: 7/29/2020 7:55:52
+Contributor: Linux Lounge
+Review notes: Mentioned UEFI only, but BIOS also mentioned; will assume this means the system supports both.
+
+Model: (Lenovo) Thinkpad T61
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+RAM: 2GB
+CPU: (Intel)
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: WiFi card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: My computer does not have a webcam, etc.
+Additional notes: https://www.youtube.com/watch?v=36Kz5bK--b4
+Contribution date: 7/29/2020 8:05:18
+Contributor: Nomadic Dmitry
+
 Model: Toshiba Satellite A135
 Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)

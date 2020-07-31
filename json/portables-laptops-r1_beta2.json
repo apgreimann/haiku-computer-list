@@ -129,6 +129,49 @@
 "Contributor" : "ubu",
 "Contribution_date" : "6/11/2020 16:43:08"
 }
+    
+{
+"Model": "(Lenovo) Thinkpad x220",
+"Rating": "4/4 - Haiku works with all (or nearly all) components",
+"Version": "Haiku R1/Beta2 (latest stable release)",
+"Architecture": "64-bit x86 (Intel x64/AMD64, etc.)",
+"Share on GitHub": "Yes",
+"Startup_media": "USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)",
+"Startup_mode": "(U)EFI, but because my computer only supports EFI (64-bit), Legacy BIOS/CSM",
+"Graphics_status": "Graphics work, by default or out of the box",
+"Sound_status": "Sound works, but by using OpenSound, etc.",
+"Networking_status": "WiFi card(s) are working",
+"Restart_status": "Haiku restarts smoothly",
+"Input_devices": "Trackpad and keyboard both work",
+"Power_status": "Haiku detects the battery and shows charge time correctly",
+"Additional_notes": "https://www.youtube.com/watch?v=Cfbn4hgczQU"
+"Contribution_date": "7/29/2020 7:55:52",
+"Contributor": "Linux Lounge"
+"Review_notes": "Mentioned UEFI only, but BIOS also mentioned; will assume this means the system supports both."
+}
+
+{
+"Model": "(Lenovo) Thinkpad T61",
+"Rating": "4/4 - Haiku works with all (or nearly all) components",
+"Version": "Haiku R1/Beta2 (latest stable release)",
+"Architecture": "64-bit x86 (Intel x64/AMD64, etc.)",
+"Share_on_GitHub": "Yes",
+"Startup_media": "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)",
+"Startup_mode": "Legacy BIOS/CSM",
+"RAM": "2GB",
+"CPU": "(Intel)",
+"Graphics_status": "Graphics work, by default or out of the box",
+"Sound_status": "Sound works, by default or out of the box",
+"Networking_status": "WiFi card(s) are working",
+"SD_status": "My computer does not have a SD drive",
+"Restart_status": "Haiku restarts smoothly",
+"Input_status": "Trackpad and keyboard both work",
+"Power_status": "Haiku detects the battery and shows charge time correctly",
+"Cam_status": "My computer does not have a webcam, etc.",
+"Additional_notes": "https://www.youtube.com/watch?v=36Kz5bK--b4",
+"Contribution_date": "7/29/2020 8:05:18",
+"Contributor": "Nomadic Dmitry"
+}
 
 {
 "Model" : "Toshiba Satellite A135",

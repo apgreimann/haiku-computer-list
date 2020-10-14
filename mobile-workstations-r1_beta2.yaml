@@ -51,6 +51,30 @@ Contributor : "Kitsune64"
 
 ---
 
+Model: "Lenovo ThinkPad E540"
+Rating: "3/4 - Haiku works with most of the components"
+Version: "Haiku Nightly (hrev54525)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "4 GB"
+CPU: "Intel i5-4650M"
+GPU: "Intel HD Graphics"
+Networking_cards: "Intel Dual Band Wireless-AC 7260"
+Sound_cards: "Conexant CX20751"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound does not work"
+Networking_status: "Both Ethernet and WiFi cards work"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Cam_status: "Cameras do not work with Haiku on this computer"
+Contribution_date: "8/22/2020 5:57:11"
+Contributor: "none (Anonymous contributor)"
+
+---
+
 Model: "Origin EON15-X"
 Rating: "3/4 - Haiku works with most of the components"
 Version: "Haiku R1/Beta2 (latest stable release)"

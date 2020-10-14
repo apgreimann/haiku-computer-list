@@ -33,6 +33,25 @@ Additional notes (multi-line):
 Contributor: anon
 Contribution date: 2020-06-23 5:58 UTC (updated to add more hardware details at 16:24 UTC)
 
+Model: ASUS TUF Gaming FX504
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
+CPU: Intel i5-8300H, 8MB cache, freq min 2.30 GHz max 4 GHz, 8 threads
+GPU: GP107M (GTX1050 Mobile) and UHD Graphics 630
+Networking cards: Intel Wireless-AC 9560
+Graphics status: Graphics work, by default or out of the box
+Networking status: WiFi card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input status: Only the keyboard works
+Power status: Haiku does NOT detect the battery
+Contribution date: 8/24/2020 10:22:51
+Contributor: anon
+
 Model: Dell Latitude D610
 Rating: 3/4 - Haiku works with most of the components
 Version: Haiku Nightly (hrev54460)
@@ -98,6 +117,29 @@ Cam status: Cameras do not work with Haiku on this computer
 Additional notes: Could not boot to a written Haiku setup from an USB flash drive (BIOS doesn't recognize it as bootable), but booting from CD works. The notebook doesn't have a battery plugged in (and I don't have it), but recognizes it as having a bad battery. Wifi is unstable, but useable with some patience.
 Contribution date: 6/17/2020 22:57:30
 Contributor: alexanrsousa
+
+Model: Lenovo T60
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku Nightly (hrev54586)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: (U)EFI, by choice (32-bit)
+RAM: 3070 MB
+CPU: Intel Core 2 Duo T5600 (2x 1,83 GHz)
+GPU: ATI Mobility Radeon X1300
+Networking cards: Intel PRO/Wireless 3945 ABG
+Sound cards: AD1981HD
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: My computer does not have a webcam, etc.
+Contribution date: 9/20/2020 13:48:22
+Contributor: anonymous
 
 Model: [Lenovo] Thinkpad X301
 Rating: 4/4 - Haiku works with all (or nearly all) components
@@ -176,6 +218,53 @@ Input status: Trackpad and keyboard both work
 Cam status: My computer does not have a webcam, etc
 Contribution date: 7/7/2020 17:47:59
 Contributor: None [Anonymous contributor]
+
+Model: Toshiba Satellite C660-16D
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku Nightly (hrev54487)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+RAM: 3 GiB
+CPU: Intel Core 2 Celeron® Dual Core Processor T3500 2.10 GHz
+GPU: Mobile Intel® Graphics Media Accelerator 4500M(GM45)
+Networking cards: Broadcom Inc. BCM4313 802.11bgn
+Sound cards: Intel Corporation 82801I (ICH9 Family) HD Audio Controller
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Networking does not work on this computer
+SD status: SD drive is working with Haiku
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery, but does not report charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Additional notes pt1: Wi-Fi and bluetooth doesn't work because of no built-in firmwares.
+Additional notes pt2: Trackpad sometimes get sluggish.
+Contribution date: 8/3/2020 5:22:11
+Contributor: Maxis
+
+Model: Toshiba Satellite M55-SP329
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (54154)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed), Built-in optical drive (CD/DVD media)
+RAM: 1 GB
+CPU: Intel Pentium M (centrino) 1.7GHz
+GPU: Intel 915GM
+Networking cards: Intel PRO/Wireless 2200BG, Marvell Yukon Ethernet
+Sound cards: Realtek ALC250
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Both Ethernet and WiFi cards work
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Cam status: My computer does not have a webcam, etc.
+Additional notes: Shut down doesn't power off laptop
+Contribution date: 8/9/2020 22:36:58
+Contributor: ESP
 
 Model: Toshiba Satellite-S4527
 Rating: 3/4 - Haiku works with most of the components

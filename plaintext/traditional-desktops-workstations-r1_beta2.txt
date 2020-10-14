@@ -17,6 +17,27 @@ Networking status: Ethernet card(s) work
 Contribution date: 6/18/2020 20:40:01
 Contributor: mazbrili
 
+Model: Lenovo ThinkCentre M710q Tiny
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku Nightly (hrev54641)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), NVMe/PCI Express drive or a M.2 drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit), Legacy BIOS/CSM
+RAM: 8GB
+CPU: Intel i5-7500T
+GPU: Intel HD Graphics 630
+Networking cards: I219-V (ipro1000)
+Sound cards: 200 series PCH HD Audio
+Graphics status: Graphics work, but in framebuffer mode (similar to above option)
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Additional notes: Mine have no wlan installed, but a expansion slot is available.
+Contribution date: 10/14/2020 4:17:27
+Contributor: extrowerk
+
 Model: LENOVO (11BMS03Y00)
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)

@@ -24,7 +24,7 @@
 "Contribution_date": "7/28/2020 14:49:38",
 "Contributor": "Friederike",
 "Review_notes": "Unsure if this is truly a 2020 or if this report is totally accurate. SD card reader mentioned as working here where USB C MBPs generally don't have one; pen input mentioned and will assume this is referring to a Wacom tablet."
-}
+},
 
 {
 "Model" : "HP Pavillion dv5000 (Intel Centrino Duo + Geforce 7400 Gpu)",
@@ -50,6 +50,30 @@
 "Cam_status" : "My computer does not have a webcam, etc.",
 "Contribution_date" : "7/17/2020 13:04:28",
 "Contributor" : "Kitsune64"
+},
+    
+{
+"Model": "Lenovo ThinkPad E540",
+"Rating": "3/4 - Haiku works with most of the components",
+"Version": "Haiku Nightly (hrev54525)",
+"Architecture": "64-bit x86 (Intel x64/AMD64, etc.)",
+"Share_on_GitHub": "Yes",
+"Startup_media": "USB storage media (using Legacy/USB 2)",
+"Startup_mode": "Legacy BIOS/CSM",
+"RAM": "4 GB",
+"CPU": "Intel i5-4650M",
+"GPU": "Intel HD Graphics",
+"Networking_cards": "Intel Dual Band Wireless-AC 7260",
+"Sound_cards": "Conexant CX20751",
+"Graphics_status": "Graphics work, by default or out of the box",
+"Sound_status": "Sound does not work",
+"Networking_status": "Both Ethernet and WiFi cards work",
+"Restart_status": "Haiku restarts smoothly",
+"Input_status": "Trackpad and keyboard both work",
+"Power_status": "Haiku detects the battery and shows charge time correctly",
+"Cam_status": "Cameras do not work with Haiku on this computer",
+"Contribution_date": "8/22/2020 5:57:11",
+"Contributor": "none (Anonymous Contributor)"
 },
 
 {

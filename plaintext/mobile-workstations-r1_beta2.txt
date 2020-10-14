@@ -47,6 +47,28 @@ Cam status: My computer does not have a webcam, etc.
 Contribution date: 7/17/2020 13:04:28
 Contributor : Kitsune64
 
+Model: Lenovo ThinkPad E540
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku Nightly (hrev54525)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+RAM: 4 GB
+CPU: Intel i5-4650M
+GPU: Intel HD Graphics
+Networking cards: Intel Dual Band Wireless-AC 7260
+Sound cards: Conexant CX20751
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound does not work
+Networking status: Both Ethernet and WiFi cards work
+Restart status: Haiku restarts smoothly
+Input status: Trackpad and keyboard both work
+Power status: Haiku detects the battery and shows charge time correctly
+Cam status: Cameras do not work with Haiku on this computer
+Contribution date: 8/22/2020 5:57:11
+Contributor: none (Anonymous contributor)
+
 Model: Origin EON15-X
 Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)

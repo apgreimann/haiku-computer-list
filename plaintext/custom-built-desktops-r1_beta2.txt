@@ -21,6 +21,71 @@ Restart status: Haiku restarts smoothly
 Contribution date: 7/19/2020 14:49:10
 Contributor: none (anonymous contributor)
 
+Model: ASUS P4C800-E
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+RAM: 2GB
+CPU: INTEL '04 PENTIUM 4 3.40GHZ/1M/800 SL7PP MALAY Q452A413
+GPU: ATI SAPPHIRE HD 3850
+Networking cards: RTL8139D
+Sound cards: Creative Labs SB0220
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Additional notes: https://youtu.be/ythW7TmqFrg
+Contribution date: 9/20/2020 15:28:21
+Contributor: BlodTor
+
+Model: Custom Build
+Motherboard: ASRock 970 Extreme4
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: Legacy BIOS/CSM
+RAM: 8 GB
+CPU: AMD FX-8350, 8 cores
+GPU: AMD Radeon R7 250
+Networking cards: Realtek RTL8111E [onboard]
+Sound cards: Realtek ALC892 [onboard]
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: SD drive does NOT work with Haiku
+Restart status: Haiku freezes/hangs during restarts on this computer
+Additional notes pt1: Haiku will sometimes hang/freeze during reboots, and will sometimes hang/freeze after booting (i.e. the bootscreen goes away after booting and will either
+Additional notes pt2: shut down, go back to the bootscreen after bootscreen disappears, or fully boot up)
+Additional notes pt3: Sometimes, Haiku will restart and shutdown smoothly. When shutting down, Haiku will either fully shutdown or freeze at the shutdown screen and not power off the computer.
+Additional notes pt4: Also, Haiku will randomly shut down on me for seemly no reason what-so-ever.
+Additional notes pt5: This is a re-submission. Wasn't sure if the SD card drive worked with Haiku when I first submitted this.
+Contribution date: 8/25/2020 12:05:07
+Contributor: Jeremy Passarelli
+
+Model: ASUS P5KPL-C
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2)
+Startup mode: Legacy BIOS/CSM
+CPU: Intel
+Networking cards: attansic i1
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Additional notes: https://youtu.be/WPmF5poJaNk
+Contribution date: 8/31/2020 1:10:39
+Contributor: Алексей Лещенко
+
+
 Model: Custom build [ASRock 970 Extreme4]
 Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)

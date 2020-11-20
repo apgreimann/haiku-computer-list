@@ -106,6 +106,27 @@ Restart_status: Haiku restarts smoothly
 Contribution_date: 7/6/2020 17:26:35
 Contributor: Jeremy Passarelli
 
+Model: Custom-made (Intel D2500HN)
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup mode: Legacy BIOS/CSM
+RAM: 4 GB
+CPU: Intel Atom D2500
+GPU: Integrated Intel GMA 3600
+Networking cards: Integrated Intel 82574L
+Sound cards: Integrated Intel HD
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Additional notes: Wireless trackpad only works when I right-click the mouse. Also tried to try Haiku moving the SSD drive into a Mac Mini, and when I put it back into the Intel computer, it did not work anymore.
+Contribution date: 10/21/2020 18:14:40
+Contributor: Alberto
+
 Model: DIY
 Mainboard: Gigabyte B450 Aorus PRO
 Rating: 4/4 - Haiku works with all (or nearly all) components

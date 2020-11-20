@@ -72,6 +72,48 @@ Additional notes: No Wifi networks are detected so this probably means Wifi does
 Contribution date: 7/25/2020 16:03:04
 Contributor: anonymous
 
+Model: Fujitsu Lifebook S710
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), Other (if so, please mention in Additional Notes)
+Startup mode: Legacy BIOS/CSM
+RAM: 2Gb
+CPU: Intel(R) Core(TM) i3 CPU M 330  @ 2.13GHz
+GPU: Intel® HD Graphics id: 0x46 type: 0x3
+Networking cards: Intel Gigabit 82577LM id: 0x10ea type: 0x2
+Sound cards: Realtek™ HDAudio codec ALC269 with 2-channel High Definition (HD) audio
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Both Ethernet and WiFi cards work
+SD status: SD drive is working with Haiku
+Restart status: Haiku restarts smoothly
+Input devices: Only the keyboard works
+Power status: Haiku detects the battery and shows charge time correctly
+Contribution date: 11/6/2020 4:13:19
+Contributor: Kamino
+
+Model: hp pavilion g6
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using Legacy/USB 2), USB (external) optical drive (CD/DVD media)
+Startup mode: Legacy BIOS/CSM
+RAM: 3 GB
+CPU: AMD
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound does not work
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Input devices: Trackpad and keyboard both work
+Power status: Haiku does NOT detect the battery
+Cam status: My computer does not have a webcam, etc.
+Contribution date: 10/27/2020 14:59:47
+Contributor: anonymous
+
 Model: HP 2000-2c29WM
 Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)

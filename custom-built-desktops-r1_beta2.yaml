@@ -115,6 +115,29 @@ Contributor: "Jeremy Passarelli"
 
 ---
 
+Model: "Custom-made (Intel D2500HN)"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64 etc.)"
+Share_on_GitHub: "Yes"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "4 GB"
+CPU: "Intel Atom D2500"
+GPU: "Integrated Intel GMA 3600"
+Networking_cards: "Integrated Intel 82574L"
+Sound_cards: "Integrated Intel HD"
+Graphics_status: "Graphics work by default or out of the box"
+Sound_status: "Sound works by default or out of the box"
+Networking_status: "Ethernet card(s) are working"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Input_devices: "Trackpad and keyboard both work"
+Additional_notes: "Wireless trackpad only works when I right-click the mouse. Also tried to try Haiku moving the SSD drive into a Mac Mini and when I put it back into the Intel computer it did not work anymore."
+Contribution_date: "10/21/2020 18:14:40"
+Contributor: "Alberto"
+
+---
+
 Model: "DIY"
 Mainboard: "Gigabyte B450 Aorus PRO"
 Rating: "4/4 - Haiku works with all (or nearly all) components"

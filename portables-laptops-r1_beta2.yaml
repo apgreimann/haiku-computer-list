@@ -55,6 +55,32 @@ Contributor: "anon"
 
 ---
 
+Model: "Dell Inspiron 2200"
+Rating: "3/4 - Haiku works with most of the components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "32-bit x86 (i686, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "1280 MB"
+CPU: "Intel Pentium M 725, 2M cache, 1.6 GHz x1, 1 thread"
+GPU: "Intel Mobile 915GM"
+Networking_cards: "Broadcom 4318 802.11b/g Wireless LAN Controller, Intel Corporation 82562ET/EZ/GT/GZ - PRO/100 VE (LOM) Ethernet Controller Mobile"
+Sound_cards: "82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller Corporation"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_status: "Both Ethernet and WiFi cards work"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Input_devices: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Cam_status: "My computer does not have a webcam, etc."
+Additional_notes: "Offline install of optional wireless firmware did not work the conventional route, you have to install an already patched hpkg and reboot. Furthermore, despite other OSes showing the screen refresh rate locked at 60 Hz, you /can/ use Haiku at 85 Hz, which improves graphical performance in 3D rendering (as tested with the teapot), but do so at your own risk as I'm not sure if it's overclocking the screen or the screen is rated for 85 Hz and other OSes just don't detect that. Opening programs in full screen shows a blank screen that you must alt-F4 out of. The OS is generally sluggish, mostly when WebPositive is open, but works just fine as far as I can tell."
+Contribution_date: "11/20/2020 17:40:21"
+Contributor: "April J."
+
+---
+
 Model: "Dell Latitude D610"
 Rating: "3/4 - Haiku works with most of the components"
 Version: "Haiku Nightly (hrev54460)"
@@ -98,6 +124,30 @@ Input_devices: "Only the keyboard works"
 Power_status: "Haiku detects the battery and shows charge time correctly"
 Contribution_date: "11/6/2020 4:13:19"
 Contributor: "Kamino"
+
+---
+
+Model: "Fujitsu Siemens, ESPRIMO Mobile V5515"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (latest stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed), Built-in optical drive (CD/DVD media)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "3 GB"
+CPU: "Intel Core™ 2 Duo Prozessor T7200"
+GPU: "SiS 771/671"
+Networking_cards: "SiS 191, Qualcomm Atheros AR242x/AR542x"
+Sound_cards: "SiS Azalia Audio Controller"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_cards: "Both Ethernet and WiFi cards work"
+Restart_status: "Haiku restarts smoothly"
+Input_devices: "Trackpad and keyboard both work"
+Power_status: "Haiku detects the battery and shows charge time correctly"
+Cam_status: "My computer does not have a webcam, etc."
+Contribution_date: "11/21/2020 5:55:24"
+Contributor: "ralf"
 
 ---
 

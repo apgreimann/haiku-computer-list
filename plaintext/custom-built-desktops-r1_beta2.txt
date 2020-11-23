@@ -42,6 +42,26 @@ Additional notes: https://youtu.be/ythW7TmqFrg
 Contribution date: 9/20/2020 15:28:21
 Contributor: BlodTor
 
+Mainboard: ASUS P8268-V GEM3
+Rating: 4/4 - Haiku works with all (or nearly all) components							
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share on GitHub: Yes
+Startup media: USB storage media (using USB 3.0), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit), Legacy BIOS/CSM
+RAM: 16GB DDR3-1333
+CPU: Intel Core i7-2600K 3.4GHz
+GPU: GeForce GTX 970
+Networking cards: Intel Ethernet Gbit LAN ipro1000
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive
+Restart status: Haiku restarts smoothly
+Additional notes: https://youtu.be/DSFKMGuE2r4
+Contribution date: 11/21/2020 16:49:46
+Contributor: Druaga1
+
 Model: Custom Build
 Motherboard: ASRock 970 Extreme4
 Rating: 4/4 - Haiku works with all (or nearly all) components
@@ -84,7 +104,6 @@ SD status: My computer does not have a SD drive
 Additional notes: https://youtu.be/WPmF5poJaNk
 Contribution date: 8/31/2020 1:10:39
 Contributor: Алексей Лещенко
-
 
 Model: Custom build [ASRock 970 Extreme4]
 Rating: 4/4 - Haiku works with all (or nearly all) components

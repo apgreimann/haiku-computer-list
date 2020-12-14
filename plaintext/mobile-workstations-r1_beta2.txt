@@ -47,6 +47,49 @@ Cam status: My computer does not have a webcam, etc.
 Contribution date: 7/17/2020 13:04:28
 Contributor : Kitsune64
 
+Model: IBM ThinkPad X40
+Rating: 4/4 - Haiku works with all (or nearly all) components		
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share_on_GitHub: Yes
+Startup_media: FireWire storage media, Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup_mode: Legacy BIOS/CSM
+RAM: 1GB
+CPU: Intel Pentium M 1.2GHz stepping 05
+Networking_cards: Atheros WiFi
+Graphics_status: Graphics work, by default or out of the box
+Sound_status: Sound works, by default or out of the box
+Networking_status: Both Ethernet and WiFi cards work
+SD_status: My computer does not have a SD drive
+Restart_status: Haiku restarts smoothly
+Input_status: Trackpad and keyboard both work
+Power_status: Haiku detects the battery and shows charge time correctly
+Cam_status: My computer does not have a webcam, etc.
+Contribution_date: 11/28/2020 18:07:15
+Contributor: Europa
+
+Model: IBM ThinkPad X40
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 32-bit x86 (i686, etc.)
+Share_on_GitHub: Yes
+USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Legacy BIOS/CSM
+RAM: 1GB
+CPU: Intel Pentium M 1.2GHz stepping 05
+Networking_cards: Atheros WiFi
+Graphics_status: Graphics work, by default or out of the box
+Sound_status: Sound works, by default or out of the box
+Networking_status: Both Ethernet and WiFi cards work
+SD_status: My computer does not have a SD drive
+Restart_status: Haiku restarts smoothly
+Input_status: Trackpad and keyboard both work
+Power_status: Haiku detects the battery and shows charge time correctly
+Cam_status: My computer does not have a webcam, etc.
+Additional_notes: https://youtu.be/Cm0nW_4Lx3U, https://youtu.be/BJMlYniwR5U
+Contribution_date: 11/28/2020 18:10:02
+Contributor: Europa
+
 Model: Lenovo ThinkPad E540
 Rating: 3/4 - Haiku works with most of the components
 Version: Haiku Nightly (hrev54525)
@@ -68,6 +111,31 @@ Power status: Haiku detects the battery and shows charge time correctly
 Cam status: Cameras do not work with Haiku on this computer
 Contribution date: 8/22/2020 5:57:11
 Contributor: none (Anonymous contributor)
+
+Model: Lenovo ThinkPad R400
+Rating: 4/4 - Haiku works with all (or nearly all) components
+Version: Haiku Nightly (hrev54738)
+Architecture: 32-bit x86 (i686, etc.)
+Share on GitHub: Yes
+Startup_media: USB storage media (using Legacy/USB 2)
+Startup_mode: Legacy BIOS/CSM
+Memory: 4 GB
+CPU: Intel Core 2 Duo P8700@2.53GHz
+GPU: Intel GM45 8086:2a43
+Networking_cards: WiFi: PRO/Wireless 5100 AGN (8086:4237);  Wired: 82567LF Gigabit Network (8086:10bf)
+Sound_cards: 82801I (ICH9 Family) HD Audio (8086:293e)
+Boot_options: Did not call the BIOS
+Graphics_status: Graphics work, by default or out of the box
+Sound_status: Sound works, by default or out of the box
+Networking_status: Both Ethernet and WiFi cards work
+SD_status: My computer does not have a SD drive
+Restart_status: Haiku restarts smoothly
+Input_status: Trackpad and keyboard both work
+Power_status: Haiku detects the battery and shows charge time correctly
+Cam_status: My computer does not have a webcam, etc.
+Additional_notes: I have not tried firewire port yet but it is listed in media prefs.
+Contribution_date: 12/13/2020 14:13:08
+Contributor: anonymous
 
 Model: Origin EON15-X
 Rating: 3/4 - Haiku works with most of the components
@@ -92,3 +160,24 @@ Power status: Haiku does NOT detect the battery
 Cam status: Cameras do not work with Haiku on this computer
 Contribution date: 7/9/2020 14:22:21
 Contributor: RLeonhardt
+
+Model: Terra Mobile 1744
+Rating: 3/4 - Haiku works with most of the components
+Version: Haiku R1/Beta2 (latest stable release)
+Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
+Share_on_GitHub: Yes
+Startup_media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup_mode: Legacy BIOS/CSM
+RAM: 1024 MB
+CPU: Intel Pentium T4200
+GPU: Integrated
+Networking_cards: Integrated
+Sound_cards: Integrated
+Graphics_status: Graphics do not work
+Sound_status: Sound works, by default or out of the box
+Networking_status: Ethernet card(s) are working
+Restart_status: Haiku restarts smoothly
+Input_status: Trackpad and keyboard both work
+Power_status: Haiku does NOT detect the battery
+Contribution_date: 11/24/2020 7:20:01
+Contributor: Leon Gerstberger

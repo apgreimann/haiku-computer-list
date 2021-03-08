@@ -3,7 +3,7 @@
 Welcome. This is a maintained list of computers compatible with the Haiku operating system, submitted by the Haiku community.
 
 This GitHub page provides a place alongside the [Computers compatible with Haiku](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-current-version/9659)
-thread on the Haiku Forum, and [the Haiku Computer List](https://sites.google.com/view/hardware-list-for-haiku/) webpage for listing submitted hardware.
+thread on the Haiku Forum, and [the Haiku Computer List](https://www.haiku-computer-list.org/) webpage for listing submitted hardware.
 
 To add hardware for submission, please do *not* create a pull request. Instead, please use the [hardware submission form](https://docs.google.com/forms/d/e/1FAIpQLSceXPfiAXE4tSEDRaJo0CkTrFi3Sva6g3ZtoZUBC6oogA7PYw/viewform?usp=sf_link)
 or write your info manually per the template in the [computer list thread](https://discuss.haiku-os.org/t/computers-compatible-with-haiku-v2/7640) on the Haiku forum.

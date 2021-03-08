@@ -1,7 +1,7 @@
 # Thin clients
 
 Model: AcePC AK3 Mini-PC N3350/4GB
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes

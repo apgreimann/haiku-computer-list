@@ -1,7 +1,7 @@
 # Traditional desktops and workstations
 
 Model: ASUS D520MT_D520SF_D320MT
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -19,7 +19,7 @@ Contributor: mazbrili
 
 Model: Dell Dimension 1100
 Mainboard: Dell - SYS BD Dimension 1100 B110 S47 - 0WF887
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 32-bit x86 (i686, etc.)
 Share on GitHub: Yes
@@ -38,7 +38,7 @@ Contribution_date: 10/15/2020 0:58:18
 Contributor: none (Anonymous contributor)
 
 Model: Lenovo ThinkCentre M710q Tiny
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku Nightly (hrev54641)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -59,9 +59,9 @@ Contribution date: 10/14/2020 4:17:27
 Contributor: extrowerk
 
 Model: LENOVO (11BMS03Y00)
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
-Rating: 4/4 - Haiku works with all (or nearly all) components
 Share on GitHub: Yes
 Startup media: USB storage media (using Legacy/USB 2)
 Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)

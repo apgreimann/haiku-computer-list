@@ -1,30 +1,7 @@
 # Mobile workstations
 
-Model: (Apple) MacBook Pro 13 (2020) - see review notes
-Rating: 4/4 - Haiku works with all (or nearly all) components
-Version: Haiku R1/Beta2 (latest stable release)
-Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
-Share on GitHub: Yes, share on GitHub
-Startup media: USB (external) optical drive (CD/DVD media), Built-in optical drive (CD/DVD media)
-Startup mode: (U)EFI, but because my computer only supports EFI (64-bit)
-RAM: 32 GB
-CPU: (Intel)
-Graphics status: Graphics work, by default or out of the box
-Sound status: Sound works, by default or out of the box
-Networking status: WiFi card(s) are working
-SD status: SD drive is working with Haiku
-Restart status: Haiku restarts smoothly
-Input status: Trackpad and keyboard both work
-Power status: Haiku detects the battery and shows charge time correctly
-Cam status: Built-in cameras and/or webcam works
-Pen status: Touch/pen input works
-Additional notes: long live Haiku!
-Contribution date: 7/28/2020 14:49:38
-Contributor: Friederike
-Review notes: Unsure if this is truly a 2020 or if this report is totally accurate. SD card reader mentioned as working here where USB C MBPs generally don't have one; pen input mentioned and will assume this is referring to a Wacom tablet.
-
 Model: HP Pavillion dv5000 (Intel Centrino Duo + Geforce 7400 Gpu)
-Rating: 2/4 - Haiku needs extra options to start and/or barely works
+Machine_Rating: 2/4 - Haiku needs extra options to start and/or barely works
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 32-bit x86 (i686, etc.)
 Share on GitHub: Yes
@@ -48,7 +25,7 @@ Contribution date: 7/17/2020 13:04:28
 Contributor : Kitsune64
 
 Model: IBM ThinkPad X40
-Rating: 4/4 - Haiku works with all (or nearly all) components		
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components		
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 32-bit x86 (i686, etc.)
 Share_on_GitHub: Yes
@@ -69,7 +46,7 @@ Contribution_date: 11/28/2020 18:07:15
 Contributor: Europa
 
 Model: IBM ThinkPad X40
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 32-bit x86 (i686, etc.)
 Share_on_GitHub: Yes
@@ -91,7 +68,7 @@ Contribution_date: 11/28/2020 18:10:02
 Contributor: Europa
 
 Model: Lenovo ThinkPad E540
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku Nightly (hrev54525)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -113,7 +90,7 @@ Contribution date: 8/22/2020 5:57:11
 Contributor: none (Anonymous contributor)
 
 Model: Lenovo ThinkPad R400
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku Nightly (hrev54738)
 Architecture: 32-bit x86 (i686, etc.)
 Share on GitHub: Yes
@@ -138,7 +115,7 @@ Contribution_date: 12/13/2020 14:13:08
 Contributor: anonymous
 
 Model: Origin EON15-X
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -162,7 +139,7 @@ Contribution date: 7/9/2020 14:22:21
 Contributor: RLeonhardt
 
 Model: Terra Mobile 1744
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share_on_GitHub: Yes

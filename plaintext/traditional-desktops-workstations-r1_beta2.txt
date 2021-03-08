@@ -17,6 +17,17 @@ Networking status: Ethernet card(s) work
 Contribution date: 6/18/2020 20:40:01
 Contributor: mazbrili
 
+Model: Asus Tuf Gaming FX705GM
+Mainboard: Intel HM370
+Machine_Rating: [3/4 - Haiku works with most of the components]
+CPU: Intel Core i7-8750H 6 x 2.2 - 4.1 GHz, Coffee Lake-H
+GPU: NVIDIA GeForce GTX 1060 Mobile - 6144 MB, [Core speed]: 1405 MHz, [Clock speed]: 8000 MHz, GDDR5, ForceWare 398.35, Optimus
+RAM: 32768 MB, 2x 16 GB SO-DIMM DDR4-2666, Dual Channel
+Display: 17.30 [in.] 16:9, 1920 x 1080 Pixel 127 PPI, AU Optronics B173HAN04.0 (AUO409D), IPS, Full-HD, 144 Hz
+Contributor: muffin
+Contribution date: 03/02/2021
+HW_Link: [https://www.asus.com/us/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-FX705/]
+
 Model: Dell Dimension 1100
 Mainboard: Dell - SYS BD Dimension 1100 B110 S47 - 0WF887
 Machine_Rating: 3/4 - Haiku works with most of the components

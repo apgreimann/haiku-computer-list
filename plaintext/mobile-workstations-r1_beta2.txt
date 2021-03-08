@@ -114,6 +114,32 @@ Additional_notes: I have not tried firewire port yet but it is listed in media p
 Contribution_date: 12/13/2020 14:13:08
 Contributor: anonymous
 
+Model: Lenovo ThinkPad W700
+HW_Link: [https://support.lenovo.com/us/en/solutions/pd008648-detailed-specifications-thinkpad-w700-and-w700ds]
+Machine_Rating: 4/4; works very well
+Version: Haiku Nightly 32-bit, hrev54965
+Startup media: USB storage media (USB 2), Internal SSD or hard drive
+Started with: Legacy BIOS/CSM; UEFI not present
+Boot options: Did not try Haiku boot options
+CPU: Intel Core 2 Extreme X9100 @ 3.06 GHz (dual core, 6 MB L2 cache)
+GPU: NVIDIA Quadro FX 3700M (discrete)
+Sound cards: Intel 82801I HD Audio (ICH9 family)
+Networking cards: Intel WiFi Link 5300 (iprowifi4965); Intel 82567LM Gigabit Ethernet
+USB types: USB 2.0/legacy ports
+Webcams: Webcam not present on this model
+Memory: 8 GB DDR3 SDRAM (1067 MHz, SO-DIMM)
+CPU manufacturer: Intel
+Share on GitHub: Yes
+SD cards: Untested, unable to test. Ricoh R5C832 controller
+Sound status: Functional
+Networking status: Ethernet untested; WiFi fully functional
+Graphics status: Uses VESA driver by default, no specific driver present
+Power status: Battery recognized but capacity reported incorrectly; PowerStatus reports remaining percentage fine
+Restarting: Works fine
+Additional notes: This ThinkPad has a Wacom digitizer built into the palmrest (factory option), but I can’t test that because I don’t have the associated stylus. Screen resolution needed to be set to native manually after first boot, due to lack of NVIDIA-specific driver. Didn’t test Ethernet connectivity, because I don’t have a router, etc. to test it with. Otherwise all good.
+Contributor: Graeme Cooper
+Contribution date: 03/01/2021 16:55HST
+
 Model: Origin EON15-X
 Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)

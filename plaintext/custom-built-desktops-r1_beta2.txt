@@ -1,7 +1,7 @@
 # Custom-built desktops
 
 Mainboard: ASUS PRIME X370-PRO (AMD Ryzen 1800x)
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -22,7 +22,7 @@ Contribution date: 7/19/2020 14:49:10
 Contributor: none (anonymous contributor)
 
 Model: ASUS P4C800-E
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 32-bit x86 (i686, etc.)
 Share on GitHub: Yes
@@ -43,7 +43,7 @@ Contribution date: 9/20/2020 15:28:21
 Contributor: BlodTor
 
 Mainboard: ASUS P8268-V GEM3
-Rating: 4/4 - Haiku works with all (or nearly all) components							
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components							
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -64,7 +64,7 @@ Contributor: Druaga1
 
 Model: Custom Build
 Motherboard: ASRock 970 Extreme4
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -89,7 +89,7 @@ Contribution date: 8/25/2020 12:05:07
 Contributor: Jeremy Passarelli
 
 Model: ASUS P5KPL-C
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -106,7 +106,7 @@ Contribution date: 8/31/2020 1:10:39
 Contributor: Алексей Лещенко
 
 Model: Custom build [ASRock 970 Extreme4]
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share_on_GitHub: Yes
@@ -126,7 +126,7 @@ Contribution_date: 7/6/2020 17:26:35
 Contributor: Jeremy Passarelli
 
 Model: Custom-made (Intel D2500HN)
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -148,7 +148,7 @@ Contributor: Alberto
 
 Model: DIY
 Mainboard: Gigabyte B450 Aorus PRO
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku Nightly (hrev54428)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes
@@ -167,7 +167,7 @@ Contribution date: 7/19/2020 20:51:20
 Contributor: Lacey
 
 Model: Gigabyte GA-H61M-DS2
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share_on_GitHub: Yes

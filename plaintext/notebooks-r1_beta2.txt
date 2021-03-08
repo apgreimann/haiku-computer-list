@@ -1,7 +1,7 @@
 # Notebooks, netbooks, cloudbooks, thinbooks, etc.
 
 Model: Acer Aspire One AOA150
-Rating: 4/4 - Haiku works with all (or nearly all) components
+Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku Nightly (hrev54460)
 Architecture: 32-bit x86 (i686, etc.)
 Share on GitHub: Yes
@@ -48,7 +48,7 @@ Contribution date: 6/16/2020 9:08:21
 Contributor: bregrif
 
 Model: HP Mini 210
-Rating: Fairly well
+Machine_Rating: [2/4] Fairly well
 Version: Haiku R1/beta2 64-bit
 Startup media: USB storage media (USB 2)
 Startup mode: Legacy BIOS (this laptop doesn’t have UEFI)
@@ -77,7 +77,7 @@ Contributor: anon
 Contribution date: 2020-06-23 15:52 UTC
 
 Model: One Mix 3 Yoga
-Rating: 3/4 - Haiku works with most of the components
+Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)
 Architecture: 64-bit x86 (Intel x64/AMD64, etc.)
 Share on GitHub: Yes

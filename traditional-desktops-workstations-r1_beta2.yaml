@@ -1,5 +1,6 @@
 # Traditional desktops and workstations (from manufacturers/OEMs)
 
+Form_factor: "Desktops, towers, or workstations"
 Model: "ASUS D520MT_D520SF_D320MT"
 Rating: "3/4 - Haiku works with most of the components"
 Version: "Haiku R1/Beta2 (latest stable release)"
@@ -19,6 +20,7 @@ Contributor: "mazbrili"
 
 ---
 
+Form_factor: "Desktops, towers, or workstations"
 Model: "Asus Tuf Gaming FX705GM"
 Mainboard: "Intel HM370"
 Machine_Rating: "[3/4 - Haiku works with most of the components]"
@@ -32,6 +34,7 @@ HW_Link: "[https://www.asus.com/us/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming
 
 ---
 
+Form_factor: "Desktops, towers, or workstations"
 Model: "Dell Dimension 1100"
 Mainboard: "Dell - SYS BD Dimension 1100 B110 S47 - 0WF887"
 Rating: "3/4 - Haiku works with most of the components"
@@ -54,6 +57,50 @@ Contributor: "none (Anonymous contributor)"
 
 ---
 
+Form_factor: "Desktops, towers, or workstations"
+Model: "HP Compaq dc7900"
+HW_Link: "https://support.hp.com/us-en/document/c01570345"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (current stable release)"
+Architecture: "32-bit x86 (i686, ia32, etc.)"
+Share on GitHub: "Yes"
+Startup_media: "Standard SSD, hybrid SSHD, or hard drive (imaged or installed), Built-in optical drive (CD/DVD media)"
+Startup_mode: "Legacy BIOS/CSM"
+CPU: "Intel Core 2 Duo"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_status: "Ethernet card(s) are working"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Additional_notes: "https://youtu.be/KXspUB5sj4M"
+Contribution_date: "3/11/2021 23:42:30"
+Contributor: "TheJooomes"
+
+---
+
+Form_factor: "Desktops, towers, or workstations"
+Model: "HP Compaq dx6120 MT(EC817ES)"
+HW_Link: "https://support.hp.com/us-en/drivers/selfservice/hp-compaq-dx6120-microtower-pc/456580"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+Version: "Haiku R1/Beta2 (current stable release)"
+Architecture: "32-bit x86 (i686, ia32, etc.)"
+Share on GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "1GB"
+CPU: "Intel Pentium 4 3.20GHz, 1 Core 2 Processors"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_status: "Ethernet card(s) are working"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Additional_notes: "https://youtu.be/tHDB9MEdxtE, https://youtu.be/jfKFIMzhIYg"
+Contribution_date: "3/11/2021 23:50:47"
+Contributor: "WindowsFan9600"
+
+---
+
+Form_factor: "Desktops, towers, or workstations"
 Model: "Lenovo ThinkCentre M710q Tiny"
 Rating: "4/4 - Haiku works with all (or nearly all) components"
 Version: "Haiku Nightly (hrev54641)"

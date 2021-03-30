@@ -1,5 +1,32 @@
 # General-purpose portable computers (laptops)
 
+Form_factor: "Traditional laptops"
+Model: "Acer Aspire E1-731"
+Machine_Rating: "3/4 - Haiku works with most of the components"
+HW_Link: "https://www.acer.com/ac/en/ID/content/support-product/4914;-;"
+Version: "Haiku R1/Beta2 (current stable release)"
+Architecture: "64-bit x86 (Intel x64/AMD64, etc.)"
+Share_on_GitHub: "Yes"
+Startup_media: "USB storage media (using USB 3.0), USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "(U)EFI, by choice (64-bit)"
+RAM: "8 GB"
+CPU: "Intel Pentium 2020M"
+GPU: "Intel 3rd Gen Core processor Graphics Controller"
+Networking_cards: "Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet, Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter"
+Sound_cards: "Intel 7 Series/C216 Chipset Family High Definition Audio Controller"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, but with workarounds (such as OpenSound, etc.)"
+Networking_status: "Both Ethernet and WiFi cards work"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku shows the battery and shows the correct charge"
+Cam_status: "Cameras do not work with Haiku on this computer"
+Contribution_date: "3/28/2021 1:35:22"
+Contributor: "Jérémy Friche"
+Additional_notes: "Missing Wi-Fi adapter LED light, but Wi-Fi works."
+
+---
+
 Model: "[Acer] Aspire V7-482PG"
 Rating: "Works amazingly well"
 Version: "Haiku R1/beta2 (quick edit, the 64-bit version)"

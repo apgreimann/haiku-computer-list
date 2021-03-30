@@ -14,15 +14,15 @@ GPU: Intel 3rd Gen Core processor Graphics Controller
 Networking cards: Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet, Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter
 Sound cards: Intel 7 Series/C216 Chipset Family High Definition Audio Controller
 Graphics status: Graphics work, by default or out of the box
-Sound status: Sound works, but with workarounds (such as OpenSound, etc.)
-Networking status: Both Ethernet and WiFi cards work
+Sound status: Sound does NOT work
+Networking status: Ethernet card works
 Restart status: Haiku restarts smoothly
 Input status: Trackpad and keyboard both work
 Power status: Haiku shows the battery and shows the correct charge
 Cam status: Cameras do not work with Haiku on this computer
 Contribution date: 3/28/2021 1:35:22
 Contributor: Jérémy Friche
-Additional notes: Missing Wi-Fi adapter LED light, but Wi-Fi works.
+Additional notes: (WiFi is not working on this computer; first test had mentioned missing Wi-Fi adapter LED light, but Wi-Fi works.)
 
 Model: [Acer] Aspire V7-482PG
 Machine_Rating: Works amazingly well

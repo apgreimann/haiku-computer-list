@@ -14,7 +14,7 @@ GPU: Intel 3rd Gen Core processor Graphics Controller
 Networking cards: Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet, Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter
 Sound cards: Intel 7 Series/C216 Chipset Family High Definition Audio Controller
 Graphics status: Graphics work, by default or out of the box
-Sound status: Sound does NOT work
+Sound status: Sound works, but with workarounds (such as OpenSound, etc.)
 Networking status: Ethernet card works
 Restart status: Haiku restarts smoothly
 Input status: Trackpad and keyboard both work

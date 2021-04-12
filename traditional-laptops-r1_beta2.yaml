@@ -338,6 +338,33 @@ Contribution_date: "6/11/2020 16:43:08"
 
 ---
 
+Form_factor: "Traditional Laptops"
+Model: "Lenovo X201"
+Rating: "4/4 - Haiku works with all (or nearly all) components"
+HW_Link: "https://support.lenovo.com/us/en/solutions/pd010141-detailed-specifications-thinkpad-x201-x201s"
+Version: "Haiku Nightly (hrev55031)"
+Architecture: "32-bit x86 (i686, ia32, etc.)"
+Share on GitHub: "Yes"
+Startup_media: "USB storage media (using Legacy/USB 2), Standard SSD, hybrid SSHD, or hard drive (imaged or installed)"
+Startup_mode: "Legacy BIOS/CSM"
+RAM: "8GB"
+CPU: "Intel i5 vPro Iron Lake Mobile"
+GPU: "Intel HD Iris Iron Lake Mobile"
+Networking_cards: "Intel ipro1000 wired, ipro4965"
+Sound_cards: "Intel HD (via Open Sound - built in driver does not work)"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, but with workarounds (such as OpenSound, etc.)"
+Networking_status: "Both Ethernet and WiFi cards work"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Mouse/pointing device and keyboard both work"
+Power_status: "Haiku shows the battery and shows the correct charge"
+Additional_notes: "Wifi sometimes breaks - needs restart to work again. Sound: follow instructions to disable (blocklist) hd driver and use OpenSound"
+Contribution_date: "4/11/2021 10:17:28"
+Contributor: "pamen"
+
+---
+
 Model: "(Lenovo) Thinkpad x220"
 Rating: "4/4 - Haiku works with all (or nearly all) components"
 Version: "Haiku R1/Beta2 (latest stable release)"

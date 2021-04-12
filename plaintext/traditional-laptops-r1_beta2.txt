@@ -57,6 +57,42 @@ Additional notes (multi-line):
 Contributor: anon
 Contribution date: 2020-06-23 5:58 UTC (updated to add more hardware details at 16:24 UTC)
 
+Model: Asus Tuf Gaming FX705GM
+Mainboard: Intel HM370
+Machine_Rating: [3/4 - Haiku works with most of the components]
+CPU: Intel Core i7-8750H 6 x 2.2 - 4.1 GHz, Coffee Lake-H
+GPU: NVIDIA GeForce GTX 1060 Mobile - 6144 MB, [Core speed]: 1405 MHz, [Clock speed]: 8000 MHz, GDDR5, ForceWare 398.35, Optimus
+RAM: 32768 MB, 2x 16 GB SO-DIMM DDR4-2666, Dual Channel
+Display: 17.30 [in.] 16:9, 1920 x 1080 Pixel 127 PPI, AU Optronics B173HAN04.0 (AUO409D), IPS, Full-HD, 144 Hz
+Contributor: muffin
+Contribution date: 03/02/2021
+HW_Link: [https://www.asus.com/us/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-FX705/]
+
+Model: Asus TUF Gaming FX705GM
+Rating: 3/4 - Haiku works with most of the components
+HW_Link: https://www.asus.com/us/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-FX705/
+Version: Haiku R1/Beta2
+Architecture: 64-bit x86
+Share on GitHub: Yes
+Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
+Startup mode: (U)EFI, by choice (64-bit)
+RAM: 28 GB
+CPU: Intel i7-8750H 6 x 2.2 - 4.1 GHz, Coffee Lake-H
+GPU: Nvidia Geforce GTX 1060 Mobile 6GB
+Networking cards: Intel Wireless-AC 9560 [Jefferson Peak] (Not working!)
+Sound cards: Intel HDA Audio
+Graphics status: Graphics work, but in Safe Graphics mode or Vesa
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: SD drive works with Haiku
+Restart status: Haiku restarts smoothly
+Input status: Only the keyboard works
+Power status: Haiku shows the battery and shows the correct charge
+Cam status: Cameras do not work with Haiku on this computer
+Additional notes: Use Ethernet/Wifi bridge as a workaround, so wifi is possible
+Contribution date: 3/17/2021 15:47:08
+Contributor: muffin
+
 Model: ASUS TUF Gaming FX504
 Machine_Rating: 4/4 - Haiku works with all (or nearly all) components
 Version: Haiku R1/Beta2

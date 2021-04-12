@@ -76,32 +76,6 @@ Power status: Haiku does NOT detect the battery
 Contribution date: 8/24/2020 10:22:51
 Contributor: anon
 
-Form_factor: Traditional laptops
-Model: Asus TUF Gaming FX705GM
-Rating: 3/4 - Haiku works with most of the components
-HW_Link: https://www.asus.com/us/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-FX705/
-Version: Haiku R1/Beta2
-Architecture: 64-bit x86
-Share on GitHub: Yes
-Startup media: Standard SSD, hybrid SSHD, or hard drive (imaged or installed)
-Startup mode: (U)EFI, by choice (64-bit)
-RAM: 28 GB
-CPU: Intel i7-8750H 6 x 2.2 - 4.1 GHz, Coffee Lake-H
-GPU: Nvidia Geforce GTX 1060 Mobile 6GB
-Networking cards: Intel Wireless-AC 9560 [Jefferson Peak] (Not working!)
-Sound cards: Intel HDA Audio
-Graphics status: Graphics work, but in Safe Graphics mode or Vesa
-Sound status: Sound works, by default or out of the box
-Networking status: Ethernet card(s) are working
-SD status: SD drive works with Haiku
-Restart status: Haiku restarts smoothly
-Input status: Only the keyboard works
-Power status: Haiku shows the battery and shows the correct charge
-Cam status: Cameras do not work with Haiku on this computer
-Additional notes: Use Ethernet/Wifi bridge as a workaround, so wifi is possible
-Contribution date: 3/17/2021 15:47:08
-Contributor: muffin
-
 Model: Dell Inspiron 2200
 Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)

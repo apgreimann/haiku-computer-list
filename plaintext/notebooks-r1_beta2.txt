@@ -76,6 +76,27 @@ Additional notes (multi-line):
 Contributor: anon
 Contribution date: 2020-06-23 15:52 UTC
 
+Form_factor: Notebook
+Model: thinkpad x1 carbon gen 9
+Machine_Rating: 4 - Haiku works well on this computer
+Version: Haiku R1/Beta2
+Architecture: 64-bit x86 (x86_64/AMD64)
+Share on GitHub: Yes
+Startup_media: Flash drive or external drive (USB 3)
+Startup_mode: 64-bit EFI/UEFI
+RAM: 32GB
+CPU: Intel processor
+Graphics_status: Graphics work, by default or out of the box
+Sound_status: Sound works, by default or out of the box
+Networking_status: WiFi card(s) are working
+SD_status: SD drive works with Haiku
+Restart_status: Haiku restarts smoothly
+Input_status: Trackpad and keyboard both work
+Power_status: Haiku shows the battery and shows the correct charge
+Cam_status: Cameras do not work with Haiku on this computer
+Contribution_date: 4/13/2021 5:53:28
+Contributor: Jessicah
+
 Model: One Mix 3 Yoga
 Machine_Rating: 3/4 - Haiku works with most of the components
 Version: Haiku R1/Beta2 (latest stable release)

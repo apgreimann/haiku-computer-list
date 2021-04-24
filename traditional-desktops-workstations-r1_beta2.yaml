@@ -43,6 +43,28 @@ Contributor: "none (Anonymous contributor)"
 
 ---
 
+Form_factor: "Workstation/Traditional Desktop"
+Model: "[HP] p6-2013tr"
+Machine_Rating: "3 - Haiku works with most things on this computer"
+Version: "Haiku R1/Beta2"
+Architecture: "32-bit x86"
+Share_on_GitHub: "Yes"
+Startup_media: "Flash drive or external drive (Legacy/USB 2)"
+Startup_mode: "Legacy BIOS or CSM"
+RAM: "4 GB"
+CPU: "Intel i5-2400"
+GPU: "AMD RADEON 6450 HD"
+Graphics_status: "Graphics work, by default or out of the box"
+Sound_status: "Sound works, by default or out of the box"
+Networking_status: "Ethernet card(s) are working"
+SD_status: "My computer does not have a SD drive"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Mouse/pointing device and keyboard both work"
+Contribution_date: "4/15/2021 10:28:39"
+Contributor: "husaral"
+
+---
+
 Form_factor: "Desktops, towers, or workstations"
 Model: "HP Compaq dc7900"
 HW_Link: "https://support.hp.com/us-en/document/c01570345"

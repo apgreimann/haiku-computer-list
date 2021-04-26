@@ -242,3 +242,28 @@ Restart_status: Haiku restarts smoothly
 Input_status Mouse/pointing device and keyboard both work
 Contribution_date: 3/16/2021 18:18:04
 Contributor: Koala
+
+Form factor: Custom machines
+Model: MSI B450 Pro w/ Ryzen 5 3400G
+Mainboard: MSI B450 Pro
+Machine Rating: 4 - Haiku works well on this computer
+HW Link: https://www.msi.com/Motherboard/B450-A-PRO.html
+Version: Haiku R1/Beta2
+Architecture: 64-bit (x64/AMD64)
+Share to GitHub: Yes
+Startup media: Flash drive or external drive (USB C), NVMe/PCI Express drive or a M.2 drive
+Startup mode: 64-bit EFI/UEFI
+RAM: 16gb
+CPU: AMD Ryzen 5 3400G
+GPU: Vega 11 integrated graphics. CPU is an APU.
+Networking cards: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 15)
+Sound cards: AMD Family 17h (Models 10h-1fh) HD Audio Controller
+Graphics status: Graphics work, by default or out of the box
+Sound status: Sound works, by default or out of the box
+Networking status: Ethernet card(s) are working
+SD status: My computer does not have a SD drive	
+Restart status: Haiku restarts smoothly
+Input status: Mouse/pointing device and keyboard both work
+Additional notes: Pretty much a perfect desktop experience with this processor & motherboard.
+Contribution date: 4/25/2021 15:49:44
+Contributor: Wes / trashHeap

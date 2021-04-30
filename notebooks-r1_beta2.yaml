@@ -24,6 +24,32 @@ Contributor: "anonymous"
 
 ---
 
+Form factor: "Notebook"
+Model: "ASUS Eeepc701"
+Machine_Rating: "B - Haiku works with most things on this computer"
+Version: "Haiku R1/Beta2"
+Architecture: "32-bit (x86)"	
+Share_to_GitHub: "Yes"
+Startup_media: "Flash drive (Legacy/USB 2)"
+Startup_mode: "32-bit EFI/UEFI (less common, for embedded or older computers)"
+RAM: "1 GB"
+CPU: "Intel Celeron M ULV 900MHz"
+GPU: "Integrated Intel GMA 900 GPU"
+Networking_cards: "Wireless: 802.11b/g Atheros"
+Sound_cards: "HDA"
+Special_options: "Started from a saved state (like going back to Nightly 54998 on 55063)"
+Graphics_status: "Graphics work, by default or out of the box"
+Networking_status: "WiFi card(s) are working"
+SD_status: "SD drive works with Haiku"
+Restart_status: "Haiku restarts smoothly"
+Input_status: "Trackpad and keyboard both work"
+Power_status: "Haiku shows the battery and shows the correct charge"
+Cam_status: "Cameras do not work with Haiku on this computer"
+Contribution_date: "4/29/2021 10:40:42"
+Contributor: "Otello Scapecchi - Florence Italy"
+
+---
+
 Model: "[ASUS VivoBook] x510qa"
 Rating: "4/4 - Haiku works with all (or nearly all) components"
 Version: "Haiku R1/Beta2 (latest stable release)"

@@ -71,6 +71,31 @@ Touch status: does not work
 Contribution date: 6/16/2020 9:08:21
 Contributor: bregrif
 
+Form_factor: Notebooks
+Model: Dell Latitude E6440
+HW_Link: https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/us/Dell-Latitude-E6440-spec-sheet.pdf
+Version: Haiku Nightly hrev55079
+Architecture: 64-bit (x64/AMD64)
+Machine_Rating: A - Haiku works well on this computer
+Share_to_GitHub: Yes
+Startup_media: Built in SSD, hybrid SSHD, or traditional HDD, Flash drive or external drive (USB 3), Flash drive (Legacy/USB 2)
+Startup_mode: Both EFI and CSM/BIOS
+RAM: 6 GB
+CPU: Intel i5-4200M
+GPU: Intel HD 4600
+Networking_cards: Intel Centrino Advanced N-6235 (WIFI), Intel I217-LM (Ethernet)
+Sound_cards: Intel 8 Series/C220
+Graphics_status: Graphics work okay
+Sound_status: Sound works okay
+Networking_status: Both WiFi and wired networking works
+Restart_status: Great - Haiku restarts smoothly
+Input_status: Full - Trackpad/mouse and keyboard both work	
+Camera_status: No - Cameras do not work with Haiku on this computer
+Touch_status: Yes - Stylus/pen input works (on an external tablet like Wacom)
+Additional_notes: Couldn't test battery because mine is dead, and couldn't test SD Card slot because I broke it ::::P. Anyways, everything works when starting in UEFI mode, although the brightness is set to 0 which means that the backlight is entirely off, you need a flash light pointed to the screen to go to settings and increase the brightness. The nipple works. The touchpad does too but is recognized as a PS2 mouse so gestures like 2 finger scroll don't work. The speakers work perfectly, the headphone jack is a little finicky when on a dualboot system however. Each time you use the other OS, you have to reboot twice for the headphones to work. The webcam is wired to USB, and that isn't implemented to haiku yet, so even though I answered No, it might work when that is implemented. VGA output mirrors the screen but is very hazy. The media keys don't work. Finally, Haiku DOES boot successfully on CSM, however, the built in keyboard and touchpad don't work. External ones via USB work tho. Thanks for the awesome work! The graphics work in this survey is really neat!!
+Contribution_date: 5/8/2021 15:10:16
+Contributor: kQuote03
+
 Model: HP Mini 210
 Machine_Rating: [2/4] Fairly well
 Version: Haiku R1/beta2 64-bit

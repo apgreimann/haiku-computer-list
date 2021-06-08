@@ -66,27 +66,6 @@ Contributor: "husaral"
 ---
 
 Form_factor: "Desktops, towers, or workstations"
-Model: "HP Compaq dc7900"
-HW_Link: "https://support.hp.com/us-en/document/c01570345"
-Rating: "4/4 - Haiku works with all (or nearly all) components"
-Version: "Haiku R1/Beta2 (current stable release)"
-Architecture: "32-bit x86 (i686, ia32, etc.)"
-Share on GitHub: "Yes"
-Startup_media: "Standard SSD, hybrid SSHD, or hard drive (imaged or installed), Built-in optical drive (CD/DVD media)"
-Startup_mode: "Legacy BIOS/CSM"
-CPU: "Intel Core 2 Duo"
-Graphics_status: "Graphics work, by default or out of the box"
-Sound_status: "Sound works, by default or out of the box"
-Networking_status: "Ethernet card(s) are working"
-SD_status: "My computer does not have a SD drive"
-Restart_status: "Haiku restarts smoothly"
-Additional_notes: "https://youtu.be/KXspUB5sj4M"
-Contribution_date: "3/11/2021 23:42:30"
-Contributor: "TheJooomes"
-
----
-
-Form_factor: "Desktops, towers, or workstations"
 Model: "HP Compaq dx6120 MT(EC817ES)"
 HW_Link: "https://support.hp.com/us-en/drivers/selfservice/hp-compaq-dx6120-microtower-pc/456580"
 Rating: "4/4 - Haiku works with all (or nearly all) components"

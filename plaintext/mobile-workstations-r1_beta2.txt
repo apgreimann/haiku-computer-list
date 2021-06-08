@@ -126,7 +126,7 @@ GPU: NVIDIA Quadro FX 3700M (discrete)
 Sound cards: Intel 82801I HD Audio (ICH9 family)
 Networking cards: Intel WiFi Link 5300 (iprowifi4965); Intel 82567LM Gigabit Ethernet
 USB types: USB 2.0/legacy ports
-Webcams: Webcam not present on this model
+Webcams: Webcam not present on this model; was factory optional component
 Memory: 8 GB DDR3 SDRAM (1067 MHz, SO-DIMM)
 CPU manufacturer: Intel
 Share on GitHub: Yes
@@ -134,7 +134,7 @@ SD cards: Untested, unable to test. Ricoh R5C832 controller
 Sound status: Functional
 Networking status: Ethernet untested; WiFi fully functional
 Graphics status: Uses VESA driver by default, no specific driver present
-Power status: Battery recognized but capacity reported incorrectly; PowerStatus reports remaining percentage fine
+Power status: Battery recognized, working properly
 Restarting: Works fine
 Additional notes: This ThinkPad has a Wacom digitizer built into the palmrest (factory option), but I can’t test that because I don’t have the associated stylus. Screen resolution needed to be set to native manually after first boot, due to lack of NVIDIA-specific driver. Didn’t test Ethernet connectivity, because I don’t have a router, etc. to test it with. Otherwise all good.
 Contributor: Graeme Cooper
